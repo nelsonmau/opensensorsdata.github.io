@@ -1,0 +1,24 @@
+<footer id="footer">
+
+  <div class="lockup">
+    
+    <div class="content-wrap">
+      <nav>
+        {% for item in site.data.settings.menu %}
+          <a href="{{ item.url }}">{{ item.name }}</a>
+        {% endfor %}
+      </nav>
+      
+      <p class="info"><i class="fa fa-copyright fa-lg"></i> {{ site.time | date: '%Y' }} <a href="opensensorsdata.it">opensensorsdata srl</a> except logos and name all different content are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><i class="fa fa-creative-commons fa-lg"></i>-BY-SA</a>  for another content see <a href=""><strong>credits</strong></a></p>
+      <p class="info">{{ site.data.settings.title }} is  brought to you by <a href="">{{ site.data.settings.author }}</a> <strong>VAT IVA</strong> 04294660271</p> 
+      <p class="info"><a href="mailto:contact@opensensorsdata.it"><i class="fa fa-share fa-lg"></i> contact@opensensorsdata.it</a> // <i class="fa fa-reply-all fa-flip-horizontal fa-lg"></i> pec (certified email only for Italy) opensensorsdata@pec.it</p>
+      <p class="info"><i class="fa fa-university fa-lg"></i> IBAN IT 56 G 02008 02021 000103730837 // <i class="fa fa-home fa-lg"></i>(administrative office) via Daniele Manin, 60 Venezia Italy</p>
+      <p class="info"><a href="//www.iubenda.com/privacy-policy/772496" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script></p>
+      <p class="info"><a href="">site version 1.0</a>
+      <p class="info"><a href=""><i class="fa fa-arrow-circle-up fa-3x"></i> slide up</a>
+      
+    </div>
+    
+  </div>
+
+</footer>
