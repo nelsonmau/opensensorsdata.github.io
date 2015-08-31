@@ -1,0 +1,18 @@
+<section class="alt-section section-manifesto">
+
+	<h1 id="manifesto"><a href="#about-me"><i class="fa fa-angle-up fa-lg"></i></a>manifesto<a href="#contact"><i class="fa fa-angle-down fa-lg"></i></a></h1>
+	
+	<div class="manifesto">
+		{{ site.data.settings.manifesto | markdownify }}
+	</div>
+	
+<!-- download-->
+	<div class="download">
+	  {% for link in site.data.settings.manifesto-download %}
+	  <a href="assets/img/manifesto/{{ link.link }}">{{ link.icon }}</a>
+	  {% endfor %}
+	</div>
+
+	
+
+</section>

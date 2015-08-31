@@ -1,0 +1,17 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+logo: "osd_simple_200.svg"
+hero: "kndnsk.svg"
+avatar: "osd_simple_200.svg"
+
+# Colors
+
+accent: "#c99065"
+
+textColor: "#666"linkColor: "#002fa7"linkColorHover: "#ea5480"headlineColor: "#333"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#fff"
