@@ -4,6 +4,9 @@
 title: opensensorsdata
 description: shape data to shape society
 email: contact@opensensorsdata.it
+author: opensensorsdata srl
+url: opensensorsdata.it
+baseurl: /
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -21,9 +24,14 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: '// shape data to shape society // We are an internet company committed to provide open access to data together with tools to combine, compare and shape meaningful information. Our goal is to empower people to shape the society by shaping data, brick after brick'
+  rel-author: 'http://doc.opensensorsdata.it/pages/about/'
+  rel-publisher: 'https://medium.com/opensensorsdata-review'
+  image: 'assets/img/sfondo/kndnsk_facebook.png'
+  fb_appid: 306483466188566
+  fb_admins: https://www.facebook.com/luca.corsato
+
+
 
 #-------------------------------
 # Google Analytics Section
