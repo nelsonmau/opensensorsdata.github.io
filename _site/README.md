@@ -1,10 +1,24 @@
-# Thanks DevTips Guys!This site was made following the lessons on [YouTube of DevTips](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI): thanks guys, thanks Travis, without you we could not have done.
+# Artists Theme
 
 This site is being built on YouTube, one week at a time. See all the videos up to date here: [How to build a professional website from start to finish](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 
 Subscribe to [the channel](https://www.youtube.com/user/DevTipsForDesigners) to follow along as we develop this project step by step from the beginning.
 
+## How to install/use
 
+In order to get this super fantastic [Jekyll](http://jekyllrb.com) powered template for Artists follow this simple step: 
+
+* If you haven't ruby on your computer, install it. 
+* Then run in your terminal `$ gem install jekyll`
+* Move/`cd` to a folder, always in your terminal, in which you want to insert the *Artists-Theme*
+* Run `git clone https://github.com/DevTips/Artists-Theme.git`
+* Then `cd Artists-Theme`
+* `jekyll serve --watch`
+* **DONE**
+
+Isn't it fantastic?
+
+Learn how to [use Jekyll on windows](http://jekyll-windows.juthilo.com/) (if that's your thing :)
 
 
 
@@ -43,6 +57,16 @@ _A big thank you to these creators for contributing sample projects for the "wor
 - [Jieyu Xiong](https://www.behance.net/gallery/15063575/Fresh-It-Up-App-Design)
 
 
+![The Design](/assets/img/the_design.jpg)
 
+
+_Artist Themes in the wild:_
+- [limestudios](http://limestudios.net/)
+
+
+---
+
+
+This is a free Jekyll Theme that is currently being developed in weekly episodes on the [DevTips YouTube channel](http://youtube.com/devtipsfordesigners). 
 
 

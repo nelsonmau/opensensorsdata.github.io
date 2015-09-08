@@ -4,9 +4,6 @@
 title: opensensorsdata
 description: shape data to shape society
 email: contact@opensensorsdata.it
-author: opensensorsdata srl
-url: opensensorsdata.it
-baseurl: /
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -18,19 +15,15 @@ menu:
 - {name: contact, url: '#contact'}
 - {name: documents, url: 'http://doc.opensensorsdata.it'}
 
-
 #-------------------------------
 # SEO Section
 
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: '// shape data to shape society // We are an internet company committed to provide open access to data together with tools to combine, compare and shape meaningful information. Our goal is to empower people to shape the society by shaping data, brick after brick'
-  rel-author: 'http://doc.opensensorsdata.it/pages/about/'
-  rel-publisher: 'https://medium.com/opensensorsdata-review'
-  image: 'assets/img/sfondo/kndnsk_facebook.png'
-  fb_appid: 306483466188566
-  fb_admins: https://www.facebook.com/luca.corsato
+  description: 'Provide a description for your website to make it visible to search engines.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
 
 #-------------------------------
 # Google Analytics Section
@@ -40,7 +33,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-#google-analytics-ua: UA-62992830-1
+google-analytics-ua: UA-62992830-1
 
 #-------------------------------
 # About Section
@@ -60,6 +53,7 @@ activity:
 - {title: 'share and reuse your bricks',
   image: 'HSLego.svg',
   content: 'publish your bricks and share with your community or use our private workspaces with your collaborators'}
+
 
 
 #-------------------------------
@@ -91,7 +85,6 @@ manifesto-download:
 - {icon: '<i class="fa fa-file-image-o"></i> en', link: 'manifesto_2015_v1_eng.png'}
 - {icon: '<i class="fa fa-file-pdf-o"></i> it', link: 'manifesto_2015_v1_ita.pdf'}
 - {icon: '<i class="fa fa-file-image-o"></i> it', link: 'manifesto_2015_v1_ita.png'}
-
 
 
 
@@ -172,8 +165,6 @@ crew:
   linkedin: 'https://www.linkedin.com/in/simonecortesi/en',
   github: 'cortesimone',
   mail: 'simone@opensensorsdata.it'}
-
-
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

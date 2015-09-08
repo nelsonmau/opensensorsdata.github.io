@@ -7,9 +7,16 @@
 
 {% for activity in site.data.settings.activity %}
   <div class="activity">
-    <h1><a href=""><i class="fa fa-angle-up fa-lg"></i></a>{{ activity.title }}<a href="#manifesto"><i class="fa fa-angle-down fa-lg"></i></a></h1>    <figure class="activity-image">	    <a href=""><img src="assets/img/about/images/{{ activity.image }}" alt="activity image"</img></a>	    <figcaption>		    <p class="content">{{ activity.content }}</p>	    </figcaption>    </figure>
+    <h1><a href=""><i class="fa fa-angle-up fa-lg"></i></a>{{ activity.title }}<a href="#manifesto"><i class="fa fa-angle-down fa-lg"></i></a></h1>
+    <figure class="activity-image">
+      <a href=""><img src="assets/img/about/images/{{ activity.image }}" alt="activity image"</img></a>
+      <figcaption>
+        <p class="content">{{ activity.content }}</p>
+      </figcaption>
+    </figure>
   </div>    
 {% endfor %}
     
 
 </section>
+

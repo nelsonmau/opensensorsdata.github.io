@@ -1,4 +1,6 @@
-# Thanks DevTips Guys!This site was made following the lessons on [YouTube of DevTips](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI): thanks guys, thanks Travis, without you we could not have done.
+# Thanks DevTips Guys!
+
+This site was made following the lessons on [YouTube of DevTips](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI): thanks guys, thanks Travis, without you we could not have done.
 
 This site is being built on YouTube, one week at a time. See all the videos up to date here: [How to build a professional website from start to finish](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 
