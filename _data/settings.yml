@@ -2,6 +2,7 @@
 # General Site Settings
 
 title: opensensorsdata
+name: opensensorsdata
 description: shape data to shape society
 email: contact@opensensorsdata.it
 author: opensensorsdata srl
