@@ -154,14 +154,14 @@ social:
 crew:
 - {face: 'corsato_thumb.svg', 
   name: 'luca corsato', 
-  rule: 'administrator', 
+  rule: 'a man with a mustache', 
   twitter: 'lucacorsato', 
   linkedin: 'https://it.linkedin.com/in/lucacorsato',
   github: 'lucacorsato',
   mail: 'luca@opensensorsdata.it'}
 - {face: 'raimondi_thumb.svg', 
   name: 'andrea raimondi', 
-  rule: 'philosopher', 
+  rule: 'climbler metaphysician', 
   twitter: 'raimondiand', 
   linkedin: 'https://www.linkedin.com/pub/andrea-raimondi/31/177/199',
   github: 'raimondiand',
