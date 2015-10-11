@@ -17,6 +17,7 @@ menu:
 - {name: <i class="fa fa-twitter"></i>, url: 'http://twitter.com/osd_it'}
 - {name: <i class="fa fa-medium"></i>, url: 'https://medium.com/opensensorsdata-review'}
 - {name: manifesto, url: '#manifesto'}
+- {name: work, url: '#work'}
 - {name: contact, url: '#contact'}
 - {name: documents, url: 'http://doc.opensensorsdata.it'}
 
@@ -69,26 +70,11 @@ activity:
 #-------------------------------
 # Manifesto Section
 
-manifesto: >
-  Internet is an agreement on how different networks can work together. We hold the internet in common, it doesn’t belong to anyone in particular. For those who agree, Internet is a public good –everyone can use it and improve it– but the key value of the net is not built-in in its architecture. Internet is not optimised for specific purposes; in itself, internet is stupid –does nothing more than moving bits. It has no center, its key value is at its ends. Counting on the internet, everyone at each edge can offer services built on top of it. Counting on the open, unowned agreement upon which the Internet is based, everyone at each edge can share data. The Internet enable a free market of innovation, where people with business ideas are not just free to engage with a marketplace, they create a marketplace though conversations and connections. Edges are not points at which the internet ends, but where its value begin to be exploited. We are among those edges. We are an Internet company. That’s our posit.
-  
-  
-  [![osd_icon](assets/img/manifesto/osd_black_20.svg)](#manifesto)
-  
-  
-  Internet Companies are defined by what they own and see their markets as a target. We don’t. We believe this is a fundamental misunderstanding of internet enabled innovation which is, at first, business and social innovation. We don’t target our market, we discuss with it: values, practices and a genuine points of view. There are no barbed wire fences between us and our customers; and will never be. If companies stop where community begins, then there is no market to innovate but just profit to make. Building fences might foster your business, for a while. But innovation is not about drawing “the Big Money” from the “Cash Cows”. It’s about making “the Big Money” a networked output, growing values between the edges of the net by opening up information. The innovation we hunt for is a collective pursuing of opportunities by informed citizens, customers and business people, as we are. It’s a long run. That’s what radical changes require.   
-  
-  
-  [![osd_icon](assets/img/manifesto/osd_black_20.svg)](#manifesto)
-  
-  
-  This is our commitment: to build an open economy in a networked market, where business concerns do not diverge from human concerns. This form of business is made possible by a market where the quality of infomation is grounded on open reuse and the professional experience of those who produce and transform it. No fences does not mean no rules, just new methods to empower people and their expertise. Our goal is to develop open business models and reuse strategies to transform the opportunities offered by a networked market and systematically capture their values.  
-  
-   
-  [![osd_icon](assets/img/manifesto/osd_black_20.svg)](#manifesto)
-  
-  
-  We are civic entrepreneurs, that’s our values and our protocols. Will you join us?
+manifesto:
+- {id: '1', intro: 'Internet is an agreement on how different networks can work together. We hold the internet in common, it doesn’t belong to anyone in particular.', total: 'For those who agree, Internet is a public good –everyone can use it and improve it– but the key value of the net is not built-in in its architecture. Internet is not optimised for specific purposes; in itself, internet is stupid –does nothing more than moving bits. It has no center, its key value is at its ends. Counting on the internet, everyone at each edge can offer services built on top of it. Counting on the open, unowned agreement upon which the Internet is based, everyone at each edge can share data. The Internet enable a free market of innovation, where people with business ideas are not just free to engage with a marketplace, they create a marketplace though conversations and connections. Edges are not points at which the internet ends, but where its value begin to be exploited. We are among those edges. We are an Internet company. That’s our posit.'}
+- {id: '2', intro: 'Internet Companies are defined by what they own and see their markets as a target. We don’t.', total: ' We believe this is a fundamental misunderstanding of internet enabled innovation which is, at first, business and social innovation. We don’t target our market, we discuss with it: values, practices and a genuine points of view. There are no barbed wire fences between us and our customers; and will never be. If companies stop where community begins, then there is no market to innovate but just profit to make. Building fences might foster your business, for a while. But innovation is not about drawing “the Big Money” from the “Cash Cows”. It’s about making “the Big Money” a networked output, growing values between the edges of the net by opening up information. The innovation we hunt for is a collective pursuing of opportunities by informed citizens, customers and business people, as we are. It’s a long run. That’s what radical changes require.'}  
+- {id: '3', intro: 'This is our commitment: to build an open economy in a networked market, where business concerns do not diverge from human concerns.', total: ' This form of business is made possible by a market where the quality of infomation is grounded on open reuse and the professional experience of those who produce and transform it. No fences does not mean no rules, just new methods to empower people and their expertise. Our goal is to develop open business models and reuse strategies to transform the opportunities offered by a networked market and systematically capture their values.'}
+- {id: '4', intro: 'We are civic entrepreneurs, that’s our values and our protocols.', total: '<big>Will you join us?</big>'}
   
 manifesto-download:
 - {icon: '<i class="fa fa-file-pdf-o"></i> en', link: 'manifesto_2015_v1_eng.pdf'}
@@ -104,14 +90,14 @@ manifesto-download:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Archeostickers, folder: 'proj-1', file: 'work/proj-1.html'}
+#- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
+#- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
+#- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
+#- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+#- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+#- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+#- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 

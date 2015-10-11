@@ -1,10 +1,21 @@
-<section class="alt-section section-manifesto">
+<section class="section-manifesto">
 
-	<h1 id="manifesto"><a href="#about-me"><i class="fa fa-angle-up fa-lg"></i></a>manifesto<a href="#contact"><i class="fa fa-angle-down fa-lg"></i></a></h1>
+	<h1 id="manifesto"><a href="#about-me"><i class="fa fa-angle-up fa-lg"></i></a>manifesto<a href="#work"><i class="fa fa-angle-down fa-lg"></i></a></h1>
 	
+
 	<div class="manifesto">
-		{{ site.data.settings.manifesto | markdownify }}
+		{% for manifesto in site.data.settings.manifesto %}
+	  	<input type="checkbox" class="read-more-state" id="{{ manifesto.id }}" />
+	  	<p class="read-more-wrap">{{ manifesto.intro }} <span class="read-more-target">{{ manifesto.total }}</span></p>
+	  
+	  	<label for="{{ manifesto.id }}" class="read-more-trigger"></label>
+	 	{% endfor %}
 	</div>
+
+	
+
+
+
 	
 <!-- download-->
 	<div class="download">

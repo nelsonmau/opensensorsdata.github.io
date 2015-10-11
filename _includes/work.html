@@ -1,6 +1,6 @@
 <section class="alt-section section-work">
   
-  <h3 id="work">Work</h3>
+  <h1 id="work"><a href="#manifesto"><i class="fa fa-angle-up fa-lg"></i></a>Work<a href="#contact"><i class="fa fa-angle-down fa-lg"></i></a></h1>
   {% for project in site.data.settings.projects %}
     <input type="radio" name="trigger" class="trigger" id="{{ project.folder }}" />
   {% endfor %}
@@ -27,7 +27,7 @@
     <div class="work-wrap">
       <div class="work-container">
       <label for="return">
-        <div class="work-return">{% include icons/icon-back.html %}</div>
+        <div class="work-return"><i class="fa fa-3x fa-angle-left"></i></div>
       </label>
       <h4 class="project-title"></h4>
       <div class="project-load"></div>

@@ -37,7 +37,8 @@
   
 .thumb-container
   display: block
-  max-width: 960px
+  /* max-width: 960px */
+  max-width: 512px
   margin: 0px auto
   +clearfix
   
@@ -45,7 +46,8 @@
     position: relative
     display: block
     float: left
-    width: 25%
+    /* width: 25% */
+    width: 100%
     cursor: pointer
     
     .thumb-unit
@@ -57,14 +59,15 @@
         max-width: 100%
       
     @media screen and (max-width: 760px)
-      width: 50%
+      width: 100%
+      /* width: 50% */
         
     .thumb-overlay
       +position(absolute)
       +align-items(center)
       +justify-content(space-around)
       +display(flex)
-      background: fade-out($accent, 0.1)
+      background: fade-out($linkColorHover, 0.1)
       text-align: center
       @extend %animationstart_#{$animation}
 
@@ -95,7 +98,7 @@
   display: none
   
   h4, noscript h4
-    color: $accent
+    color: $linkColorHover
     font-weight: 300
     text-transform: uppercase
     font-size: 28px
@@ -108,8 +111,8 @@
   
   .work-return
     +size(40px)
+    color: $linkColor
     cursor: pointer
-    opacity: 0.5
     +position(absolute, -4px null null -60px)
     
     path
@@ -117,6 +120,7 @@
       
     &:hover
       opacity: 1
+      color: $linkColorHover
  
  
  
