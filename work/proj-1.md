@@ -2,7 +2,7 @@
 title: Archeostickers
 ---
 
-![archeostickers logo](assets/img/work/proj-1/34_lewis_chessmen.png)
+[![archeostickers logo](assets/img/work/proj-1/34_lewis_chessmen.png)](http://archeostickers.com/2015/09/28/34_lewis_chessmen/)
 
 ##[archeostickers.com](http://archeostickers.com)
 
