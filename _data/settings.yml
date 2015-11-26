@@ -17,7 +17,7 @@ menu:
 - {name: <i class="fa fa-twitter"></i>, url: 'http://twitter.com/osd_it'}
 - {name: <i class="fa fa-medium"></i>, url: 'https://medium.com/opensensorsdata-review'}
 - {name: manifesto, url: '#manifesto'}
-- {name: work, url: '#work'}
+- {name: products, url: '#work'}
 - {name: contact, url: '#contact'}
 - {name: documents, url: 'http://doc.opensensorsdata.it'}
 
