@@ -66,7 +66,7 @@ intro: >
 #  content: 'publish your bricks and share with your community or use our private workspaces with your collaborators'}
 
 activity:
-- {title: 'project of data reuse',
+- {title: 'design of data reuse',
   image: 'Lego_Brick.svg',
   content: '<a href="http://opensensorsdata.it">osd</a> is a company that design strategies and run project of data reuse, making openess a core and sustainable element of business models. We trust in <a href="http://opendatahandbook.org/guide/en/what-is-open-data/">Open Data</a> and <a href="https://en.wikipedia.org/wiki/Open_business">Open Business</a>'}
 - {title: 'market opportunities for data sharing',
