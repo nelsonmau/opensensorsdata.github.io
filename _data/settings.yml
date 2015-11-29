@@ -54,18 +54,29 @@ google-analytics-ua: UA-62992830-1
 intro: >
   In the digital era information is power. Without access to data there is no reliable public information, and so no real power for people. We are an internet company committed to provide open access to data together with tools to combine, compare and shape meaningful information. Our goal is to empower people to shape the society by shaping data, brick after brick
 
+#activity:
+#- {title: 'access to data',
+#  image: 'Lego_Brick.svg',
+#  content: 'access to public data, both physical and digital,  through our opendatabank or store your private datastreams in one of our safe-deposit box'}
+#- {title: 'build data into bricks',
+#  image: 'Lego_dimensions.svg',
+#  content: 'combine, compare and shape datastreams into meaningful charts'}
+#- {title: 'share and reuse your bricks',
+#  image: 'HSLego.svg',
+#  content: 'publish your bricks and share with your community or use our private workspaces with your collaborators'}
+
 activity:
-- {title: 'access to data',
+- {title: 'project of data reuse',
   image: 'Lego_Brick.svg',
-  content: 'access to public data, both physical and digital,  through our opendatabank or store your private datastreams in one of our safe-deposit box'}
-- {title: 'build data into bricks',
+  content: '[osd](http://opensensorsdata.it) is a company that design strategies and run project of data reuse, making openess a core and sustainable element of business models. *We trust in [Open Data](http://opendatahandbook.org/guide/en/what-is-open-data/) and [Open Business](https://en.wikipedia.org/wiki/Open_business)*'}
+- {title: 'market opportunities for data sharing',
   image: 'Lego_dimensions.svg',
-  content: 'combine, compare and shape datastreams into meaningful charts'}
-- {title: 'share and reuse your bricks',
+  content: 'We provide consultancy to institutions, companies and charities. We focus on these market opportunities for data sharing and reuse that allow involvement in collaborative innovative programs.'}
+- {title: 'new way to make business',
   image: 'HSLego.svg',
-  content: 'publish your bricks and share with your community or use our private workspaces with your collaborators'}
+  content: 'We arrange workshop and training to help third parties pipe their data and expertise into a business model framwork that fit with these innovative programs.
 
-
+We help our customer to discover a whole new way to make business into an open networked market where they can effectively see their opendata have impact on the society.'}
 
 #-------------------------------
 # Manifesto Section
