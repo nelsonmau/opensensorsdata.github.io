@@ -68,7 +68,7 @@ intro: >
 activity:
 - {title: 'project of data reuse',
   image: 'Lego_Brick.svg',
-  content: '[osd](http://opensensorsdata.it) is a company that design strategies and run project of data reuse, making openess a core and sustainable element of business models. *We trust in [Open Data](http://opendatahandbook.org/guide/en/what-is-open-data/) and [Open Business](https://en.wikipedia.org/wiki/Open_business)*'}
+  content: '<a href="http://opensensorsdata.it">osd</a> is a company that design strategies and run project of data reuse, making openess a core and sustainable element of business models. We trust in <a href="http://opendatahandbook.org/guide/en/what-is-open-data/">Open Data</a> and <a href="https://en.wikipedia.org/wiki/Open_business">Open Business</a>'}
 - {title: 'market opportunities for data sharing',
   image: 'Lego_dimensions.svg',
   content: 'We provide consultancy to institutions, companies and charities. We focus on these market opportunities for data sharing and reuse that allow involvement in collaborative innovative programs.'}
