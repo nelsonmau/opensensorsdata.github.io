@@ -29,7 +29,7 @@ For both services and API can be offered to meet:
 
 
 #### How buy Datastickers?
-For Datastickers contact us or find [opensensorsdata srl](http://www.opensensorsdata.it) in **[MEPA](https://www.acquistinretepa.it/opencms/opencms/main/programma/strumenti/MePA)**, the Italian Digital Market for Public Sector.
+For Datastickers contact us or, if you work in the Public Sector, find [opensensorsdata srl](http://www.opensensorsdata.it) in **[MEPA - the Italian Digital Market for Public Sector](https://www.acquistinretepa.it/opencms/opencms/main/programma/strumenti/MePA)** .
 
 
 
