@@ -1,16 +1,20 @@
 ---
 title: Datastickers
 ---
-
+<a id="inizio"></a>
 ![Datastickers](assets/img/work/proj-2/datastickers.png)
 
-*scroll down for italian version*
+* [What's it?](#1)
+* [Value Proposition](#2)
+* [Versione italiana](#3)
 
-#### What’s it?
+<a id="1"></a>
+##[<i class="fa fa-angle-up"></i>](#inizio) #### What’s it?
 Datastickers (DS) is a tool to transmit and share either sensors’ data or common databases. This flow take place by automatic rendering into icons, a  cluster of language and images. Datastickers act inside conversations and  convert data for its active connections. Ultimately, his goal is to improve the quality of human/machine interaction by producing stream-contents which are familiar and participative for people and professionals. 
 
 
-#### Value Proposition
+<a id="2"></a>
+##[<i class="fa fa-angle-up"></i>](#inizio) #### Value Proposition
 Value proposal focus on building up a particular business model over:
 
 * promoting people’s competences and skills in use within the organizational structure
@@ -44,10 +48,12 @@ The first example of Datastickers is **[PorcellinoBot](http://telegram.me/porcel
 [![CNR Ibimet Logo](assets/img/work/proj-2/ibimet-logo.png)](http://www.ibimet.cnr.it/)
 
 
+[<i class="fa fa-caret-up"></i> up](#work)
 
 [![Datastickers](assets/img/work/proj-2/porcellino_+26.png)](http://telegram.me/porcellinobot)
 
-#### Che cos’è 
+<a id="3"></a>
+##[<i class="fa fa-angle-up"></i>](#inizio) #### Che cos’è 
 Datastickers è un prodotto per trasmettere e conviderei dati estratti da sensori o contenuti in banche dati attraverso la creazione automatica di icone, immagini e frasi dalla cultura comune, per generare un coinvolgimento con le persone. Datastickers converte le informazioni dai dati alle connessione e conversazioni in cui è attivo. 
 La proposta di valore sfrutta i vantaggi della comunicazione iconica per abbassare il costo cognitivo della fruizione delle informazioni. Il suo obiettivo è migliorare la qualità delle interazioni uomo/macchine producendo contenuti stream familiari e partecipativi per gli utenti. 
 
@@ -79,6 +85,8 @@ Datastickers è composta da:
 * collegamento e sovrapposizione ad eventuali altre banche dati condivise in modalità aperta (come ad esempio Wikipedia e Openstreetmap)
 * assistenza per i primi 30 giorni di esercizio
 
+#### Come acquistare Datastickers?
+Ci potete contattare (contact@opensensorsdata.it) oppure, se lavorate nel settore pubblico, ci potete trovare nel **[MEPA - the Italian Digital Market for Public Sector](https://www.acquistinretepa.it/opencms/opencms/main/programma/strumenti/MePA)**.
 
 
 
