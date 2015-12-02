@@ -9,7 +9,7 @@ title: Datastickers
 * [Versione italiana](#3)
 
 <a id="1"></a>
-##[<i class="fa fa-angle-up"></i>](#inizio) #### What’s it?
+####[<i class="fa fa-angle-up"></i>](#inizio) What’s it?
 Datastickers (DS) is a tool to transmit and share either sensors’ data or common databases. This flow take place by automatic rendering into icons, a  cluster of language and images. Datastickers act inside conversations and  convert data for its active connections. Ultimately, his goal is to improve the quality of human/machine interaction by producing stream-contents which are familiar and participative for people and professionals. 
 
 
