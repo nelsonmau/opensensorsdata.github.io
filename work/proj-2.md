@@ -39,12 +39,12 @@ For Datastickers contact us or, if you work in the Public Sector, find [opensens
 
 The first example of Datastickers is **[PorcellinoBot](http://telegram.me/porcellinobot)** for rendering climate data in Firenze. PorcellinoBot is made (with love) by osd and [CNR Ibimet](http://www.ibimet.cnr.it/)
 
-[![CNR Ibimet Logo](assets/img/work/proj-2/ibimet-logo.png)(http://www.ibimet.cnr.it/)
+[![CNR Ibimet Logo](assets/img/work/proj-2/ibimet-logo.png)(http://www.ibimet.cnr.it/)]
 
 
 
 
 
 
-[<i class="fa fa-caret-up"></i> up](#work)
+<i class="fa fa-caret-up"></i> up](#work)
 
