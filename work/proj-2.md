@@ -4,6 +4,8 @@ title: Datastickers
 
 ![Datastickers](assets/img/work/proj-2/datastickers.png)
 
+* scroll down for italian version *
+
 #### What’s it?
 Datastickers (DS) is a tool to transmit and share either sensors’ data or common databases. This flow take place by automatic rendering into icons, a  cluster of language and images. Datastickers act inside conversations and  convert data for its active connections. Ultimately, his goal is to improve the quality of human/machine interaction by producing stream-contents which are familiar and participative for people and professionals. 
 
