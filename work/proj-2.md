@@ -10,7 +10,7 @@ title: Datastickers
 Datastickers (DS) is a tool to transmit and share either sensors’ data or common databases. This flow take place by automatic rendering into icons, a  cluster of language and images. Datastickers act inside conversations and  convert data for its active connections. Ultimately, his goal is to improve the quality of human/machine interaction by producing stream-contents which are familiar and participative for people and professionals. 
 
 
-#### Value Proposals
+#### Value Proposition
 Value proposal focus on building up a particular business model over:
 
 * promoting people’s competences and skills in use within the organizational structure
