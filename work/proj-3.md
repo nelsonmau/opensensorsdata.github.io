@@ -18,6 +18,10 @@ Il [Masterplan](https://it.wikipedia.org/wiki/Masterplan_(urbanistica)#Definizio
 - **Al singolo componente di un team**, perché possa  operare con un metodo che è già armonizzato con le strutture con cui si rapporta.
 
 
-#### Come funziona
+#### Come usarlo
 
-Il Masterplan è composto dallo schema del modello, un glossario
+Il Masterplan è composto dallo schema del modello, un glossario e una serie di misure per progettare al meglio dei modelli di business aperti. Masterplan è riusabile liberamente perché è rilasciato in [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
+
+
+#### Avete bisogno di aiuto?
+Ci potete contattare (contact@opensensorsdata.it) e noi possiamo aiutarvi a mettere a valore la vostra conoscenza implicita, partendo dai vostri dati ed inserendo la condivisione aperta nelle vostre attività.
