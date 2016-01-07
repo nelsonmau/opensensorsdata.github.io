@@ -2,14 +2,14 @@
 title: Masterplan
 ---
 
-![Logo Masterplan](assets/img/work/proj-3/projectopendata.svg)
+[![Logo Masterplan](assets/img/work/proj-3/projectopendata.svg)](http://masterplan.opensensorsdata.it)
 
 #### Che cos'è
 
 Il [Masterplan](https://it.wikipedia.org/wiki/Masterplan_(urbanistica)#Definizione) è un modello che descrive i concetti (e le loro relazioni) per armonizzare obiettivi di business, organizzare i ruoli, condividere e riusare dati con licenze aperte. Il Masterplan si concentra sugli obiettivi operativi e strategici per implementare con più efficacia gli elementi canonici dei tradizionali modelli di business, come *valore*, *segmento* e *guadagno*, facendo un uso strategico degli [*opendata*](http://opendatahandbook.org/guide/it/).
 
-[![screenshot masterplan](assets/img/work/proj-3/screenshot.png)](http://masterplan.opensensorsdata.it)
-<small>[http://masterplan.opensensorsdata.it](http://masterplan.opensensorsdata.it)</small>
+[![Masterplan ebook](assets/img/work/proj-3/cover_icon.jpg)](http://masterplan.opensensorsdata.it/#ebook)
+<small>[http://masterplan.opensensorsdata.it](http://masterplan.opensensorsdata.it/#ebook)</small>
 
 #### A chi si rivolge
 
