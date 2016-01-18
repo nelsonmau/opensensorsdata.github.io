@@ -13,12 +13,11 @@ avatar: "/assets/img/sfondo/kndnsk_facebook.png"
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: <i class="fa fa-github"></i>, url: 'https://github.com/opensensorsdata'}
-- {name: <i class="fa fa-twitter"></i>, url: 'http://twitter.com/osd_it'}
-- {name: <i class="fa fa-medium"></i>, url: 'https://medium.com/opensensorsdata-review'}
-- {name: manifesto, url: '#manifesto'}
+- {name: <i class="fa fa-twitter fa-lg"></i>, url: 'http://twitter.com/osd_it'}
+- {name: <i class="fa fa-medium fa-2x"></i>, url: 'https://medium.com/opensensorsdata-review'}
+- {name: <i class="fa fa-bullseye"></i>, url: '#manifesto'}
 - {name: products, url: '#work'}
-- {name: contact, url: '#contact'}
+- {name: <i class="fa fa-pencil-square-o"></i>, url: '#contact'}
 - {name: documents, url: 'http://doc.opensensorsdata.it'}
 
 #-------------------------------
