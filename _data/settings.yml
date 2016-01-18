@@ -13,13 +13,13 @@ avatar: "/assets/img/sfondo/kndnsk_facebook.png"
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: <i class="fa fa-github fa-2x"></i>, url: 'https://github.com/opensensorsdata'}
-- {name: <i class="fa fa-twitter fa-2x"></i>, url: 'http://twitter.com/osd_it'}
-- {name: <i class="fa fa-medium fa-2x"></i>, url: 'https://medium.com/opensensorsdata-review'}
-- {name: <i class="fa fa-bullseye fa-2x"></i>, url: '#manifesto'}
-- {name: <i class="fa fa-shopping-basket fa-2x"></i>, url: '#work'}
-- {name: <i class="fa fa-envelope-o fa-2x"></i>, url: '#contact'}
-- {name: <i class="fa fa-file-text-o fa-2x"></i>, url: 'http://doc.opensensorsdata.it'}
+- {name: <i class="fa fa-github fa-lg"></i>, url: 'https://github.com/opensensorsdata'}
+- {name: <i class="fa fa-twitter fa-lg"></i>, url: 'http://twitter.com/osd_it'}
+- {name: <i class="fa fa-medium fa-lg"></i>, url: 'https://medium.com/opensensorsdata-review'}
+- {name: <i class="fa fa-hand-spock-o fa-lg"></i>, url: '#manifesto'}
+- {name: <i class="fa fa-shopping-basket fa-lg"></i>, url: '#work'}
+- {name: <i class="fa fa-envelope-o fa-lg"></i>, url: '#contact'}
+- {name: <i class="fa fa-archive fa-lg"></i>, url: 'http://doc.opensensorsdata.it'}
 
 #-------------------------------
 # SEO Section
