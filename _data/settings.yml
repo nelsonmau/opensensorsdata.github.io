@@ -27,7 +27,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: '// shape data to shape society // We are an internet company committed to provide open access to data together with tools to combine, compare and shape meaningful information. Our goal is to empower people to shape the society by shaping data, brick after brick'
+  description: '// shape data to shape society // We provide methods to model and shape the strategic value of information. We are an internet company committed to open access to data. Our goal is to empower people to shape society and busineness by shaping data, brick after brick'
   rel-author: 'http://doc.opensensorsdata.it/pages/about/'
   rel-publisher: 'https://medium.com/opensensorsdata-review'
   images: 'assets/img/sfondo'
@@ -52,7 +52,7 @@ google-analytics-ua: UA-62992830-1
 # NOTE: The avatar is defined in the all.sass document.
 
 intro: >
-  In the digital era information is power. Without access to data there is no reliable public information, and so no real power for people. We are an internet company committed to provide open access to data together with tools to combine, compare and shape meaningful information. Our goal is to empower people to shape the society by shaping data, brick after brick
+  In the digital era information is power. We provide methods to model and shape the strategic value of information. We are an internet company committed to open access to data. Our goal is to empower people to shape society and busineness by shaping data, brick after brick'
 
 #activity:
 #- {title: 'access to data',
@@ -68,21 +68,21 @@ intro: >
 activity:
 - {title: 'design of data reuse',
   image: 'Lego_Brick.svg',
-  content: '<a href="http://opensensorsdata.it">osd</a> is a company that design strategies and run project of data reuse, making openess a core and sustainable element of business models. We trust in <a href="http://opendatahandbook.org/guide/en/what-is-open-data/">Open Data</a> and <a href="https://en.wikipedia.org/wiki/Open_business">Open Business</a>'}
+  content: '<a href="http://opensensorsdata.it">osd</a> is a company that design strategies and run projects of data reuse, making openness a core and sustainable element of business models. We trust in <a href="http://opendatahandbook.org/guide/en/what-is-open-data/">Open Data</a> and <a href="https://en.wikipedia.org/wiki/Open_business">Open Business</a>'}
 - {title: 'market opportunities for data sharing',
   image: 'Lego_dimensions.svg',
-  content: 'We provide consultancy to institutions, companies and charities. We focus on these market opportunities for data sharing and reuse that allow involvement in collaborative innovative programs.'}
+  content: 'We provide consultancy to agencies, firms and charities. We focus on these market opportunities for data sharing and reuse that involve collaborative innovative programs and researches.'}
 - {title: 'new way to make business',
   image: 'HSLego.svg',
-  content: 'We arrange workshop and training to help third parties pipe their data and get the most out of their expertise into their business model framwork that fits with these innovative programs.We help our customer to discover a whole new way to make business into an open networked market where they can effectively see their opendata have impact on the society.'}
+  content: 'We arrange workshop and training to help third parties pipe their data and get the most out of their expertise. We help our customer to discover a whole new way to make business into an open networked market where they can systematically capture the value of their data.'}
 
 #-------------------------------
 # Manifesto Section
 
 manifesto:
-- {id: '1', intro: 'Internet is an agreement on how different networks can work together. We hold the internet in common, it doesn’t belong to anyone in particular.', total: 'For those who agree, Internet is a public good –everyone can use it and improve it– but the key value of the net is not built-in in its architecture. Internet is not optimised for specific purposes; in itself, internet is stupid –does nothing more than moving bits. It has no center, its key value is at its ends. Counting on the internet, everyone at each edge can offer services built on top of it. Counting on the open, unowned agreement upon which the Internet is based, everyone at each edge can share data. The Internet enable a free market of innovation, where people with business ideas are not just free to engage with a marketplace, they create a marketplace though conversations and connections. Edges are not points at which the internet ends, but where its value begin to be exploited. We are among those edges. We are an Internet company. That’s our posit.'}
+- {id: '1', intro: 'Internet is an agreement on how different networks can work together. We hold the internet in common, it doesn’t belong to anyone in particular.', total: 'For those who agree, Internet is a public good –everyone can use it and improve it– but the key value of the net is not built-in in its architecture. Internet is not optimised for specific purposes; in itself, internet is stupid –does nothing more than moving bits. It has no center, its key value is at its ends. Counting on the internet, everyone at each edge can offer services built on top of it. Counting on the agreement upon which the Internet is based, everyone at each edge can share data. The Internet enable a free market of innovation, where people with business ideas are not just free to engage with a marketplace, they create a marketplace throught conversations and connections. Edges are not points at which the internet ends, but where its value begin to be exploited. We are among those edges. We are an Internet company. That’s our posit.'}
 - {id: '2', intro: 'Internet Companies are defined by what they own and see their markets as a target. We don’t.', total: ' We believe this is a fundamental misunderstanding of internet enabled innovation which is, at first, business and social innovation. We don’t target our market, we discuss with it: values, practices and a genuine points of view. There are no barbed wire fences between us and our customers; and will never be. If companies stop where community begins, then there is no market to innovate but just profit to make. Building fences might foster your business, for a while. But innovation is not about drawing “the Big Money” from the “Cash Cows”. It’s about making “the Big Money” a networked output, growing values between the edges of the net by opening up information. The innovation we hunt for is a collective pursuing of opportunities by informed citizens, customers and business people, as we are. It’s a long run. That’s what radical changes require.'}  
-- {id: '3', intro: 'This is our commitment: to build an open economy in a networked market, where business concerns do not diverge from human concerns.', total: ' This form of business is made possible by a market where the quality of infomation is grounded on open reuse and the professional experience of those who produce and transform it. No fences does not mean no rules, just new methods to empower people and their expertise. Our goal is to develop open business models and reuse strategies to transform the opportunities offered by a networked market and systematically capture their values.'}
+- {id: '3', intro: 'This is our commitment: to build an open economy in a networked market, where business concerns do not diverge from human concerns.', total: ' This form of business is made possible by a market where the quality of infomation is grounded on open reuse and the professional experience of those who produce and transform it. No fences does not mean no rules, just new methods to empower people and their expertise. Our goal is to implement open business models via strategies to transform the opportunities offered by a networked market and systematically capture their values.'}
 - {id: '4', intro: 'We are civic entrepreneurs, that’s our values and our protocols.', total: '<big>Will you join us?</big>'}
   
 manifesto-download:
