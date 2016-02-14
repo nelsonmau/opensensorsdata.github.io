@@ -10,7 +10,7 @@ title: Masterplan
 
 The [Masterplan](https://en.wikipedia.org/wiki/Strategic_planning) is a conceptual model that harmonises business goals with roles and activities within an organisation, to help it pursue the share and reuse of data with open licenses. Masterplan *- Build it to share!* is a guide for the implementation of this target into traditional business model elements –such as *values*, *segments* and *revenue streams*– promoting a strategic use of [*opendata*](http://opendatahandbook.org/guide/it/).
 
-[![Masterplan ebook](assets/img/work/proj-3/cover_icon_png )](http://www.masterplan.tools/en/#ebook)
+[![Masterplan ebook](assets/img/work/proj-3/cover_icon.png)](http://www.masterplan.tools/en/#ebook)
 <small>[http://www.masterplan.tools/](http://www.masterplan.tools/en/#ebook)</small>
 
 #### For who
