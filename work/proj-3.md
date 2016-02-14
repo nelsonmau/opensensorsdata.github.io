@@ -2,26 +2,28 @@
 title: Masterplan
 ---
 
-[![Logo Masterplan](assets/img/work/proj-3/projectopendata.svg)](http://masterplan.opensensorsdata.it)
+[![Logo Masterplan](assets/img/work/proj-3/projectopendata.svg)](http://www.masterplan.tools)
 
-#### Che cos'è
+**in two version: italian and english**
 
-Il [Masterplan](https://it.wikipedia.org/wiki/Masterplan_(urbanistica)#Definizione) è un modello che descrive i concetti (e le loro relazioni) per armonizzare obiettivi di business, organizzare i ruoli, condividere e riusare dati con licenze aperte. Il Masterplan si concentra sugli obiettivi operativi e strategici per implementare con più efficacia gli elementi canonici dei tradizionali modelli di business, come *valore*, *segmento* e *guadagno*, facendo un uso strategico degli [*opendata*](http://opendatahandbook.org/guide/it/).
+#### What
 
-[![Masterplan ebook](assets/img/work/proj-3/cover_icon_png )](http://masterplan.opensensorsdata.it/#ebook)
-<small>[http://masterplan.opensensorsdata.it](http://masterplan.opensensorsdata.it/#ebook)</small>
+The [Masterplan](https://en.wikipedia.org/wiki/Strategic_planning) is a conceptual model that harmonises business goals with roles and activities within an organisation, to help it pursue the share and reuse of data with open licenses. Masterplan *- Build it to share!* is a guide for the implementation of this target into traditional business model elements –such as *values*, *segments* and *revenue streams*– promoting a strategic use of [*opendata*](http://opendatahandbook.org/guide/it/).
 
-#### A chi si rivolge
+[![Masterplan ebook](assets/img/work/proj-3/cover_icon_png )](http://www.masterplan.tools/en/#ebook)
+<small>[http://www.masterplan.tools/](http://www.masterplan.tools/en/#ebook)</small>
 
-- **Alle imprese**, perché possano progettare attività adeguate a supportare lo sviluppo di open business model, ovvero quei modelli usati dalle compagnie per creare e catturare valore in modo sistematico, collaborando con partner esterni e migliorando la collaborazione dei team interni.  
-- **Alle strutture pubbliche**, perchè possano disporre di un metodo affidabile di creazione e gestione di  microstrutture trasversali. Queste strutture, o team cross-funzionali, sono composte da diverse professionalità e sono finalizzate ad attività di produzione e condivisione di dati (per vari scopi come promozione, adempimenti normativi ecc ecc).
-- **Al singolo componente di un team**, perché possa  operare con un metodo che è già armonizzato con le strutture con cui si rapporta.
+#### For who
+
+- **Firms**, to help design adequate activities in support of open business models development. These are models used by companies and ventures in order systematically create and capture values through collaboration between external partners and internal teams.  
+- **Government agencies**, to promote reliable methods that help create cross-functional projects and manage their teamwork. These usually comprise different expertise that act as hub for the production and sharing of data (for different purpose, such as promotional or normative one).
+- **Single expert**, to increase her ability to cooperate into an harmonised and supportive organisational environment.
 
 
-#### Come usarlo
+#### How to use it
 
-Il Masterplan è composto dallo schema del modello, un glossario e una serie di misure per progettare al meglio dei modelli di business aperti. Masterplan è riusabile liberamente perché è rilasciato in [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
+Masterplan serves to design of open business models to maximize the reuse of data. Masterplan is the method with the scheme , the glossary and some prescriptions and preventions per progettare al meglio dei modelli di business aperti. Masterplan is open under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
 
 
 #### Avete bisogno di aiuto?
-Ci potete contattare (contact@opensensorsdata.it) e noi possiamo aiutarvi a mettere a valore la vostra conoscenza implicita, partendo dai vostri dati ed inserendo la condivisione aperta nelle vostre attività.
+If you need a help, please contact us (contact@opensensorsdata.it).
