@@ -7,12 +7,12 @@
     <atom:link href="www.osd.tools/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>prova di feed</title>
-        <description>&lt;p&gt;Questa è una prova di feed&lt;/p&gt;
+        <title>Nuovo Post</title>
+        <description>&lt;p&gt;Nuovo post vediamo se importa&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 May 2016 00:00:00 +0200</pubDate>
-        <link>www.osd.tools//2016/05/23/prova.html</link>
-        <guid isPermaLink="true">www.osd.tools//2016/05/23/prova.html</guid>
+        <link>www.osd.tools//2016/05/23/nuovo-post.html</link>
+        <guid isPermaLink="true">www.osd.tools//2016/05/23/nuovo-post.html</guid>
       </item>
     
       <item>

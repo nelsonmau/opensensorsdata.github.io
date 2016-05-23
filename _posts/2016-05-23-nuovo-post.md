@@ -1,6 +1,6 @@
 ---
 layout: post
-title: prova di feed
+title: Nuovo Post
 date: 2016-05-23
 author: luca
 ref: prova-feed
@@ -12,4 +12,4 @@ tags:
  - products
 ---
 
-Questa è una prova di feed
+Nuovo post vediamo se importa
