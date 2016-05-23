@@ -15,7 +15,7 @@ lang: en
 	    <p class="home-tags">
 	      {% if post.tags != empty %}<br/><i class="fa fa-tags"></i>
 	        {% for tag in post.tags %}
-	          <a href="{{ '-ref' | prepend: tag | replace: ' ','-' | prepend: 'tags/#' | prepend: site.baseurl }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+	          <a href="{{ '-ref' | prepend: tag | replace: ' ','-' | prepend: 'search/#' | prepend: site.baseurl }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
 	        {% endfor %}
 	      {% endif %}
 	    </p>
