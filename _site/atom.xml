@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{"en"=>"opensensorsdata", "it"=>"opensensorsdata"}</title>
+ <title>opensensorsdata</title>
  <link href="www.osd.tools/atom.xml" rel="self"/>
  <link href="www.osd.tools/"/>
- <updated>2016-05-23T18:35:31+02:00</updated>
+ <updated>2016-05-23T18:38:33+02:00</updated>
  <id>www.osd.tools</id>
  <author>
    <name></name>
