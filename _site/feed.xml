@@ -8,9 +8,19 @@
     <language>it-it</language>
     <language>en-en</language>
 
-    <pubDate>Mon, 23 May 2016 13:34:58 +0200</pubDate>
-    <lastBuildDate>Mon, 23 May 2016 13:34:58 +0200</lastBuildDate>
+    <pubDate>Mon, 23 May 2016 13:43:35 +0200</pubDate>
+    <lastBuildDate>Mon, 23 May 2016 13:43:35 +0200</lastBuildDate>
 
+    
+    <item>
+      <title>prova di feed</title>
+      <link>http://www.osd.tools/2016/05/23/prova.html</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0200</pubDate>
+      <author>contact@opensensorsdata.it (osd crew)</author>
+      <guid>http://www.osd.tools/2016/05/23/prova</guid>
+      <description>&lt;p&gt;Questa è una prova di feed&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Masterplan come si fa</title>
