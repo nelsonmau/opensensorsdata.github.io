@@ -28,8 +28,8 @@ index:
   en: index-en.html
   it:
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "www.osd.tools" # the base hostname & protocol for your site
+baseurl: / # the subpath of your site, e.g. /blog
+url: http://www.osd.tools # the base hostname & protocol for your site
 
 touch_icon: /assets/img/logos/apple-touch-icon-144-precomposed.png
 favicon: /assets/img/logos/favicon.ico
