@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <!-- Trigger Language -->
+      <div class="trigger">
+        {% assign pages=site.pages | where:"lang", page.lang %}
+        {% for my_page in pages %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      <div class="wrapper-lang">
+        <ul class="lang">
+          <li class="lang"><a href="{{ site.baseurl }}search/"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+          <li class="lang">
+            <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+          </li>
+        {% endfor %}
+
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <li class="lang">
+            <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+
+
+
+    <!-- End of Trigger Language -->
+
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+<script src="{{ site.baseurl }}js/jquery.slabtext.min.js"></script>
+<script src="{{ site.baseurl }}js/jquery.slabtext.js"></script>
+<script src="{{ site.baseurl }}js/slabtext-control.js"></script>

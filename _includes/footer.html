@@ -1,0 +1,38 @@
+{% for footer in site.data.settings.footer %}
+  <footer class="site-footer">
+
+    <div class="wrapper">
+
+      <h2 class="footer-heading"><a href="{{ site.baseurl }}"><img class="footer-img" src="{{ site.baseurl }}assets/img/logos/osd_logo_25.svg"></a> {{ site.title[page.lang] }}</h2>
+
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            <li><i class="fa fa-industry"></i> VAT IVA {{ footer.vat }}</li>
+            <li><i class="fa fa-envelope-o"></i> {{ site.email }}</li>
+            <li><i class="fa fa-envelope" aria-hidden="true"></i> (only for Italy) {{ footer.pec }}</a></li>
+            <li><i class="fa fa-university"></i> IBAN {{ footer.iban }}</li>
+            <li><i class="fa fa-home"></i> {{ footer.address}}</li>
+          </ul>
+        </div>
+
+        <div class="footer-col footer-col-2">
+          <ul class="social-media-list">
+            <li><i class="fa fa-lg fa-comments-o" aria-hidden="true"></i><a href="https://{{ footer.discourse }}"> {{ footer.discourse }}</a></li>
+            <li><i class="fa fa-lg fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ footer.github }}">{{ footer.github }}</a></li>
+            <li><i class="fa fa-lg fa-medium"></i> <a href="https://medium.com/{{ footer.medium }}">{{ footer.medium }}</a></li>
+            <li><i class="fa fa-lg fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ footer.twitter }}">{{ footer.twitter }}</a></li>
+            <li><i class="fa fa-lg fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/{{ footer.facebook }}">{{ footer.facebook }}</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col footer-col-3">
+          <p>{{ site.description[page.lang] }}</p>
+          <p>{{ site.footer[page.lang] }}</p>
+          <p>{{ site.policies[page.lang] }}<p>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+{% endfor %}

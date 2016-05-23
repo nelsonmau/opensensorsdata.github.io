@@ -1,0 +1,54 @@
+.trigger {
+    clear: both;
+    display: none;
+
+  &:hover .trigger {
+      display: block;
+      padding-bottom: 5px;
+  }
+}
+.wrapper-lang {
+  text-align: right;
+  line-height: 1.5em;
+  word-spacing: .7rem;
+  font-size: 1rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-top:  .4rem;
+  display: block;
+  padding: .25rem $spacing-unit;
+
+  @include media-query($on-palm) {
+    top: 0;
+    right: 0px;
+    padding: .25rem $spacing-unit / 2;
+  }
+}
+
+ul.lang {
+  list-style-type: none;
+}
+li.lang {
+  display: inline;
+}
+
+li.lang a {
+    color: $linkColor;
+    text-decoration: none;
+}
+
+li.lang a:hover:not(.active) {
+    background-color: $background-color;
+}
+
+li.lang a:hover.active {
+  font-weight: bold;
+}
+
+
+  a.wrapper-lang {
+    text-decoration: none;
+  }
+  .en:lang(en), .ita:lang(it) {
+    font-weight: 800;
+  }

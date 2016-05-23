@@ -1,0 +1,89 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title[page.lang] %}{{ page.title[page.lang] | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+
+<!-- Twitter Cards -->
+  <meta name="twitter:title" content="{% if page.title[page.lang] %}{{ page.title[page.lang] }}{% else %}{{ site.title[page.lang] }}{% endif %}">
+  {% if page.excerpt %}<meta name="twitter:description" content="{{ page.title[page.lang] }}">{% endif %}
+  {% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.twitter_username }}">{% endif %}
+  {% if author.twitter %}<meta name="twitter:creator" content="@{{ site.twitter_username }}">{% endif %}
+  {% if page.image.feature %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/artwork/osd_wall.png">
+  {% else %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="{% if page.image %}{{ site.url }}/img/projectopendata_wall.jpg{% else %}{{ site.url }}/assets/img/artwork/osd_wall.png{% endif %}">
+  {% endif %}
+
+
+<!-- Facebook -->
+  <meta property="og:site_name" content="{{ site.title[page.lang] }}">
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title[page.lang] }}">
+  {% else %}
+  <meta property="og:title" content="{{ site.title[page.lang] }}">
+  {% endif %}
+  {% if page.title %}
+  <meta property="og:type" content="article">
+  {% else %}
+  <meta property="og:type" content="website">
+  {% endif %}
+  {% if page.description %}
+  <meta property="og:description" content="{{ page.title[page.lang] }}">
+  {% else %}
+  <meta property="og:description" content="{{ site.description[page.lang] }}">
+  {% endif %}
+  {% if page.url %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% endif %}
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.baseurl }}about/">
+  {% endif %}
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.url }}/assets/img/artwork/osd_wall.png">
+  {% else %}
+  <meta property="og:image" content="{{ site.url }}/assets/img/artwork/osd_wall.png">
+  {% endif %}
+  {% if page.tags %}
+    {% for tag in page.tags %}
+    <meta property="article:tag" content="{{ tag }}">
+    {% endfor %}
+  {% endif %}
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+	<meta name="keywords" content="{{ site.keywords }}">
+	<meta name="description" content="{{ site.description[page.lang] }}">
+
+
+
+<!-- FONT -->
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ "assets/font-awesome-4.6.1/css/font-awesome.min.css" | prepend: site.baseurl }}">
+
+<!-- ICON -->
+  {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
+	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
+
+<!-- CSS -->
+<link rel="stylesheet" href="{{ "assets/css/main.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "assets/css/content.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "assets/css/tags.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "assets/css/slabtext.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "assets/css/slabtext-base.css" | prepend: site.baseurl }}">
+
+
+
+</head>

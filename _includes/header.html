@@ -1,0 +1,40 @@
+<!-- Trigger Language -->
+  <div class="trigger">
+    {% assign pages=site.pages | where:"lang", page.lang %}
+    {% for my_page in pages %}
+      {% if my_page.title %}
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="wrapper-lang">
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+  </div>
+
+<!-- End of Trigger Language -->
+
+<div class="osd">
+  <a href="{{ site.baseurl }}"><img src="/assets/img/logos/osd_simple_50.svg"></a>
+</div>
+
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+<script>
+  (function(document) {
+    var toggle = document.querySelector('.sidebar-toggle');
+    var sidebar = document.querySelector('#sidebar');
+    var checkbox = document.querySelector('#sidebar-checkbox');
+    document.addEventListener('click', function(e) {
+      var target = e.target;
+      if(!checkbox.checked ||
+         sidebar.contains(target) ||
+         (target === checkbox || target === toggle)) return;
+      checkbox.checked = false;
+    }, false);
+  })(document);
+</script>

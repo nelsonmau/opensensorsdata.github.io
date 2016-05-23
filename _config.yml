@@ -1,0 +1,39 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title:
+  en: opensensorsdata
+  it: opensensorsdata
+email: contact@osd.tools
+description:
+  en: 'osd is a company that delivers strategies and run project of data reuse, making openess a core and sustainable element of business models'
+  it: 'osd è una società che consegna strategie ed esegue progetti di riuso dei dati, rendendo la disponibilità aperta un fondamentale e sostenibile elemento per i modelli di business'
+
+policies:
+  en: 'See our <a href="../services/#policies">policies</a>'
+  it: 'Guarda le nostre <a href="../servizi/#policies">linee di condotta</a>'
+
+footer:
+  en: '<i class="fa fa-copyright"></i> 2016 opensensorsdata srl except logos and name all different content are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa fa-creative-commons"></i>-BY-SA</a> for another content see <a href="../about/#credits">credits</a>'
+  it: '<i class="fa fa-copyright"></i> 2016 opensensorsdata srl eccetto i loghi e il nome, tutti gli altri contenuti sono rilasciati con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa fa-creative-commons"></i>-BY-SA</a> per gli altri contenuti controlla nei <a href="../about-it/#credits">credits</a>'
+
+index:
+  en: index-en.html
+  it:
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "www.osd.tools" # the base hostname & protocol for your site
+
+touch_icon: /assets/img/logos/apple-touch-icon-144-precomposed.png
+favicon: /assets/img/logos/favicon.ico
+
+twitter_username: osd_it
+github_username:  opensensorsdata
+
+# Build settings
+markdown: kramdown

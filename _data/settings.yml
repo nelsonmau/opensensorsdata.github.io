@@ -1,0 +1,154 @@
+#-------------------------------
+# General Site Settings
+
+##-------------------------------
+# SIDEBAR
+sidebar:
+- intro: 'cippalippa antani'
+
+
+##-------------------------------
+# MENU SIDEBAR
+t:
+  it:
+    home:
+      name: "Home"
+      url: "/"
+    about:
+      name: "About"
+      url: "/about-it/"
+    manifesto:
+      name: "Manifesto"
+      url: "/manifesto/"
+    servizi:
+      name: "Cosa consegnamo"
+      url: "/consegna/"
+    cerca:
+      name: "Cerca"
+      url: "/search/"
+
+
+  en:
+    home:
+      name: "Home"
+      url: "index-en.html"
+    manifesto:
+      name: "Manifesto"
+      url: "/manifest/"
+    about:
+      name: "About"
+      url: "/about/"
+    services:
+      name: "What we deliver"
+      url: "/consegna-en/"
+    cerca:
+      name: "Search"
+      url: "/search-en/"
+
+
+##-------------------------------
+# HOME
+
+header:
+- {osd: 'osd_logo_home.svg',
+  masterplan: 'projectopendata_logo.svg',
+  link-it: 'manifesto',
+  link-en: 'manifest'}
+
+##-------------------------------
+# Analytics
+
+google-analytics-ua: UA-62992830-1
+
+##-------------------------------
+# ABOUT
+
+about-h2:
+- {title-it: 'sorta di impresa di progettazione urbanistica dei dati',
+  title-en: 'a kind of urban design data enterprise'}
+
+about:
+- {name: 'luca corsato',
+  fa: 'fa fa-paint-brush',
+  face: 'luca.jpg',
+  role: 'Founder, CEO',
+  ruolo: 'Fondatore, Amministratore unico',
+  site: www.lucacorsato.it,
+  mail: luca@osd.tools,
+  telegram: 'lucacorsato',
+  twitter: 'lucacorsato',
+  github: 'lucacorsato'}
+- {name: 'andrea raimondi',
+  fa: 'fa fa-lightbulb-o',
+  face: 'andrea.jpg',
+  role: 'Founder, Philosopher & Researcher',
+  ruolo: 'Fondatore, Filosofo & Ricercatore',
+  site: 'https://thewoodenpeople.wordpress.com/',
+  mail: 'andrea@osd.tools',
+  telegram: 'raimondiand',
+  twitter: 'raimondiand',
+  github: 'raimondiand'}
+- {name: 'simone cortesi',
+  fa: 'fa fa-rebel',
+  face: 'simone.jpg',
+  role: 'Founder, Advisor',
+  ruolo: 'Fondatore, Consulente',
+  site: 'https://cortesi.com/',
+  mail: 'simone@cortesi.com',
+  telegram: 'cortesisimone',
+  twitter: 'simonecortesi',
+  github: 'cortesisimone'}
+
+
+
+product:
+- {name: 'archeostickers',
+  fa: 'fa fa-picture-o',
+  direct-link-it: 'http://www.archeostickers.com',
+  direct-link-en: 'http://www.archeostickers.com',
+  link-en: '/archeostickers-en',
+  link-it: '/archeostickers-it',
+  folder: 'archeostickers',
+  img: '34_lewis_chessmen.png',
+  keywords: 'stickers, telegram, wikipedia, archaelogy',
+  parolechiave: 'stickers, telegram, wikipedia, archeologia',
+  description-en: 'Archeostickers are a pack of sticker for [Telegram](http://telegram.me). Follow The [instruction](http://archeostickers.com/pages/istruzioni/) to install, Archeostickers are made in partnership with (our dear friends) [Professione Archeologo](http://www.professionearcheologo.it/) and [ArcheoPop](http://www.civettadiatena.it/). We mainly want to: 1) show that art and archeology can be used for gaming and iconic communication 2) reuse the enormous wealth of images and information available on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) 3) advocate for concrete reuse case of open-licensed art',
+  description-it: 'Archeostickers sono un pacchetto di stickers per [Telegram](http://telegram.me). Segui le [istruzioni](http://archeostickers.com/pages/istruzioni/) per installarle.  Archeostickers sono fatte in collaborazione con (le nostre amichette) [Professione Archeologo](http://www.professionearcheologo.it/) and [ArcheoPop](http://www.civettadiatena.it/). Principalmente vogliamo: 1) dimostrare che si può vedere arte e archeologia come gioco e della traduzione iconica 2) riusare il patrimonio di immagini e informazioni disponibili su [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) 3) far riusare tutto quello che abbiamo creato qui in modo aperto'}
+- {name: 'datastickers',
+  fa: 'fa fa-file-image-o',
+  direct-link-it: '/datastickers-it',
+  direct-link-en: '/datastickers-en',
+  link-en: '/datastickers-en',
+  link-it: '/dataostickers-it',
+  folder: 'datastickers',
+  img: 'datastickers.png',
+  keywords: 'bot, opendata, meteo, research',
+  parolechiave: 'bot, opendata, meteo, ricerca',
+  description-en: 'Datastickers (DS) is a tool to transmit and share either sensors’ data or common databases. This flow take place by automatic rendering into icons, a  cluster of language and images. Datastickers act inside conversations and  convert data for its active connections. Ultimately, his goal is to improve the quality of human/machine interaction by producing stream-contents which are familiar and participative for people and professionals.',
+  description-it: 'Datastickers è un prodotto per trasmettere e conviderei dati estratti da sensori o contenuti in banche dati attraverso la creazione automatica di icone, immagini e frasi dalla cultura comune, per generare un coinvolgimento con le persone. Datastickers converte le informazioni dai dati alle connessione e conversazioni in cui è attivo.'}
+- {name: 'masterplan',
+  fa: 'fa fa-cogs',
+  direct-link-it: 'http://www.masterplan.tools',
+  direct-link-en: 'http://www.masterplan.tools/en/',
+  link-en: '/datastickers-en',
+  link-it: '/datastickers-it',
+  folder: 'masterplan',
+  img: 'thumb.png',
+  keywords: 'project management, SCRUM, change management',
+  parolechiave: 'project management, SCRUM, change management',
+  description-en: 'The [Masterplan](https://en.wikipedia.org/wiki/Strategic_planning) is a conceptual model that harmonises business goals with roles and activities within an organisation, to help it pursue the share and reuse of data with open licenses. Masterplan *- Build it to share!* is a guide for the implementation of this target into traditional business model elements –such as *values*, *segments* and *revenue streams*– promoting a strategic use of [*opendata*](http://opendatahandbook.org/guide/it/).',
+  description-it: 'Il [Masterplan](https://it.wikipedia.org/wiki/Masterplan_(urbanistica)#Definizione) è un modello che descrive i concetti (e le loro relazioni) per armonizzare obiettivi di business, organizzare i ruoli, condividere e riusare dati con licenze aperte. Masterplan *- Build it to share!* si concentra sugli obiettivi operativi e strategici per implementare con più efficacia gli elementi canonici dei tradizionali modelli di business, come *valore*, *segmento* e *guadagno*, facendo un uso strategico degli [*opendata*](http://opendatahandbook.org/guide/it/).'}
+
+
+##--------------------------
+# FOOTER
+footer:
+- {vat: '04294660271',
+  pec: 'opensensorsdata@pec.it',
+  iban: 'IT 56 G 02008 02021 000103730837',
+  address: 'via Daniele Manin, 60 Venezia Italy',
+  discourse: 'hi.osd.tools',
+  github: 'opensensorsdata',
+  medium: 'opensensorsdata-review',
+  twitter: 'osd_it',
+  facebook: 'opensensorsdata'}
