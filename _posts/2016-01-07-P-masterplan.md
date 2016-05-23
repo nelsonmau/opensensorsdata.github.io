@@ -16,7 +16,7 @@ tags:
 *[<i class="fa fa-medium" aria-hidden="true"></i> pubblicato in **osd review** su Medium ](https://medium.com/opensensorsdata-review/masterplan-aeb009ca8afd#.9df9jaskr)*
 
 
-[![Masterplan logo]({{ site.baseurl }}assets/img/products/masterplan/projectopendata_logo.png)](http://www.masterplan.tools)
+[![Masterplan logo]({{ site.baseurl }}assets/img/products/masterplan/projectopendata.svg)](http://www.masterplan.tools)
 
 
 Con grande soddisfazione presentiamo Masterplan — Build it to share! ovvero il lavoro di oltre 6 mesi di ricerca, studio e sintesi.
