@@ -7,7 +7,7 @@ author: luca
 lang: it
 tags:
 - wikipedia
-- community design
+- community management
 - change management
 ---
 

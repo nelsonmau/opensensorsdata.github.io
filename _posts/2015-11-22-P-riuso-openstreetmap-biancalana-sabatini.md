@@ -8,7 +8,7 @@ ref: riusoOSM
 lang: it
 tags:
 - opendata
-- community design
+- community management
 - change management
 ---
 

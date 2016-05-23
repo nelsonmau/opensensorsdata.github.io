@@ -7,7 +7,7 @@ author: luca
 lang: it
 tags:
 - opensource
-- community design
+- community management
 - project management
 ---
 

@@ -11,7 +11,7 @@ lang: en
   <ul class="tags">
     <li><a href="/search/#change-management-ref" class="tag">project management</a></li>
     <li><a href="/#change-management-ref" class="tag">change management</a></li>
-    <li><a href="/search/#community-design-ref" class="tag">community design</a></li>
+    <li><a href="/search/#community-management-ref" class="tag">community management</a></li>
     <li><a href="/search/#service-design-ref" class="tag">service design</a></li>
     <li><a href="search/#philosophical-counseling-ref" class="tag">philosophical counseling</a></li>
     <li><a href="/search/#opendata-ref" class="tag">opendata</a></li>

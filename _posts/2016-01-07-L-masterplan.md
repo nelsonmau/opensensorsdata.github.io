@@ -13,4 +13,4 @@ tags:
 - products
 ---
 
-[![Masterplan logo]({{ site.url }}{{ site.baseurl }}assets/img/products/masterplan/projectopendata_logo.svg)](http://www.masterplan.tools)
+[![Masterplan logo]({{ site.baseurl }}assets/img/products/masterplan/projectopendata_logo.svg)](http://www.masterplan.tools)

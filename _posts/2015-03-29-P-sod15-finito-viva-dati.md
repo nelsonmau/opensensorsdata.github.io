@@ -9,7 +9,7 @@ lang: it
 tags:
 
 - opendata
-- community design
+- community management
 ---
 
 *[<i class="fa fa-medium" aria-hidden="true"></i> pubblicato in **osd review** su Medium](https://medium.com/opensensorsdata-review/sod15-%C3%A8-finito-viva-i-dati-a9c2f764a75c)*

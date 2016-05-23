@@ -8,7 +8,7 @@ lang: it
 tags:
 - wikipedia
 - change management
-- community design
+- community management
 ---
 
 *[<i class="fa fa-medium" aria-hidden="true"></i> pubblicato in **osd review** su Medium](https://medium.com/opensensorsdata-review/piattaforme-wiki-come-somma-di-openknowledge-e-crowdsourcing-d5818e21cffd)*
