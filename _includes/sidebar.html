@@ -6,7 +6,7 @@
 <div class="sidebar" id="sidebar">
   {% for sidebar in site.data.settings.sidebar %}
   <div class="sidebar-item">
-    <p>{{ site.intro }}</p>
+    <p>{{ site.description[page.lang] }}</p>
   {% endfor %}
   </div>
 
