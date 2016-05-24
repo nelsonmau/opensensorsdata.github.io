@@ -64,6 +64,48 @@
 <link rel="stylesheet" href="/assets/css/cookie-banner.css">
 
 
+
+
+
+<script type="text/javascript">
+        // <![CDATA[
+        var _iub = _iub || [];
+        _iub.csConfiguration = {
+            siteId: 255656,
+            cookiePolicyId: 858483,
+        		lang: "it",
+            banner: {
+                slideDown: false,
+                applyStyles: false,
+                content: "<p>Notice</p>" +
+    	        "<p>You can completely change the text via simple settings changes in the javascript and rename the %{cookie_policy_link}.<br />Closing this will assume you agree with our use of cookies.</p>",
+    	        cookiePolicyLinkCaption: "cookie policy link name",
+                backgroundColor: "green",
+                innerHtmlCloseBtn: "OK"
+            }
+        };
+        (function(w, d) {
+            var loader = function() {
+                var s = d.createElement("script"),
+                    tag = d.getElementsByTagName("script")[0];
+                s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js";
+                tag.parentNode.insertBefore(s, tag);
+            };
+            if (w.addEventListener) {
+                w.addEventListener("load", loader, false);
+            } else if (w.attachEvent) {
+                w.attachEvent("onload", loader);
+            } else {
+                w.onload = loader;
+            }
+        })(window, document);
+        // ]]>
+    </script>
+
+
+
+
+
 </head>
 
 
@@ -98,6 +140,10 @@
   <div class="sidebar-item">
       <p><i class="fa fa-copyright"></i> 2016 opensensorsdata srl eccetto i loghi e il nome, tutti gli altri contenuti sono rilasciati con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa fa-creative-commons"></i>-BY-SA</a> per gli altri contenuti controlla nei <a href="../about-it/#credits">credits</a></p>
       <p>Guarda le nostre <a href="../servizi/#policies">linee di condotta</a><p>
+  </div>
+
+  <div class="sidebar-item">
+    <a href="//www.iubenda.com/privacy-policy/858483" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
   </div>
 
   <img src="/assets/img/logos/osd_black_20.svg">
@@ -262,9 +308,10 @@
             <li><i class="fa fa-envelope" aria-hidden="true"></i> (only for Italy) opensensorsdata@pec.it</a></li>
             <li><i class="fa fa-university"></i> IBAN IT 56 G 02008 02021 000103730837</li>
             <li><i class="fa fa-home"></i> via Daniele Manin, 60 Venezia Italy</li>
+            <li><i class="fa fa-info-circle" aria-hidden="true"></i> <a href="https://www.iubenda.com/privacy-policy/858483/cookie-policy">cookie policy</a></li>
           </ul>
-          <p class="info"><a href="//www.iubenda.com/privacy-policy/858483" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script></p>
-        <p class="info"><a href="https://www.iubenda.com/privacy-policy/858483/cookie-policy">cookie policy</a></p>
+
+        <p class="info"></p>
         </div>
 
         <div class="footer-col footer-col-2">
