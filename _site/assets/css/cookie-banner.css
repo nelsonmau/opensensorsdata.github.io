@@ -35,7 +35,7 @@
 .iubenda-cs-content{
     display:block;
     margin:0;
-    padding: 0.2rem 0 0.1rem 0;
+    padding: 0.2rem 0.1rem 0.1rem 0.1rem;
     width:auto;
     font-family: 'Open Sans', Helvetica,Arial,FreeSans,sans-serif;
     font-weight: 100;
@@ -70,8 +70,8 @@ a {
     text-decoration:none;
     font-size:14px;
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 1%;
+    right: 1%;
     border: solid 1px #002fa7;
     background-color: #002fa7;
     padding: 0.1rem 0.4rem;
@@ -84,4 +84,17 @@ a {
   color: #fefefe;
   padding: 0.1rem 0.4rem;
   text-decoration:none;
+}
+
+@media screen and (max-width: 800px) {
+  .iubenda-cs-content {
+      display:block;
+      margin:0;
+      padding: 0.2rem;
+  }
+
+  .iubenda-cs-close-btn {
+    top: 80%;
+    right: 5%;
+  }
 }
