@@ -6,9 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:
-  en: opensensorsdata
-  it: opensensorsdata
+title: opensensorsdata
 email: contact@osd.tools
 description:
   en: 'osd is a company that delivers strategies and run project of data reuse, making openess a core and sustainable element of business models'
