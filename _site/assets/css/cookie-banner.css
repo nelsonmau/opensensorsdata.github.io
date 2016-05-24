@@ -94,7 +94,8 @@ a {
   }
 
   .iubenda-cs-close-btn {
-    top: 80%;
-    right: 5%;
+    top: 100%;
+    right: 45%;
+    font-size:10px;
   }
 }
