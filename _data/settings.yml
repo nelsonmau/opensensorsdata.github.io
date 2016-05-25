@@ -20,7 +20,7 @@ t:
       name: "Cosa consegnamo"
       url: "/consegna/"
     post:
-      name: "Post&Slide"
+      name: "Post & Slide"
       url: "/articoli"
     cerca:
       name: "Cerca"
@@ -41,7 +41,7 @@ t:
       name: "What we deliver"
       url: "/consegna-en/"
     post:
-      name: "Posts&Slides"
+      name: "Posts & Slides"
       url: "/articles"
     cerca:
       name: "Search"

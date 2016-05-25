@@ -8,6 +8,7 @@ lang: en
 {% for header in site.data.settings.header %}
 <div class="home-logo">
   <a href="{{ site.baseurl }}{{ header.link-en }}"><img class="home-img" src="/assets/img/logos/{{ header.osd }}"></a>
+
 </div>
 {% endfor %}
 
@@ -35,7 +36,7 @@ lang: en
 
   <img class="img-tangram" src="{{ site.baseurl }}assets/img/artwork/tangram/osd_tangram_2_chiave.svg">
 
-  <h1><a href="http://www.masterplan.tools/en">discover masterplan</a></h1>
+  <h1 id="direct"><a href="http://www.masterplan.tools/en">discover masterplan</a></h1>
 
   <div class="button-box">
     <a class="button" href="{{ site.baseurl }}consegna-en/">
