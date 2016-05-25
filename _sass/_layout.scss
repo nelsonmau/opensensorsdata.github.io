@@ -133,26 +133,20 @@
   position: relative;
   height: 100vh;
   width: auto;
-  background-size: contain;
-  background-position: center center;
-  background-repeat: no-repeat;
-  margin-top: -5rem;
 }
 
 .home-img {
-  display: inline-block;
-  height: 70%;
-  margin: auto;
-  left: 0;
-  right: 0;
-  vertical-align: 50%;
   position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 25%;
 }
 
 .home-anchor {
   text-align: center;
   position: absolute;
-  bottom: 20%;
+  bottom: 25%;
   left: 0;
   right: 0;
 }
