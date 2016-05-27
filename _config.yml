@@ -38,4 +38,6 @@ twitter_username: osd_it
 github_username:  opensensorsdata
 
 # Build settings
-markdown: kramdown
+
+gems:
+  - jekyll-sitemap

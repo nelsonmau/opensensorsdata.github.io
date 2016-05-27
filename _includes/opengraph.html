@@ -1,11 +1,11 @@
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="{% if page.title[page.lang] %}{{ page.title[page.lang] }}{% else %}{{ site.title[page.lang] }}{% endif %}">
-{% if page.excerpt %}<meta name="twitter:description" content="{{ page.title[page.lang] }}">{% endif %}
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+{% if page.excerpt %}<meta name="twitter:description" content="{{ page.title }}">{% endif %}
 {% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.twitter_username }}">{% endif %}
 {% if author.twitter %}<meta name="twitter:creator" content="@{{ site.twitter_username }}">{% endif %}
 {% if page.image.feature %}
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/public/images/stickers/{{ page.image }}">
+<meta name="twitter:image" content="{{ site.url }}{{ site.url }}/assets/img/artwork/osd_wall.png">
 {% else %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{% if page.image %}{{ site.url }}/assets/img/artwork/osd_wall.png{% else %}{{ site.url }}/assets/img/artwork/osd_wall.png{% endif %}">
@@ -15,9 +15,9 @@
 <!-- Facebook -->
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.title %}
-<meta property="og:title" content="{{ page.title[page.lang] }}">
+<meta property="og:title" content="{{ page.title }}">
 {% else %}
-<meta property="og:title" content="{{ page.title[page.lang] }}">
+<meta property="og:title" content="{{ site.title }}">
 {% endif %}
 {% if page.title %}
 <meta property="og:type" content="article">
