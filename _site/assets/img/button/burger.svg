@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="30"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="burger.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1065"
+     inkscape:window-height="535"
+     id="namedview9"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.6190476"
+     inkscape:cx="7.144422"
+     inkscape:cy="16.000301"
+     inkscape:window-x="20"
+     inkscape:window-y="21"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <style
+     id="style4"><![CDATA[
+    svg {
+        background-color: #fefefe;
+    }
+    #top, #middle, #bottom {
+        fill:none;
+        stroke:#002fa7;
+        stroke-width:6;
+        stroke-linecap:round;
+        stroke-opacity:1;
+        stroke-dasharray:none
+    }
+    ]]></style>
+  <line 
+     x1="3.2822843"
+     y1="3.2365162"
+     x2="36.717716"
+     y2="3.2365162"
+     id="top"
+     style="fill:none;stroke:#002fa7;stroke-width:6.47238541;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" />
+  <line
+     x1="3.2822843"
+     y1="14.999999"
+     x2="36.717716"
+     y2="14.999999"
+     id="middle"
+     style="fill:none;stroke:#002fa7;stroke-width:6.47238541;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" />
+  <line
+     x1="3.2822843"
+     y1="26.763483"
+     x2="36.717716"
+     y2="26.763483"
+     id="bottom"
+     style="fill:none;stroke:#002fa7;stroke-width:6.47238541;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

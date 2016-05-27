@@ -23,6 +23,7 @@ lang: it
     {{ site.description[page.lang] }}
   </h2>
 
+<h1 style="font-weight:100; text-transform:lowercase">contact@osd.tools</h1>
 
 <ul class="about-links">
   <li><a href="/manifesto">manifesto</a></li>
@@ -93,7 +94,7 @@ lang: it
 
 <hr>
 
-<h1 id="credits">Credits</h1>
+<h1 id="credits" style="font-weight:100; text-transform:lowercase">Credits</h1>
 
 
 Ci piace riusare contenuti e codice aperto ed è giusto (e in qualche caso anche obbligatorio) dare l'attribuzione agli autori.

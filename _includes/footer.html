@@ -8,12 +8,13 @@
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
-            <li><i class="fa fa-industry"></i> VAT IVA {{ footer.vat }}</li>
-            <li><i class="fa fa-envelope-o"></i> {{ site.email }}</li>
-            <li><i class="fa fa-envelope" aria-hidden="true"></i> (only for Italy) {{ footer.pec }}</a></li>
-            <li><i class="fa fa-university"></i> IBAN {{ footer.iban }}</li>
-            <li><i class="fa fa-home"></i> {{ footer.address}}</li>
-            <li><i class="fa fa-info-circle" aria-hidden="true"></i> <a href="https://www.iubenda.com/privacy-policy/7853379/cookie-policy">cookie policy</a></li>
+            <li><i class="fa fa-lg fa-industry"></i> VAT IVA {{ footer.vat }}</li>
+            <li><i class="fa fa-lg fa-envelope-o"></i> {{ site.email }}</li>
+            <li><i class="fa fa-lg fa-envelope" aria-hidden="true"></i> (only for Italy) {{ footer.pec }}</a></li>
+            <li><i class="fa fa-lg fa-university"></i> IBAN {{ footer.iban }}</li>
+            <li><i class="fa fa-lg fa-home"></i> {{ footer.address}}</li>
+            <li><i class="fa fa-lg fa-map-signs" aria-hidden="true"></i> {{ site.policies[page.lang] }}</li>
+            <li><i class="fa fa-lg fa-info-circle" aria-hidden="true"></i> <a href="https://www.iubenda.com/privacy-policy/7853379/cookie-policy">cookie policy</a></li>
           </ul>
 
         <p class="info"></p>
@@ -21,18 +22,21 @@
 
         <div class="footer-col footer-col-2">
           <ul class="social-media-list">
-            <li><i class="fa fa-lg fa-comments-o" aria-hidden="true"></i><a href="https://{{ footer.discourse }}"> {{ footer.discourse }}</a></li>
-            <li><i class="fa fa-lg fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ footer.github }}">{{ footer.github }}</a></li>
-            <li><i class="fa fa-lg fa-medium"></i> <a href="https://medium.com/{{ footer.medium }}">{{ footer.medium }}</a></li>
-            <li><i class="fa fa-lg fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ footer.twitter }}">{{ footer.twitter }}</a></li>
-            <li><i class="fa fa-lg fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/{{ footer.facebook }}">{{ footer.facebook }}</a></li>
+            <li><i class="fa fa-lg fa-cogs" aria-hidden="true"></i> <a href="http://{{ footer.masterplan }}"> {{ footer.masterplan }}</a></li>
+            <li><i class="fa fa-lg fa-comments-o" aria-hidden="true"></i> <a href="https://{{ footer.discourse }}"> {{ footer.discourse }}</a></li>
+            <li><i class="fa fa-lg fa-key" aria-hidden="true"></i> <a href="http://{{ footer.pod }}"> {{ footer.pod }}</a></li>
+            <li><i class="fa fa-lg fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ footer.github }}"> {{ footer.github }}</a></li>
+            <li><i class="fa fa-lg fa-medium"></i> <a href="https://medium.com/{{ footer.medium }}"> {{ footer.medium }}</a></li>
+            <li><i class="fa fa-lg fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ footer.twitter }}"> {{ footer.twitter }}</a></li>
+            <li><i class="fa fa-lg fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/{{ footer.facebook }}"> {{ footer.facebook }}</a></li>
+            <li><i class="fa fa-lg fa-rss" aria-hidden="true"></i> <a href="http://osd.tools/atom.xml"> osd.tools.atom.xml</a>
           </ul>
         </div>
 
         <div class="footer-col footer-col-3">
           <p>{{ site.description[page.lang] }}</p>
           <p>{{ site.footer[page.lang] }}</p>
-          <p>{{ site.policies[page.lang] }}<p>
+          <p><p>
         </div>
       </div>
 

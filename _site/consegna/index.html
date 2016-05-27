@@ -110,43 +110,44 @@
 
   <body>
 
-    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" >
-
-<!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
-
-
-
-  <nav class="sidebar-nav">
-    
-      <a class="sidebar-nav-item" href="/">Home</a>
-    
-      <a class="sidebar-nav-item" href="/about-it/">About</a>
-    
-      <a class="sidebar-nav-item" href="/manifesto/">Manifesto</a>
-    
-      <a class="sidebar-nav-item active" href="/consegna/">Cosa consegnamo</a>
-    
-      <a class="sidebar-nav-item" href="/articoli">Post & Slide</a>
-    
-      <a class="sidebar-nav-item" href="/search/">Cerca</a>
-    
-  </nav>
-
-
-  <div class="sidebar-item">
-      <p><i class="fa fa-copyright"></i> 2016 opensensorsdata srl eccetto i loghi e il nome, tutti gli altri contenuti sono rilasciati con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa fa-creative-commons"></i>-BY-SA</a> per gli altri contenuti controlla nei <a href="../about-it/#credits">credits</a></p>
-      <p>Guarda le nostre <a href="../servizi/#policies">linee di condotta</a><p>
-  </div>
-
-  <div class="sidebar-item">
-    <a href="//www.iubenda.com/privacy-policy/7853379" class="iubenda-nostyle no-brand iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
-  </div>
-
-  <img src="/assets/img/logos/osd_black_20.svg">
+    <div class="menu-button">
+  <span class="close"></span>
 </div>
+
+<nav>
+  <header></header>
+
+  <div class="posts">
+    <div class="post">
+      
+        <a class="sidebar-nav-item" href="/">Home</a>
+      
+        <a class="sidebar-nav-item" href="/about-it/">About</a>
+      
+        <a class="sidebar-nav-item" href="/manifesto/">Manifesto</a>
+      
+        <a class="sidebar-nav-item active" href="/consegna/">Cosa offriamo</a>
+      
+        <a class="sidebar-nav-item" href="/articoli">Blog</a>
+      
+        <a class="sidebar-nav-item" href="/search/">Cerca</a>
+      
+      <p><i class="fa fa-copyright"></i> 2016 opensensorsdata srl eccetto i loghi e il nome, tutti gli altri contenuti sono rilasciati con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa fa-creative-commons"></i>-BY-SA</a> per gli altri contenuti controlla nei <a href="../about-it/#credits">credits</a></p>
+      <p>Guarda le nostre <a href="../policies">Politiche aziendali</a><p>
+      <p>
+        <a href="//www.iubenda.com/privacy-policy/7853379" class="iubenda-nostyle no-brand iubenda-embed" title="Privacy Policy">
+          Privacy Policy
+        </a>
+        <script type="text/javascript">
+          (function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);
+        </script>
+      </p>
+      <p>
+        <img src="/assets/img/logos/osd_black_20.svg">
+      </p>
+    </div>
+  </div>
+</nav>
 
 
     <!-- Trigger Language -->
@@ -162,7 +163,7 @@
           
         
           
-          <a class="page-link" href="//articoli/">Post & Slide</a>
+          <a class="page-link" href="//articoli/">Blog</a>
           
         
           
@@ -177,6 +178,10 @@
         
           
           <a class="page-link" href="//manifesto/">Manifesto</a>
+          
+        
+          
+          <a class="page-link" href="//policies-it/">Politiche aziendali</a>
           
         
           
@@ -203,28 +208,10 @@
         
         </ul>
       </div>
-
-
-
     <!-- End of Trigger Language -->
 
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
 
 
 
@@ -244,7 +231,7 @@
        • <span class="reading-time" title="Estimated read time">
   
   
-    <i class="fa fa-clock-o"></i> 3 min 
+    <i class="fa fa-clock-o"></i> 2 min 
   
 </span>
 
@@ -372,28 +359,28 @@
     </div>
   </div>
 
-<hr />
-
-<h1 id="policies">Linee di condotta</h1>
-
-<ol>
-  <li>garantiamo la riservatezza dei clienti per (almeno) 5 anni a meno che non sia il cliente a volerne dare pubblicità</li>
-  <li>rilasciamo il codice che sviluppiamo per gli Enti Pubblici</li>
-  <li>usiamo <a href="http://www.projectopendata.com">projectopendata</a> come project management con cui ci coordiniamo con i collaboratori interni ed esterni. I dati e le informazioni contenute e immesse nel sistema non verranno <strong>mai</strong> divulgate o applicati ad usi diversi da quelli concordati con il cliente.</li>
-  <li>usiamo <a href="https://hi.osd.tools">hi.osd.tools</a> come chat/forum per fornire assistenza anche in forma riservata. Tutte le informazioni e le statistiche dei dati inseriti nel sistema non verranno <strong>MAI</strong> usati per usi diversi dal funzionamento minimo del sistema stesso.</li>
-  <li>tutti i nostri siti sono riusabili su github (licenza MIT?)</li>
-  <li>tutto il materiale è rilasciato con licenza CC-BY-SA (tranne nomi e loghi <em>tutti i diritti riservati</em>)</li>
-</ol>
 
   </div>
 
 
 
   <div class="share-page">
-    <i class="fa fa-share-alt"></i>
+      
     <a href="https://twitter.com/intent/tweet?text=Cosa offriamo&url=http://www.osd.tools/consegna/&via=osd_it&related=osd_it" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter-square"></i> Twitter</a>
-      <a href="https://facebook.com/sharer.php?u=http://www.osd.tools/consegna/" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook-official"></i> Facebook</a>
+      <a href="https://facebook.com/sharer.php?u=Cosa offriamo&http://www.osd.tools/consegna/" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook-official"></i> Facebook</a>
+      
   </div>
+
+  <div id='discourse-comments'></div>
+  	<script type="text/javascript">
+  	  DiscourseEmbed = { discourseUrl: 'https://hi.osd.tools/',
+  	                     discourseEmbedUrl: 'http://www.osd.tools/consegna/' };
+  	  (function() {
+  	    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+  	    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+  	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  	  })();
+  	</script>
 
 </article>
 
@@ -410,12 +397,13 @@
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
-            <li><i class="fa fa-industry"></i> VAT IVA 04294660271</li>
-            <li><i class="fa fa-envelope-o"></i> contact@osd.tools</li>
-            <li><i class="fa fa-envelope" aria-hidden="true"></i> (only for Italy) opensensorsdata@pec.it</a></li>
-            <li><i class="fa fa-university"></i> IBAN IT 56 G 02008 02021 000103730837</li>
-            <li><i class="fa fa-home"></i> via Daniele Manin, 60 Venezia Italy</li>
-            <li><i class="fa fa-info-circle" aria-hidden="true"></i> <a href="https://www.iubenda.com/privacy-policy/7853379/cookie-policy">cookie policy</a></li>
+            <li><i class="fa fa-lg fa-industry"></i> VAT IVA 04294660271</li>
+            <li><i class="fa fa-lg fa-envelope-o"></i> contact@osd.tools</li>
+            <li><i class="fa fa-lg fa-envelope" aria-hidden="true"></i> (only for Italy) opensensorsdata@pec.it</a></li>
+            <li><i class="fa fa-lg fa-university"></i> IBAN IT 56 G 02008 02021 000103730837</li>
+            <li><i class="fa fa-lg fa-home"></i> via Daniele Manin, 60 Venezia Italy</li>
+            <li><i class="fa fa-lg fa-map-signs" aria-hidden="true"></i> Guarda le nostre <a href="../policies">Politiche aziendali</a></li>
+            <li><i class="fa fa-lg fa-info-circle" aria-hidden="true"></i> <a href="https://www.iubenda.com/privacy-policy/7853379/cookie-policy">cookie policy</a></li>
           </ul>
 
         <p class="info"></p>
@@ -423,18 +411,21 @@
 
         <div class="footer-col footer-col-2">
           <ul class="social-media-list">
-            <li><i class="fa fa-lg fa-comments-o" aria-hidden="true"></i><a href="https://hi.osd.tools"> hi.osd.tools</a></li>
-            <li><i class="fa fa-lg fa-github" aria-hidden="true"></i> <a href="https://github.com/opensensorsdata">opensensorsdata</a></li>
-            <li><i class="fa fa-lg fa-medium"></i> <a href="https://medium.com/opensensorsdata-review">opensensorsdata-review</a></li>
-            <li><i class="fa fa-lg fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/osd_it">osd_it</a></li>
-            <li><i class="fa fa-lg fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/opensensorsdata">opensensorsdata</a></li>
+            <li><i class="fa fa-lg fa-cogs" aria-hidden="true"></i> <a href="http://www.masterplan.tools"> www.masterplan.tools</a></li>
+            <li><i class="fa fa-lg fa-comments-o" aria-hidden="true"></i> <a href="https://hi.osd.tools"> hi.osd.tools</a></li>
+            <li><i class="fa fa-lg fa-key" aria-hidden="true"></i> <a href="http://www.projectopendata.com"> www.projectopendata.com</a></li>
+            <li><i class="fa fa-lg fa-github" aria-hidden="true"></i> <a href="https://github.com/opensensorsdata"> opensensorsdata</a></li>
+            <li><i class="fa fa-lg fa-medium"></i> <a href="https://medium.com/opensensorsdata-review"> opensensorsdata-review</a></li>
+            <li><i class="fa fa-lg fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/osd_it"> osd_it</a></li>
+            <li><i class="fa fa-lg fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/opensensorsdata"> opensensorsdata</a></li>
+            <li><i class="fa fa-lg fa-rss" aria-hidden="true"></i> <a href="http://osd.tools/atom.xml"> osd.tools.atom.xml</a>
           </ul>
         </div>
 
         <div class="footer-col footer-col-3">
           <p>osd è una società che consegna strategie ed esegue progetti di riuso dei dati, rendendo la disponibilità aperta un fondamentale e sostenibile elemento per i modelli di business</p>
           <p><i class="fa fa-copyright"></i> 2016 opensensorsdata srl eccetto i loghi e il nome, tutti gli altri contenuti sono rilasciati con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa fa-creative-commons"></i>-BY-SA</a> per gli altri contenuti controlla nei <a href="../about-it/#credits">credits</a></p>
-          <p>Guarda le nostre <a href="../servizi/#policies">linee di condotta</a><p>
+          <p><p>
         </div>
       </div>
 
@@ -452,3 +443,4 @@
 <script src="/js/jquery.slabtext.min.js"></script>
 <script src="/js/jquery.slabtext.js"></script>
 <script src="/js/slabtext-control.js"></script>
+<script src="/js/menu.js"></script>

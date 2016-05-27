@@ -17,8 +17,8 @@ author:
   email: 'contact@osd.tools'
 
 policies:
-  en: 'See our <a href="../services/#policies">policies</a>'
-  it: 'Guarda le nostre <a href="../servizi/#policies">linee di condotta</a>'
+  en: 'See our <a href="../policies">policies</a>'
+  it: 'Le nostre <a href="../policies">Politiche aziendali</a>'
 
 footer:
   en: '<i class="fa fa-copyright"></i> 2016 opensensorsdata srl except logos and name all different content are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa fa-creative-commons"></i>-BY-SA</a> for another content see <a href="../about/#credits">credits</a>'

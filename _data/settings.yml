@@ -17,10 +17,10 @@ t:
       name: "Manifesto"
       url: "/manifesto/"
     servizi:
-      name: "Cosa consegnamo"
+      name: "Cosa offriamo"
       url: "/consegna/"
     post:
-      name: "Post & Slide"
+      name: "Blog"
       url: "/articoli"
     cerca:
       name: "Cerca"
@@ -41,7 +41,7 @@ t:
       name: "What we deliver"
       url: "/consegna-en/"
     post:
-      name: "Posts & Slides"
+      name: "Blog"
       url: "/articles"
     cerca:
       name: "Search"
@@ -150,6 +150,8 @@ footer:
   iban: 'IT 56 G 02008 02021 000103730837',
   address: 'via Daniele Manin, 60 Venezia Italy',
   discourse: 'hi.osd.tools',
+  masterplan: 'www.masterplan.tools',
+  pod: 'www.projectopendata.com',
   github: 'opensensorsdata',
   medium: 'opensensorsdata-review',
   twitter: 'osd_it',

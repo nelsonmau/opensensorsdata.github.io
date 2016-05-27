@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /**
  * Reset some basic elements
  */
@@ -1021,231 +1020,6 @@ a.wrapper-lang {
 .en:lang(en), .ita:lang(it) {
   font-weight: 800; }
 
-/*
- * Sidebar
- *
- * The sidebar is the drawer, the item we are toggling with our handy hamburger
- * button in the corner of the page.
- *
- * This particular sidebar implementation was inspired by Chris Coyier's
- * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
- * comments by a reader. It modifies both implementations to continue using the
- * checkbox (no change in URL means no polluted browser history), but this uses
- * `position` for the menu to avoid some potential content reflow issues.
- *
- * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
- */
-/* Style and "hide" the sidebar */
-.sidebar {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: -14rem;
-  width: 14rem;
-  visibility: hidden;
-  overflow-y: auto;
-  font-family: "Open Sans", PT Sans, Helvetica, Arial, sans-serif;
-  font-size: .875rem;
-  /* 15px */
-  color: #333;
-  background-color: rgba(255, 255, 255, 0.9);
-  -webkit-transition: all .3s ease-in-out;
-  transition: all .3s ease-in-out; }
-
-@media (min-width: 30em) {
-  .sidebar {
-    font-size: .75rem;
-    /* 14px */ } }
-/* Sidebar content */
-.sidebar a {
-  font-weight: normal;
-  color: #333; }
-
-.sidebar-item {
-  padding: 1rem; }
-
-.sidebar-item p:last-child {
-  margin-bottom: 0; }
-
-/* Sidebar nav */
-.sidebar-nav {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
-
-.sidebar-nav-item {
-  display: block;
-  padding: .5rem 1rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.1); }
-
-.sidebar-nav-item.active,
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: none;
-  background-color: #ea5480;
-  border-color: transparent;
-  color: #fff; }
-
-@media (min-width: 48em) {
-  .sidebar-item {
-    padding: 1.5rem; }
-
-  .sidebar-nav-item {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem; } }
-/* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
-.sidebar-checkbox {
-  position: absolute;
-  opacity: 0;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none; }
-
-/* Style the `label` that we use to target the `.sidebar-checkbox` */
-.sidebar-toggle {
-  position: absolute;
-  z-index: 10;
-  top: .8rem;
-  left: 50px;
-  display: block;
-  color: #505050;
-  background-color: trasparent;
-  /* per selezionare il colore dello sfondo del pulsante del menù*/
-  border-radius: .25rem;
-  cursor: pointer; }
-  @media screen and (max-width: 600px) {
-    .sidebar-toggle {
-      position: absolute;
-      top: .5rem;
-      left: 25px; } }
-
-.sidebar-toggle:before {
-  display: inline-block;
-  width: 30px;
-  height: 15px;
-  content: "";
-  background-image: -webkit-linear-gradient(to bottom, #002fa7, #002fa7 20%, #fff 20%, #fff 40%, #002fa7 40%, #002fa7 60%, #fff 60%, #fff 80%, #002fa7 80%, #002fa7 100%);
-  background-image: -moz-linear-gradient(to bottom, #002fa7, #002fa7 20%, #fff 20%, #fff 40%, #002fa7 40%, #002fa7 60%, #fff 60%, #fff 80%, #002fa7 80%, #002fa7 100%);
-  background-image: -ms-linear-gradient(to bottom, #002fa7, #002fa7 20%, #fff 20%, #fff 40%, #002fa7 40%, #002fa7 60%, #fff 60%, #fff 80%, #002fa7 80%, #002fa7 100%);
-  background-image: linear-gradient(to bottom, #002fa7, #002fa7 20%, #fff 20%, #fff 40%, #002fa7 40%, #002fa7 60%, #fff 60%, #fff 80%, #002fa7 80%, #002fa7 100%); }
-
-.sidebar-toggle:active,
-#sidebar-checkbox:focus ~ .sidebar-toggle,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #fff;
-  background-color: trasparent;
-  /* per selezionare il colore dello sfondo del pulsante del menù quando è selezionato */ }
-
-.sidebar-toggle:active:before,
-#sidebar-checkbox:focus ~ .sidebar-toggle:before,
-#sidebar-checkbox:checked ~ .sidebar-toggle:before {
-  background-image: -webkit-linear-gradient(to bottom, #ea5480, #ea5480 20%, #fff 20%, #fff 40%, #ea5480 40%, #ea5480 60%, #fff 60%, #fff 80%, #ea5480 80%, #ea5480 100%);
-  background-image: -moz-linear-gradient(to bottom, #ea5480, #ea5480 20%, #fff 20%, #fff 40%, #ea5480 40%, #ea5480 60%, #fff 60%, #fff 80%, #ea5480 80%, #ea5480 100%);
-  background-image: -ms-linear-gradient(to bottom, #ea5480, #ea5480 20%, #fff 20%, #fff 40%, #ea5480 40%, #ea5480 60%, #fff 60%, #fff 80%, #ea5480 80%, #ea5480 100%);
-  background-image: linear-gradient(to bottom, #ea5480, #ea5480 20%, #fff 20%, #fff 40%, #ea5480 40%, #ea5480 60%, #fff 60%, #fff 80%, #ea5480 80%, #ea5480 100%); }
-
-@media print {
-  .sidebar-toggle {
-    display: none; } }
-/* Slide effect
- *
- * Handle the sliding effects of the sidebar and content in one spot, seperate
- * from the default styles.
- *
- * As an a heads up, we don't use `transform: translate3d()` here because when
- * mixed with `position: fixed;` for the sidebar toggle, it creates a new
- * containing block. Put simply, the fixed sidebar toggle behaves like
- * `position: absolute;` when transformed.
- *
- * Read more about it at http://meyerweb.com/eric/thoughts/2011/09/12/.
- */
-.wrap,
-.sidebar,
-.sidebar-toggle {
-  -webkit-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
-  backface-visibility: hidden; }
-
-.wrap,
-.sidebar-toggle {
-  -webkit-transition: -webkit-transform .3s ease-in-out;
-  transition: transform .3s ease-in-out; }
-
-#sidebar-checkbox:checked + .sidebar {
-  z-index: 10;
-  visibility: visible; }
-
-#sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .wrap,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(14rem);
-  -ms-transform: translateX(14rem);
-  transform: translateX(14rem); }
-
-/*
- * Overlay sidebar
- *
- * Make the sidebar content overlay the viewport content instead of pushing it
- * aside when toggled.
- */
-.sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
-  -webkit-transform: translateX(0);
-  -ms-transform: translateX(0);
-  transform: translateX(0); }
-
-/*.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar-toggle {
-  box-shadow: 0 0 0 .25rem #fff;
-}
-.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
-  box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
-}
-
-/* Only one tweak for a reverse layout */
-/*.layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
-  box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
-}
-*/
-/*
- * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` and sidebar toggle
- * on the right side.
- */
-.layout-reverse .sidebar {
-  left: auto;
-  right: -14rem; }
-
-.layout-reverse .sidebar-toggle {
-  left: auto;
-  right: 1rem;
-  z-index: 10; }
-
-.layout-reverse #sidebar-checkbox:checked ~ .sidebar,
-.layout-reverse #sidebar-checkbox:checked ~ .wrap,
-.layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(-14rem);
-  -ms-transform: translateX(-14rem);
-  transform: translateX(-14rem); }
-
-/*
- * Overlay sidebar
- *
- * Make the sidebar content overlay the viewport content instead of pushing it
- * aside when toggled.
- */
-.sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
-  -webkit-transform: translateX(0);
-  -ms-transform: translateX(0);
-  transform: translateX(0); }
-
-.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar-toggle {
-  box-shadow: 0 0 0 .25rem #fff; }
-
-.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
-  box-shadow: 0.25rem 0 0.5rem rgba(0, 0, 0, 0.1); }
-
-/* Only one tweak for a reverse layout */
-.layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
-  box-shadow: -0.25rem 0 0.5rem rgba(0, 0, 0, 0.1); }
-
 .share-page {
   text-align: center;
   background: rgba(105, 105, 105, 0.7);
@@ -1265,3 +1039,250 @@ a.sidebar-nav-item:focus {
   .share-page {
     line-height: 1.2;
     font-size: 10px; } }
+/**
+ * Burger
+ * Credit: Joren Van Hee - http://joren.co/sass-burger/
+ */
+/**
+ * Select parts of the burger
+ */
+/**
+ * Burger animations
+ */
+/**
+ * Menu Button
+ */
+.menu-button {
+  position: fixed;
+  padding: 12px 10px;
+  border-radius: 50px;
+  margin-top: 8px;
+  margin-right: 20px;
+  margin-left: 0;
+  top: 0;
+  left: 17px;
+  z-index: 30;
+  transition: 1s;
+  background: #002fa7;
+  border: 2px solid #002fa7; }
+  @media screen and (max-width: 600px) {
+    .menu-button {
+      position: absolute; } }
+
+.menu-button span.close {
+  position: relative;
+  margin-top: 7px;
+  margin-bottom: 7px; }
+  @media screen and (max-width: 600px) {
+    .menu-button span.close {
+      margin-top: 2px;
+      margin-bottom: 2px; } }
+
+.menu-button span.close, .menu-button span.close:before, .menu-button span.close:after {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #fff;
+  -webkit-transition-property: background-color, -webkit-transform;
+  -moz-transition-property: background-color, -moz-transform;
+  -o-transition-property: background-color, -o-transform;
+  transition-property: background-color, transform;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s; }
+  @media screen and (max-width: 600px) {
+    .menu-button span.close, .menu-button span.close:before, .menu-button span.close:after {
+      width: 10px;
+      height: 1px; } }
+
+.menu-button span.close:before, .menu-button span.close:after {
+  position: absolute;
+  content: ""; }
+
+.menu-button span.close:before {
+  top: -7px; }
+
+.menu-button span.close:after {
+  top: 7px; }
+
+.menu-button.open {
+  -webkit-animation: fadeIn 1s;
+  -moz-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+  transform: translateX(220px);
+  border: 2px solid #fff; }
+  @media screen and (max-width: 600px) {
+    .menu-button.open {
+      position: fixed; } }
+
+.menu-button.open span.close {
+  background-color: transparent; }
+
+.menu-button.open span.close:before {
+  -webkit-transform: translateY(7px) rotate(45deg);
+  -moz-transform: translateY(7px) rotate(45deg);
+  -ms-transform: translateY(7px) rotate(45deg);
+  -o-transform: translateY(7px) rotate(45deg);
+  transform: translateY(7px) rotate(45deg); }
+
+.menu-button.open span.close:after {
+  -webkit-transform: translateY(-7px) rotate(-45deg);
+  -moz-transform: translateY(-7px) rotate(-45deg);
+  -ms-transform: translateY(-7px) rotate(-45deg);
+  -o-transform: translateY(-7px) rotate(-45deg);
+  transform: translateY(-7px) rotate(-45deg); }
+
+.menu-button:hover {
+  cursor: pointer; }
+
+/**
+ * Navigaiton styles
+ */
+nav {
+  float: left;
+  width: 300px;
+  position: fixed;
+  height: 100%;
+  z-index: 29; }
+
+nav header {
+  float: left;
+  width: 300px;
+  background: #002fa7;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  transition: 1s;
+  transform: translateX(-300px); }
+
+nav header.open {
+  -webkit-animation: openNav 1s;
+  -moz-animation: openNav 1s;
+  animation: openNav 1s;
+  transform: translateX(0px); }
+  @media screen and (max-width: 600px) {
+    nav header.open {
+      width: 100%; } }
+
+.sidebar-nav-item {
+  display: block;
+  padding: .5rem 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1); }
+
+.sidebar-nav-item.active,
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: none;
+  background-color: #ea5480;
+  border-color: transparent;
+  color: #fff; }
+
+nav .posts {
+  float: left;
+  width: 300px;
+  height: calc(100% - 60px);
+  overflow-y: scroll;
+  position: fixed;
+  top: 60px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fefefe;
+  z-index: 3;
+  transition: 1s;
+  transform: translateX(-300px); }
+
+nav .posts.open {
+  -webkit-animation: openNav 1s;
+  -moz-animation: openNav 1s;
+  animation: openNav 1s;
+  transform: translateX(0px); }
+  @media screen and (max-width: 600px) {
+    nav .posts.open {
+      width: 100%; } }
+
+nav .posts .post {
+  display: block;
+  overflow: hidden;
+  color: #1a1a1a;
+  position: relative;
+  font-weight: 100;
+  font-size: .8rem; }
+
+nav .posts .post:hover:after {
+  width: 12px;
+  height: 12px;
+  left: 25px;
+  margin-top: 1px; }
+
+nav .posts .post:after {
+  content: "";
+  position: absolute;
+  left: 28px;
+  top: 50%;
+  height: 6px;
+  width: 6px;
+  background: #fff;
+  margin-top: 4px;
+  border-radius: 6px;
+  opacity: 0.4; }
+
+nav .posts .post.active:before {
+  border: 2px solid #ffffff;
+  border-radius: 20px; }
+
+nav .posts .post.active:after {
+  opacity: 1; }
+
+nav .posts .post.active p {
+  opacity: 1; }
+
+nav .posts .post {
+  text-decoration: none;
+  color: #1a1a1a;
+  display: block;
+  padding: .2rem 1rem 2rem;
+  position: relative;
+  z-index: 20; }
+
+nav .posts .post p {
+  opacity: 0.5;
+  font-size: 0.75rem;
+  margin: 0; }
+
+/**
+ * Animation keyframes
+ */
+@-webkit-keyframes openNav {
+  from {
+    transform: translateX(-300px); }
+  to {
+    transform: translateX(0px); } }
+@-moz-keyframes openNav {
+  from {
+    transform: translateX(-300px); }
+  to {
+    transform: translateX(0px); } }
+@keyframes openNav {
+  from {
+    transform: translateX(-300px); }
+  to {
+    transform: translateX(0px); } }
+@-webkit-keyframes moveContent {
+  from {
+    transform: translateX(0px); }
+  to {
+    transform: translateX(300px); } }
+@-moz-keyframes moveContent {
+  from {
+    transform: translateX(0px); }
+  to {
+    transform: translateX(300px); } }
+@keyframes moveContent {
+  from {
+    transform: translateX(0px); }
+  to {
+    transform: translateX(300px); } }

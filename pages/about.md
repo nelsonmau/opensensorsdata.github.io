@@ -19,9 +19,12 @@ lang: en
 </div>
 
 
+
   <h2 class="about-heading">
     {{ site.description[page.lang] }}
   </h2>
+
+<h1 style="font-weight:100; text-transform:lowercase">contact@osd.tools</h1>
 
 
 <ul class="about-links">
@@ -93,7 +96,7 @@ lang: en
 
 <hr>
 
-<h1 id="credits">Credits</h1>
+<h1 id="credits" style="font-weight:100; text-transform:lowercase">Credits</h1>
 
 We like to reuse open contents and opensource code and we think is right (in some cases we must) to credit the authors for their work.
 

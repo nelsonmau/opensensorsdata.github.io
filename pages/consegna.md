@@ -53,14 +53,3 @@ L’[opendata](http://opendatahandbook.org/) sta diventando sempre più un eleme
     </div>
   </div>
 {% endfor %}
-
-<hr>
-
-<h1 id="policies">Linee di condotta</h1>
-
-1. garantiamo la riservatezza dei clienti per (almeno) 5 anni a meno che non sia il cliente a volerne dare pubblicità
-2. rilasciamo il codice che sviluppiamo per gli Enti Pubblici
-3. usiamo [projectopendata](http://www.projectopendata.com) come project management con cui ci coordiniamo con i collaboratori interni ed esterni. I dati e le informazioni contenute e immesse nel sistema non verranno **mai** divulgate o applicati ad usi diversi da quelli concordati con il cliente.
-4. usiamo [hi.osd.tools](https://hi.osd.tools) come chat/forum per fornire assistenza anche in forma riservata. Tutte le informazioni e le statistiche dei dati inseriti nel sistema non verranno **MAI** usati per usi diversi dal funzionamento minimo del sistema stesso.
-5. tutti i nostri siti sono riusabili su github (licenza MIT?)
-6. tutto il materiale è rilasciato con licenza CC-BY-SA (tranne nomi e loghi _tutti i diritti riservati_)

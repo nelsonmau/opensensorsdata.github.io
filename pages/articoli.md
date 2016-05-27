@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Post & Slide'
+title: 'Blog'
 permalink: /articoli/
 date: 2016-05-18 11:05:51 +0100
 ref: articles

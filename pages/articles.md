@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Posts & Slides'
+title: 'Blog'
 permalink: /articles/
 date: 2016-05-18 11:05:51 +0100
 ref: articles

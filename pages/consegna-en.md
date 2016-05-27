@@ -53,8 +53,3 @@ lang: en
     </div>
   </div>
 {% endfor %}
-
-
-<hr>
-
-<h2 id="policies">Policies</h2>
