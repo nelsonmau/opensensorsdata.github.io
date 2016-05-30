@@ -4,13 +4,56 @@
  <title>opensensorsdata</title>
  <link href="http://www.osd.tools/atom.xml" rel="self"/>
  <link href="http://www.osd.tools/"/>
- <updated>2016-05-30T17:19:58+02:00</updated>
+ <updated>2016-05-30T17:48:21+02:00</updated>
  <id>http://www.osd.tools</id>
  <author>
    <name>osd crew</name>
    <email>contact@osd.tools</email>
  </author>
 
+ 
+ <entry>
+   <title>Da opensensorsdata a osd</title>
+   <link href="http://www.osd.tools/2016/05/30/da-opensensorsdata-a-osd.html"/>
+   <updated>2016-05-30T00:00:00+02:00</updated>
+   <id>http://www.osd.tools/2016/05/30/da-opensensorsdata-a-osd</id>
+   <author>luca</author>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/artwork/osd_wall.png&quot; alt=&quot;osd nuovo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eccoci!
+Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da oggi &lt;strong&gt;osd&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;perch-osd&quot;&gt;Perché osd&lt;/h2&gt;
+&lt;p&gt;Abbiamo deciso di rendere più facile ricordare il nome di opensensorsdata anche perché in questo anno trascorso abbiamo modificato non poco. Dal nostro &lt;a href=&quot;http://osd.tools/2015/02/20/P-ci-stiamo-connettendo.html&quot;&gt;primo post&lt;/a&gt; (quando non c’era ancora il sito) abbiamo fatto molte cose:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.archeostichers.com&quot;&gt;Archeostickers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.masterplan.tools&quot;&gt;Masterplan - Build it to share!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.osd.tools/2016/02/10/P-Pubblicare-codice-pubblico.html&quot;&gt;Il Porcellino&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;in tutte queste occasioni noi eravamo &lt;em&gt;“quelli strani di osd”&lt;/em&gt; e siccome cerchiamo sempre di &lt;strong&gt;dare gli strumenti per usarli&lt;/strong&gt; ci è venuto naturale &lt;strong&gt;osd.tools&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;discutiamone&quot;&gt;Discutiamone&lt;/h2&gt;
+&lt;p&gt;Ma le novità non sono solo nella forma e nell’estetica del nuovo sito (sempre in Jekyll e con tutto il codice riusabile su github).&lt;/p&gt;
+
+&lt;p&gt;Abbiamo fatto anche &lt;strong&gt;&lt;a href=&quot;https://hi.osd.tools&quot;&gt;osdiscourse&lt;/a&gt;&lt;/strong&gt;
+&lt;a href=&quot;https://hi.osd.tools&quot;&gt;&lt;img src=&quot;/assets/img/products/discourse/osd_discourse.png&quot; alt=&quot;osd nuovo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vogliamo condividere meglio tutte le cose che studiamo e - soprattutto - proporre dei &lt;em&gt;&lt;a href=&quot;https://hi.osd.tools/c/giardinetti&quot;&gt;giardinetti&lt;/a&gt;&lt;/em&gt; dove ognuno possa farci la fatidica domanda che tanti di fanno:&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/dtpv5R1kkLY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Inoltre abbiamo creato la sezione &lt;strong&gt;&lt;a href=&quot;https://hi.osd.tools/c/market-reuse&quot;&gt;Market Reuse&lt;/a&gt;&lt;/strong&gt; con le sottosezioni:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;cerco dati&lt;/li&gt;
+  &lt;li&gt;offro dati&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il nostro obiettivo è distribuire il più possibile il nostro metodo di riuso dei dati e della conoscenza, quindi… non ci resta che darvi il benvenuto e iniziare a chiacchierare&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Masterplan come si fa</title>
