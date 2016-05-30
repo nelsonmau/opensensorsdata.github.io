@@ -463,8 +463,11 @@ li.bookmarks {
 .post-content {
   margin-bottom: 50px; }
   .post-content h2 {
-    font-size: 32px; }
+    font-size: 4rem; }
     @media screen and (max-width: 800px) {
+      .post-content h2 {
+        font-size: 28px; } }
+    @media screen and (max-width: 600px) {
       .post-content h2 {
         font-size: 28px; } }
   .post-content h3 {

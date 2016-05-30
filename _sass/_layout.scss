@@ -340,9 +340,13 @@ li.bookmarks {
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 4rem;
 
         @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+
+        @include media-query($on-palm) {
             font-size: 28px;
         }
     }
