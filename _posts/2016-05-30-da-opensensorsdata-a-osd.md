@@ -25,6 +25,9 @@ Abbiamo deciso di rendere più facile ricordare il nome di opensensorsdata anche
 
 in tutte queste occasioni noi eravamo *"quelli strani di osd"* e siccome cerchiamo sempre di **dare gli strumenti per usarli** ci è venuto naturale **osd.tools**.
 
+## opensensorsdata vive!
+È cambiata opensensorsdata e se prima era l'idea di distribuire meglio i dati dai sensori, oggi ci siamo accorti che le persone stesse sono sensori. La differenza tra le persone e le macchine sta nella curiosità e nella fantasia di riusare le proprie informazioni. Quindi la parte *sensors* continua e si espande al rapporto tra uomo e macchina.
+
 
 ## Discutiamone
 Ma le novità non sono solo nella forma e nell'estetica del nuovo sito (sempre in Jekyll e con tutto il codice riusabile su github).
