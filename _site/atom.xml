@@ -4,7 +4,7 @@
  <title>opensensorsdata</title>
  <link href="http://www.osd.tools/atom.xml" rel="self"/>
  <link href="http://www.osd.tools/"/>
- <updated>2016-05-30T17:48:21+02:00</updated>
+ <updated>2016-05-30T17:48:45+02:00</updated>
  <id>http://www.osd.tools</id>
  <author>
    <name>osd crew</name>
@@ -33,6 +33,9 @@ Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da ogg
 &lt;/ol&gt;
 
 &lt;p&gt;in tutte queste occasioni noi eravamo &lt;em&gt;“quelli strani di osd”&lt;/em&gt; e siccome cerchiamo sempre di &lt;strong&gt;dare gli strumenti per usarli&lt;/strong&gt; ci è venuto naturale &lt;strong&gt;osd.tools&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;opensensorsdata-vive&quot;&gt;opensensorsdata vive!&lt;/h2&gt;
+&lt;p&gt;È cambiata opensensorsdata e se prima era l’idea di distribuire meglio i dati dai sensori, oggi ci siamo accorti che le persone stesse sono sensori. La differenza tra le persone e le macchine sta nella curiosità e nella fantasia di riusare le proprie informazioni. Quindi la parte &lt;em&gt;sensors&lt;/em&gt; continua e si espande al rapporto tra uomo e macchina.&lt;/p&gt;
 
 &lt;h2 id=&quot;discutiamone&quot;&gt;Discutiamone&lt;/h2&gt;
 &lt;p&gt;Ma le novità non sono solo nella forma e nell’estetica del nuovo sito (sempre in Jekyll e con tutto il codice riusabile su github).&lt;/p&gt;
