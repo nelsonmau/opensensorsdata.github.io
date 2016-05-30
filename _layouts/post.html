@@ -58,7 +58,7 @@ layout: default
 <div id='discourse-comments'></div>
 	<script type="text/javascript">
 	  DiscourseEmbed = { discourseUrl: 'https://hi.osd.tools/',
-	                     discourseEmbedUrl: 'http://www.osd.tools/{{page.url}}' };
+	                     discourseEmbedUrl: '{{ site.url }}{{ site.baseurl }}{{page.url}}' };
 	  (function() {
 	    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
 	    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
