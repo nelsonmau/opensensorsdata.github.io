@@ -29,7 +29,7 @@ index:
   it:
 
 baseurl: /
-url: http://osd.tools
+url: http://www.osd.tools
 
 touch_icon: /assets/img/logos/apple-touch-icon-144-precomposed.png
 favicon: /assets/img/logos/favicon.ico
