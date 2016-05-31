@@ -5,10 +5,10 @@
 {% if author.twitter %}<meta name="twitter:creator" content="@{{ site.author.twitter }}">{% endif %}
 {% if page.image.feature %}
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/public/images/stickers/{{ page.image }}">
+<meta name="twitter:image" content="{{ site.url }}/asset/img/posts/{{ page.image }}">
 {% else %}
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="{% if page.image %}{{ site.url }}/public/images/stickers/{{ page.image }}{% else %}{{ site.url }}/public/images/stickers/lewis_chessmen.png{% endif %}">
+<meta name="twitter:image" content="{% if page.image %}{{ site.url }}/asset/img/posts/{{ page.image }}{% else %}{{ site.url }}/assets/img/artwork/osd_wall.png{% endif %}">
 {% endif %}
 
 
@@ -27,7 +27,7 @@
 {% if page.description %}
 <meta property="og:description" content="{{ page.title }}">
 {% else %}
-<meta property="og:description" content="{{ site.description }}">
+<meta property="og:description" content="{{ site.description[page.lang] }}">
 {% endif %}
 {% if page.url %}
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
@@ -37,9 +37,9 @@
 <meta property="article:author" content="{{ site.url }}/about/">
 {% endif %}
 {% if page.image %}
-<meta property="og:image" content="{{ site.url }}/public/images/stickers/{{ page.image }}">
+<meta property="og:image" content="{{ site.url }}/asset/img/posts/{{ page.image }}">
 {% else %}
-<meta property="og:image" content="{{ site.url }}/public/images/lewis_chessmen_wall.jpg">
+<meta property="og:image" content="{{ site.url }}/assets/img/artwork/osd_wall.png">
 {% endif %}
 {% if page.tags %}
   {% for tag in page.tags %}

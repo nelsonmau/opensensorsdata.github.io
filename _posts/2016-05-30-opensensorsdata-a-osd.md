@@ -11,7 +11,7 @@ tags:
 - change management
 ---
 
-![osd nuovo](/assets/img/artwork/osd_wall.png)
+![osd nuovo](/assets/img/artwork/osd_tangram_wall.png)
 
 Eccoci!
 Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da oggi **osd**
