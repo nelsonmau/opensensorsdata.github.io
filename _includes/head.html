@@ -1,72 +1,72 @@
 <head>
-{% include opengraph.html %}
+  {% include opengraph.html %}
 
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title }}</title>
-	<meta name="keywords" content="project management, change management, community management, service design, philosophical counseling, opendata">
-	<meta name="description" content="{{ site.description[page.lang] }}">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+  	<meta name="keywords" content="project management, change management, community management, service design, philosophical counseling, opendata">
+  	<meta name="description" content="{{ site.description[page.lang] }}">
 
-<!-- FEED -->
-{% feed_meta %}
-
-
-
-<!-- FONT -->
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ "assets/font-awesome-4.6.1/css/font-awesome.min.css" | prepend: site.baseurl }}">
-
-<!-- ICON -->
-  {% if site.favicon %}<link rel="shortcut icon" href="{{ site.baseurl }}assets/img/logos/favicon.ico" type="image/x-icon">{% endif %}
-	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.baseurl }}assets/img/logos/apple-touch-icon-144-precomposed.png">{% endif %}
-
-<!-- CSS -->
-<link rel="stylesheet" href="{{ "assets/css/main.css" | prepend: site.baseurl }}">
-<link rel="stylesheet" href="{{ "assets/css/content.css" | prepend: site.baseurl }}">
-<link rel="stylesheet" href="{{ "assets/css/tags.css" | prepend: site.baseurl }}">
-<link rel="stylesheet" href="{{ "assets/css/slabtext.css" | prepend: site.baseurl }}">
-<link rel="stylesheet" href="{{ "assets/css/slabtext-base.css" | prepend: site.baseurl }}">
-<link rel="stylesheet" href="{{ "assets/css/cookie-banner.css" | prepend: site.baseurl }}">
+  <!-- FEED -->
+  {% feed_meta %}
 
 
 
+  <!-- FONT -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ "assets/font-awesome-4.6.1/css/font-awesome.min.css" | prepend: site.baseurl }}">
+
+  <!-- ICON -->
+    {% if site.favicon %}<link rel="shortcut icon" href="{{ site.baseurl }}assets/img/logos/favicon.ico" type="image/x-icon">{% endif %}
+  	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.baseurl }}assets/img/logos/apple-touch-icon-144-precomposed.png">{% endif %}
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ "assets/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "assets/css/content.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "assets/css/tags.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "assets/css/slabtext.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "assets/css/slabtext-base.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "assets/css/cookie-banner.css" | prepend: site.baseurl }}">
 
 
-<script type="text/javascript">
-        // <![CDATA[
-        var _iub = _iub || [];
-        _iub.csConfiguration = {
-            siteId: 255656,
-            cookiePolicyId: 7853379,
-        		lang: "it",
-            banner: {
-                slideDown: false,
-                applyStyles: false,
-                content: "<p>ATTENZIONE! Usiamo dei piccoli file chiamati cookie per analytics e altre robette. Consulta la nostra %{cookie_policy_link}.</p>",
-    	        cookiePolicyLinkCaption: "cookie policy",
-                backgroundColor: "green",
-                innerHtmlCloseBtn: "OK"
-            }
-        };
-        (function(w, d) {
-            var loader = function() {
-                var s = d.createElement("script"),
-                    tag = d.getElementsByTagName("script")[0];
-                s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js";
-                tag.parentNode.insertBefore(s, tag);
-            };
-            if (w.addEventListener) {
-                w.addEventListener("load", loader, false);
-            } else if (w.attachEvent) {
-                w.attachEvent("onload", loader);
-            } else {
-                w.onload = loader;
-            }
-        })(window, document);
-        // ]]>
-    </script>
+
+
+
+  <script type="text/javascript">
+      // <![CDATA[
+      var _iub = _iub || [];
+      _iub.csConfiguration = {
+          siteId: 255656,
+          cookiePolicyId: 7853379,
+      		lang: "it",
+          banner: {
+              slideDown: false,
+              applyStyles: false,
+              content: "<p>ATTENZIONE! Usiamo dei piccoli file chiamati cookie per analytics e altre robette. Consulta la nostra %{cookie_policy_link}.</p>",
+  	        cookiePolicyLinkCaption: "cookie policy",
+              backgroundColor: "green",
+              innerHtmlCloseBtn: "OK"
+          }
+      };
+      (function(w, d) {
+          var loader = function() {
+              var s = d.createElement("script"),
+                  tag = d.getElementsByTagName("script")[0];
+              s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js";
+              tag.parentNode.insertBefore(s, tag);
+          };
+          if (w.addEventListener) {
+              w.addEventListener("load", loader, false);
+          } else if (w.attachEvent) {
+              w.attachEvent("onload", loader);
+          } else {
+              w.onload = loader;
+          }
+      })(window, document);
+      // ]]>
+  </script>
 
 
 

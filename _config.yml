@@ -34,8 +34,10 @@ url: http://osd.tools
 touch_icon: /assets/img/logos/apple-touch-icon-144-precomposed.png
 favicon: /assets/img/logos/favicon.ico
 
-twitter_username: osd_it
-github_username:  opensensorsdata
+twitter:
+  username: osd_it
+github:
+  username:  opensensorsdata
 
 # feed
 feed:
