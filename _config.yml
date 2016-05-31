@@ -39,7 +39,19 @@ github_username:  opensensorsdata
 
 # feed
 feed:
-  path: feed.xml
+  path: /feed.xml
+
+# Sitemap
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
 
 # Build settings
 
