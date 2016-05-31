@@ -37,7 +37,12 @@ favicon: /assets/img/logos/favicon.ico
 twitter_username: osd_it
 github_username:  opensensorsdata
 
+# feed
+feed:
+  path: feed.xml
+
 # Build settings
 
 gems:
   - jekyll-sitemap
+  - jekyll-feed

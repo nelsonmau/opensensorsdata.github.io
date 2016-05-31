@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web come infrastruttura + conversazione sui dati = business della conoscenza
+title: conversazione sui dati business e della conoscenza
 date: 2015-03-30
 ref: datibusiness
 author: luca

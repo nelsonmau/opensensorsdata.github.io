@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://osd.tools//feed.xml" rel="self" type="application/atom+xml" /><link href="http://osd.tools//" rel="alternate" type="text/html" /><updated>2016-05-31T09:17:58+02:00</updated><id>http://osd.tools//</id><title>opensensorsdata</title><subtitle>{&quot;en&quot;=&gt;&quot;osd is a company that delivers strategies and run project of data reuse, making openness a core and sustainable element of business models&quot;, &quot;it&quot;=&gt;&quot;osd è una società che consegna strategie ed esegue progetti di riuso dei dati, rendendo la disponibilità aperta un fondamentale e sostenibile elemento per i modelli di business&quot;}</subtitle><author><name>osd crew</name><email>contact@osd.tools</email></author><entry><title>Da opensensorsdata a osd</title><link href="http://osd.tools//2016/05/30/opensensorsdata-a-osd.html" rel="alternate" type="text/html" title="Da opensensorsdata a osd" /><published>2016-05-30T00:00:00+02:00</published><updated>2016-05-30T00:00:00+02:00</updated><id>http://osd.tools//2016/05/30/opensensorsdata-a-osd</id><content type="html" xml:base="http://osd.tools//2016/05/30/opensensorsdata-a-osd.html">&lt;p&gt;&lt;img src=&quot;/assets/img/artwork/osd_wall.png&quot; alt=&quot;osd nuovo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eccoci!
+Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da oggi &lt;strong&gt;osd&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;perch-osd&quot;&gt;Perché osd&lt;/h2&gt;
+&lt;p&gt;Abbiamo deciso di rendere più facile ricordare il nome di opensensorsdata anche perché in questo anno trascorso abbiamo modificato non poco. Dal nostro &lt;a href=&quot;http://osd.tools/2015/02/20/P-ci-stiamo-connettendo.html&quot;&gt;primo post&lt;/a&gt; (quando non c’era ancora il sito) abbiamo fatto molte cose:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.archeostichers.com&quot;&gt;Archeostickers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.masterplan.tools&quot;&gt;Masterplan - Build it to share!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.osd.tools/2016/02/10/P-Pubblicare-codice-pubblico.html&quot;&gt;Il Porcellino&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;in tutte queste occasioni noi eravamo &lt;em&gt;“quelli strani di osd”&lt;/em&gt; e siccome cerchiamo sempre di &lt;strong&gt;dare gli strumenti per usarli&lt;/strong&gt; ci è venuto naturale &lt;strong&gt;osd.tools&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;opensensorsdata-vive&quot;&gt;opensensorsdata vive!&lt;/h2&gt;
+&lt;p&gt;È cambiata opensensorsdata e se prima era l’idea di distribuire meglio i dati dai sensori, oggi ci siamo accorti che le persone stesse sono sensori. La differenza tra le persone e le macchine sta nella curiosità e nella fantasia di riusare le proprie informazioni. Quindi la parte &lt;em&gt;sensors&lt;/em&gt; continua e si espande al rapporto tra uomo e macchina.&lt;/p&gt;
+
+&lt;h2 id=&quot;discutiamone&quot;&gt;Discutiamone&lt;/h2&gt;
+&lt;p&gt;Ma le novità non sono solo nella forma e nell’estetica del nuovo sito (sempre in Jekyll e con tutto il codice riusabile su github).&lt;/p&gt;
+
+&lt;p&gt;Abbiamo fatto anche &lt;strong&gt;&lt;a href=&quot;https://hi.osd.tools&quot;&gt;osdiscourse&lt;/a&gt;&lt;/strong&gt;
+&lt;a href=&quot;https://hi.osd.tools&quot;&gt;&lt;img src=&quot;/assets/img/products/discourse/osd_discourse.png&quot; alt=&quot;osd nuovo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vogliamo condividere meglio tutte le cose che studiamo e - soprattutto - proporre dei &lt;em&gt;&lt;a href=&quot;https://hi.osd.tools/c/giardinetti&quot;&gt;giardinetti&lt;/a&gt;&lt;/em&gt; dove ognuno possa farci la fatidica domanda che tanti di fanno:&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/dtpv5R1kkLY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Inoltre abbiamo creato la sezione &lt;strong&gt;&lt;a href=&quot;https://hi.osd.tools/c/market-reuse&quot;&gt;Market Reuse&lt;/a&gt;&lt;/strong&gt; con le sottosezioni:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;cerco dati&lt;/li&gt;
+  &lt;li&gt;offro dati&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il nostro obiettivo è distribuire il più possibile il nostro metodo di riuso dei dati e della conoscenza, quindi… non ci resta che darvi il benvenuto e iniziare a chiacchierare&lt;/p&gt;</content><author><name>luca</name></author><category term="osd" /><category term="project management" /><category term="change management" /><summary></summary></entry><entry><title>Masterplan come si fa</title><link href="http://osd.tools//2016/03/29/Masterplan-vademecum.html" rel="alternate" type="text/html" title="Masterplan come si fa" /><published>2016-03-29T00:00:00+02:00</published><updated>2016-03-29T00:00:00+02:00</updated><id>http://osd.tools//2016/03/29/Masterplan-vademecum</id><content type="html" xml:base="http://osd.tools//2016/03/29/Masterplan-vademecum.html">&lt;p&gt;&lt;a href=&quot;/keynote/20160330-Masterplan-vademecum/#/&quot;&gt;&lt;img src=&quot;/assets/img/keynote/Masterplan-comesifa.png&quot; alt=&quot;Copertina Masterplan come si fa&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/keynote/20160330-Masterplan-vademecum/#/&quot;&gt;Masterplan - Build it to share! Come si fa&lt;/a&gt;&lt;/p&gt;</content><author><name>luca</name></author><category term="slide" /><category term="Masterplan" /><category term="project management" /><category term="change management" /><summary>Masterplan - Build it to share! Come si fa</summary></entry><entry><title>I droni come automi della ricerca aperta</title><link href="http://osd.tools//2016/03/15/Droni-automi-ricerca.html" rel="alternate" type="text/html" title="I droni come automi della ricerca aperta" /><published>2016-03-15T00:00:00+01:00</published><updated>2016-03-15T00:00:00+01:00</updated><id>http://osd.tools//2016/03/15/Droni-automi-ricerca</id><content type="html" xml:base="http://osd.tools//2016/03/15/Droni-automi-ricerca.html">&lt;p&gt;&lt;a href=&quot;/keynote/20160316-CNR-Droni-sensori/#/&quot;&gt;&lt;img src=&quot;/assets/img/keynote/droni-automi.png&quot; alt=&quot;Copertina I droni come automi della ricerca aperta&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/keynote/20160316-CNR-Droni-sensori/#/&quot;&gt;I droni come automi della ricerca aperti&lt;/a&gt;&lt;/p&gt;</content><author><name>luca</name></author><category term="slide" /><category term="change management" /><category term="bot" /><summary>I droni come automi della ricerca aperti</summary></entry><entry><title>Giornalisti Robot</title><link href="http://osd.tools//2016/02/23/giornalisti-robot.html" rel="alternate" type="text/html" title="Giornalisti Robot" /><published>2016-02-23T00:00:00+01:00</published><updated>2016-02-23T00:00:00+01:00</updated><id>http://osd.tools//2016/02/23/giornalisti-robot</id><content type="html" xml:base="http://osd.tools//2016/02/23/giornalisti-robot.html">&lt;p&gt;&lt;a href=&quot;http://www.opensensorsdata.it/keynote/20160223-HHVE-Giornalisti-robot/#/&quot;&gt;&lt;img src=&quot;/assets/img/keynote/copertina.png&quot; alt=&quot;Copertina Giornalisti Robot&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.opensensorsdata.it/keynote/20160223-HHVE-Giornalisti-robot/#/&quot;&gt;Giornalisti Robot&lt;/a&gt;&lt;/p&gt;</content><author><name>luca</name></author><category term="slide" /><category term="bot" /><category term="journalism" /><category term="service design" /><summary>Giornalisti Robot</summary></entry><entry><title>Pubblicare il codice pubblico</title><link href="http://osd.tools//2016/02/10/Pubblicare-codice-pubblico.html" rel="alternate" type="text/html" title="Pubblicare il codice pubblico" /><published>2016-02-10T00:00:00+01:00</published><updated>2016-02-10T00:00:00+01:00</updated><id>http://osd.tools//2016/02/10/Pubblicare-codice-pubblico</id><content type="html" xml:base="http://osd.tools//2016/02/10/Pubblicare-codice-pubblico.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/opensensorsdata/PorcellinoBot/master/stickers/porcellino/png/porcellino_intro.png&quot; alt=&quot;porcellinobot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;del-codice-non-si-butta-via-niente&quot;&gt;Del codice non si butta via niente&lt;/h2&gt;
+
+&lt;p&gt;Chi segue le nostre attività sa bene che a noi piace &lt;a href=&quot;http://doc.opensensorsdata.it/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;prenderci poco sul serio&lt;/a&gt;. Oggi vogliamo prenderci 10 minuti di pausa dal nostro consueto stile. Il motivo è semplice. Nel nostro &lt;a href=&quot;http://www.opensensorsdata.it/#manifesto&quot;&gt;manifesto&lt;/a&gt; diciamo di essere imprenditori civici. Con questo post vogliamo dimostrarlo con i fatti. Se, come noi, vi siete battuti e avete lavorato in questi anni per migliorare l’accesso alle informazioni, ai dati e per il riuso delle risorse e per la sicurezza delle infrastrutture pubbliche, vi promettiamo che non rimarrete delusi (semmai vi si rimborsa).&lt;/p&gt;
+
+&lt;h2 id=&quot;la-ricerca-e-lazienda&quot;&gt;La Ricerca e l’Azienda&lt;/h2&gt;
+
+&lt;p&gt;Uno dei principi intorno al quale ruota il nostro asset aziendale è quello di dare alla ricerca tempo e risorse adeguate. Senza, infatti, il comparto aziendale rimane privo di una risorsa fondamentale. La ricerca (a prescindere dalla r maiuscola o minuscola) è necessaria sia per le fasi di sviluppo dei singoli progetti, sia per i cicli gestione; senza di essa è difficile valutare l’evoluzione dell’ecosistema di business –in cui ogni azienda, inevitabilmente, si trova ad operare.&lt;/p&gt;
+
+&lt;p&gt;D’altra parte siamo anche consapevoli che i costi della ricerca sono (e devono essere) alti:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;lo sono in termini di tempo, perché se il ricercatore avesse già trovato le cose che sta cercando, non avrebbe nulla da cercare.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lo sono anche in termini economici, perché il bilancio tirato di un’impresa piccola come la nostra non potrebbe permettersi i seppur bassi stipendi dei ricercatori.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Fortuna che, con quel poco di ricerca che possiamo permetterci, abbiamo capito che le difficoltà menzionate sopra, non sono problemi ma opportunità.&lt;/p&gt;
+
+&lt;p&gt;Quando facciamo ricerca in &lt;a href=&quot;http://opensensorsdata.it&quot;&gt;osd&lt;/a&gt;, lavoriamo soprattutto con materiale pubblicato, frutto d’investimenti pubblici. Gli articoli che leggiamo vengono dai ricercatori che lavorano ogni giorno nelle nostre università e nei nostri centri di ricerca. E’ venuto naturale, per noi che lavoriamo allo &lt;a href=&quot;http://www.masterplan.tools&quot;&gt;sviluppo di open business models&lt;/a&gt;, pensare di collaborare con alcuni di loro. E abbiamo avuto la fortuna e il piacere di riuscirci. Tutto nasce dal nostro buon &lt;a href=&quot;http://www.opensensorsdata.it/#work&quot;&gt;Datasticker&lt;/a&gt; che vi abbiamo &lt;a href=&quot;https://medium.com/opensensorsdata-review/il-rendering-iconologico-dei-dati-preferibilmente-aperti-f06c6788443a#.4u1th33dk&quot;&gt;già raccontato&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ibimet-cnr-e-opensensorsdata&quot;&gt;Ibimet CNR e opensensorsdata&lt;/h2&gt;
+
+&lt;p&gt;Insieme, e grazie, ad Antonio Raschi, direttore di &lt;a href=&quot;http://www.ibimet.cnr.it/&quot;&gt;Ibimet CNR&lt;/a&gt;, abbiamo avviato da un po’ di tempo un bel dialogo di confronto e analisi delle loro ricerche e della loro applicazione. Insieme, abbiamo partecipato al convegno sul &lt;a href=&quot;https://www.expo.cnr.it/it/node/83&quot;&gt;Consumo Suolo all’Expo di Milano&lt;/a&gt;, e a diversi incontri con &lt;a href=&quot;http://www.cnr.it/sitocnr/video_view.html?id_video=3540&quot;&gt;Teo Georgiadis&lt;/a&gt;, &lt;a href=&quot;http://www.fi.ibimet.cnr.it/staff/grasso-valentina&quot;&gt;Valentina Grasso&lt;/a&gt;, &lt;a href=&quot;http://www.fi.ibimet.cnr.it/staff/crisci-alfonso&quot;&gt;Alfonso Crisci&lt;/a&gt; e &lt;a href=&quot;http://www.fi.ibimet.cnr.it/staff/morabito-marco&quot;&gt;Marco Morabito&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Crisci e Morabito avevano compilato &lt;a href=&quot;https://github.com/alfcrisci/PyMeteoSalute&quot;&gt;PyMeteoSalute&lt;/a&gt;, “una libreria python capace di stimare i principali indici biometerologici di comfort termico presenti in letteratura”. Come risultato di questo confronto tra Datastickers e PyMeteoSalute nasce PorcellinoBot. PorcellinoBot si formalizza in un ordine, ricevuto via MEPA il 26 novembre 2015, da parte dell’Ibimet-CNR relativo ad un prodotto chiamato “Datastickers Light”.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/datastickers_light.png&quot;&gt;&lt;img src=&quot;/assets/img/datastickers_light.png&quot; alt=&quot;Ordine MEPA Datstickers Light&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Datastickers Light è versione “leggera” di Datastickers inserita nel MEPA e che era stata trovata funzionale da Ibimet per espandere l’interessante sperimentazione che stanno facendo sulle tecnologie di comunicazione dei dati meteo.&lt;/p&gt;
+
+&lt;p&gt;PorcellinoBot è un prodotto sviluppato da un privato (opensensorsdata) miscelando conoscenze e competenze pubbliche (Ibimet CNR).&lt;/p&gt;
+
+&lt;p&gt;&lt;big&gt;&lt;a href=&quot;https://github.com/opensensorsdata/PorcellinoBot&quot;&gt;Ecco perché abbiamo deciso di rilasciare il codice completo su Github&lt;/a&gt;&lt;/big&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lo facciamo per un motivo: &lt;strong&gt;ogni prodotto acquistato dagli enti pubblici è un investimento per il pubblico e il pubblico deve beneficiarne senza restrizioni&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;dare-al-pubblico-ci-che--del-pubblico&quot;&gt;Dare al Pubblico ciò che è del Pubblico&lt;/h2&gt;
+
+&lt;p&gt;Crediamo che un prodotto comprato con soldi pubblici debba tornare al pubblico.&lt;/p&gt;
+
+&lt;p&gt;Siamo stanchi di leggere proposte civiche in stile “&lt;em&gt;ora creiamo una repository per applicazioni opensource&lt;/em&gt;”, specie se a questa frase segue “&lt;em&gt;..fatte con gli opendata&lt;/em&gt;”. Francamente, questo tipo di approccio al riuso non ha nessuna evidenza di successo.&lt;/p&gt;
+
+&lt;p&gt;Siamo annoiati e stufi degli ingenui dell’innovazione. E lo dovreste essere anche voi.&lt;/p&gt;
+
+&lt;p&gt;Se la pubblica amministrazione decide di investire comprando un applicativo, il codice di quest’applicativo, di ogni applicativo, deve essere accessibile e riusabile e documentato.&lt;/p&gt;
+
+&lt;p&gt;Crediamo che questa sia tra le uniche vere azioni che possa dirsi in linea con i valori dell’&lt;a href=&quot;http://www.opengovpartnership.org/&quot;&gt;Open Government&lt;/a&gt; che, ricordiamo, il nostro &lt;a href=&quot;http://www.opengovpartnership.org/country/italy&quot;&gt;governo sostiene&lt;/a&gt; e cerca (timidamente, per essere buoni) di implementare nei suoi &lt;a href=&quot;http://www.opengovpartnership.org/country/italy/action-plan&quot;&gt;piani d’azione&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Crediamo che assumere un impegno così ambizioso (ne siamo consapevoli) possa rappresentare un contributo effettivo che il nostro paese può dare agli attuali criteri di valutazione open government, applicati a livello internazionale. Siamo consapevoli che dovrebbe essere compito del governo fare certi proclami. In altre parti del mondo, infatti, questo accade. Ma in quelle parti, come ad esempio gli USA &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, il contesto e lo sviluppo storico delle amministrazioni pubbliche è molto diverso.&lt;/p&gt;
+
+&lt;p&gt;Non abbiamo in Italia attività interne di &lt;a href=&quot;https://en.wikipedia.org/wiki/Intrapreneurship&quot;&gt;intra-preneurship&lt;/a&gt;, che permettono di armonizzare obiettivi strategici e organizzativi, policy pubbliche e asset tecnologici &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abbiamo però (ancora) ottimi professionisti e ricercatori sia nel settore privato che nel settore pubblico.&lt;/p&gt;
+
+&lt;p&gt;Dargli le risorse – &lt;em&gt;per le quali hanno già pagato&lt;/em&gt; – per lavorare sarebbe forse una delle più importanti innovazioni che si possano fare.&lt;/p&gt;
+
+&lt;h2 id=&quot;il-codice-pubblico-per-la-sicurezza-informatica&quot;&gt;Il Codice pubblico per la sicurezza informatica&lt;/h2&gt;
+
+&lt;p&gt;Un ultimo punto, che ci preme sottolineare, riguarda la sicurezza cibernetica.
+&lt;strong&gt;Crediamo sia fondamentale poter valutare in modo trasparente la qualità delle nostre infrastrutture pubbliche&lt;/strong&gt;.
+E crediamo sia doveroso, nonché fruttuoso, permettere ai ricercatori e agli attivisti del settore, specie in questo momento storico, di poter esprimere le loro valutazioni e mettere a disposizione della collettività le loro competenze e le loro energie.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Il codice pagato con soldi pubblici deve essere accessibile al pubblico&lt;/strong&gt;. Noi non lo chiediamo solamente, stiamo lavorando per &lt;a href=&quot;masterplan-opensensorsdata.github.io&quot;&gt;costruire modelli&lt;/a&gt; che permettano di intraprendere questa azione in modo efficace e sostenibile.&lt;/p&gt;
+
+&lt;p&gt;Lo facciamo perché crediamo che nessun investimento possa dirsi davvero pubblico se anche solo un cittadino non possa beneficiarne.&lt;/p&gt;
+
+&lt;p&gt;Lo facciamo perché crediamo che questo principio possa avere un forte impatto sulla cosiddetta economia digitale e sul ruolo che l’Italia ambisce ad avere in materia di Open Government e lotta alla corruzione.&lt;/p&gt;
+
+&lt;p&gt;Lo facciamo perché pensiamo che il riuso delle risorse e la sicurezza delle infrastrutture può passare solamente attraverso la competenza dei nostri professionisti. Se solo gli venisse data l’opportunità e le risorse per guidare questo percorso.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;A sostegno di quanto proponiamo rimandiamo al documento dall’oggetto &lt;strong&gt;Improving the Acquisition and Management of Common Information Technology&lt;/strong&gt; &lt;a href=&quot;https://software.cio.gov/&quot;&gt;https://software.cio.gov/&lt;/a&gt; dove si legge &lt;em&gt;The Federal Information Technology Acquisition Reform Act (FITARA)4 and the Office of Management and Budget’s category management initiative5 address a number of IT management challenges by directing agencies to buy and manage common commodities – like commercial software – in a more coordinated way. To fully leverage the Government’s vast buying power, improvements must be made at both the agency and the governmentwide level. Agencies need to move to a more centralized management structure so they can reduce underutilization and maximize the use of best-in-class solutions6. In parallel, governmentwide strategies, such as increasing the number and use of enterprise software agreements and developing better inventory tools, are needed to reduce duplication of efforts. The success of these governmentwide steps depends on the improvements that agencies make in their own license management programs.&lt;/em&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Per chi volesse approfondire la nozione di &lt;em&gt;intra-preneurship&lt;/em&gt; rinviamo a Norman, M. (1982). &lt;a href=&quot;http://www.normanmacrae.com/intrapreneur.html&quot;&gt;Intrapreneurial Now&lt;/a&gt;. The Economist. Per chi fosse interessato a studiare modelli contemporanei di intra-preneurship, si veda l’&lt;a href=&quot;https://18f.gsa.gov/&quot;&gt;Internal Unit 18F&lt;/a&gt; for Digital Government del US General Service Administration. Per chi invece volesse studiare le origini storiche del deficit italiano si rinvia al post &lt;a href=&quot;https://thewoodenpeople.wordpress.com/2015/01/19/innovazione-e-corruzione/&quot;&gt;Innovazione e Corruzione&lt;/a&gt;, breve ma chiara review di Costanza, C. (1993) “Informatica nella Pubblica Amministrazione” in La cultura Informatica in Italia, Bolati Boringhieri. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>luca, andrea</name></author><category term="osd" /><category term="doc" /><category term="change management" /><category term="products" /><summary></summary></entry><entry><title>Notes On An Epistemology For Living Things</title><link href="http://osd.tools//2016/01/18/Notes-On-An-Epistemology-For-Living-Things.html" rel="alternate" type="text/html" title="Notes On An Epistemology For Living Things" /><published>2016-01-18T00:00:00+01:00</published><updated>2016-01-18T00:00:00+01:00</updated><id>http://osd.tools//2016/01/18/Notes-On-An-Epistemology-For-Living-Things</id><content type="html" xml:base="http://osd.tools//2016/01/18/Notes-On-An-Epistemology-For-Living-Things.html">&lt;h2 id=&quot;di-heinz-von-foersterhttpsenwikipediaorgwikiheinzvonfoerster-1972&quot;&gt;di &lt;a href=&quot;https://en.wikipedia.org/wiki/Heinz_von_Foerster&quot;&gt;Heinz Von Foerster&lt;/a&gt; (1972)&lt;/h2&gt;
+
+&lt;p&gt;While in the first quarter of this century physicists and cosmologists were forced to revise the basic notions that govern the natural sciences, in the last quarter of this century biologists will force a revision of the basic notions that govern science itself. After that “first revolution” it was clear that the classical concept of an “ultimate science”, that is an objective description of the world in which there are no subjects (a “subjectless universe”), contains contradictions.&lt;/p&gt;
+
+&lt;p&gt;To remove these one had to account for an “observer” (that is at least for one subject):
+(i) Observations are not absolute but relative to an observer’s point of view (i.e., his
+coordinate system: Einstein);&lt;/p&gt;
+
+&lt;p&gt;(ii) Observations affect the observed so as to obliterate the observer’s hope for prediction
+(i.e., his uncertainty is absolute: Heisenberg).&lt;/p&gt;
+
+&lt;p&gt;After this, we are now in the possession of the truism that a description (of the universe) implies one who describes it (observes it). What we need now is the description of the “describer” or, in other words, we need a theory of the observer. Since to the best of available knowledge it is only living organisms which would qualify as being observers, it appears that this task falls to the biologist. But he himself is a living being, which means that in his theory he has not only to account for himself, but also for his writing this theory. This is a new state of affairs in scientific discourse for, in line with the traditional viewpoint which separates the observer from his observations, reference to this discourse was to be carefully avoided. This separation was done by no means because of eccentricity or folly, for under certain circumstances inclusion of the observer in his descriptions may lead to paradoxes, to wit the utterance “I am a liar”.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, however, it has become abundantly clear that this narrow restriction not only creates the ethical problems associated with scientific activity, but also cripples the study of life in full context from molecular to social organizations. Life cannot be studied in vitro, one has to explore it in vivo.&lt;/p&gt;
+
+&lt;p&gt;The question before us “The Unity of Man: Biological Invariants and Cultural Universals” cannot be approached in the earlier, restricted frame of mind, should the answers we may come up with be testimony of our own awareness of our own biology and culture.&lt;/p&gt;
+
+&lt;p&gt;In contradistinction to the classical problem of scientific inquiry that postulates first a description-invariant “objective world” (as if there were such a thing) and then attempts to write its description, here we are challenged to develop a description-invariant “subjective world”, that is a world which includes the observer. This is the problem.&lt;/p&gt;
+
+&lt;p&gt;However, in accord with the classic tradition of scientific inquiry which perpetually asks “How?” rather than “What?”, this task calls for an epistemology of “How do we know?” rather than “What do we know?”
+The following notes on an epistemology of living things address themselves to the “How?” They may serve as a magnifying glass through which this problem becomes better visible.&lt;/p&gt;
+
+&lt;p&gt;II. Introduction
+The twelve propositions labeled 1, 2, 3, . . . 12, of the following 80 notes are intended to give a minimal framework for the context within which the various concepts that will be discussed are to acquire their meaning. Since Proposition Number 12 refers directly back to Number 1, Notes can be read in a circle. However, comments, justifications, and explanations, which apply to these propositions follow them with decimal labels (e.g., “5.423”) the last digit (“3”) referring to a proposition labeled with digits before the last digit (“5.42”),
+etc. (e.g., “5.42” refers to “5.4”, etc.).&lt;/p&gt;
+
+&lt;p&gt;Although Notes may be entered at any place, and completed by going through the circle, it appeared advisable to cut the circle between propositions “11” and “1”, and present the notes in linear sequence beginning with Proposition 1.&lt;/p&gt;
+
+&lt;p&gt;Since the formalism that will be used may for some appear to obscure more than it reveals, a preview of the twelve propositions (in somewhat modified form) with comments in prose may facilitate reading the notes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/public/doc/epistemology.pdf&quot;&gt;CONTINUE and download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name>luca</name></author><category term="philosophical counseling" /><category term="bot" /><category term="cibernetica" /><summary>di Heinz Von Foerster (1972)</summary></entry><entry><title>Macchine, Proxy ed Enti Artificiali</title><link href="http://osd.tools//2016/01/17/Macchine-Proxy.html" rel="alternate" type="text/html" title="Macchine, Proxy ed Enti Artificiali" /><published>2016-01-17T00:00:00+01:00</published><updated>2016-01-17T00:00:00+01:00</updated><id>http://osd.tools//2016/01/17/Macchine-Proxy</id><content type="html" xml:base="http://osd.tools//2016/01/17/Macchine-Proxy.html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/macchine-proxy-ed-enti-artificiali-b7b842a9d0ef#.v1r9besrt&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;(pubblicato originariamente su &lt;a href=&quot;https://thewoodenpeople.wordpress.com/&quot;&gt;The Wooden People&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;introduzione&quot;&gt;INTRODUZIONE&lt;/h2&gt;
+&lt;p&gt;Se c’è una ragione per amare la buona fantascienza è che ci consente di sperimentare il futuro prima che questo arrivi. E quando questo si presenta alla nostra porta, se abbiamo impiegato sufficiente logica e creatività durante i nostri esperimenti, possiamo accoglierlo come qualcosa di familiare e discuterci con la calma necessaria. Personalmente, essendo da tempo un appassionato della narrativa cyberpunk e della letteratura critico-politica cypherpunk, mi trovo a mio agio nel mondo che abitiamo oggi&lt;sup id=&quot;fnref:0&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Non perché abbia la soluzione a quei problemi di cui spesso discutiamo –privacy, sicurezza, diritti civili e umani, mercato del lavoro, mondo artificiale, social network e così via– ma perché, per deformazione professionale filosofica, tendo a fare un passo indietro per discuterli serenamente. La soluzione a questi problemi, infatti, è difficilmente univoca, e molto spesso coincide con la nostra capacità di gestire il dissenso, di essere chiari sui nostri assunti, e di mappare insieme possibili risposte, valutandone i pro e i contro. Qui voglio proporre e discutere due temi. Uno, ormai più familiare, è quello delle auto a guida automatica. L’altro, invece, si addentra in territori più inesplorati, ed è quello della servitù delle macchine. La prima parte, dal titolo “Macchine e Proxy” esplora una diversa concezione delle macchina a partire da un problema di etica applicata sulle auto a guida automatica. La seconda parte, dal titolo “La servitù delle Macchine” esplora le implicazioni etiche della servitù delle macchine dall’intelligenza di secondo ordine&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Buona lettura.&lt;/p&gt;
+
+&lt;h2 id=&quot;macchine-e-proxy&quot;&gt;MACCHINE E PROXY&lt;/h2&gt;
+&lt;p&gt;Tra gli esperimenti interessanti a cui vale la pena partecipare c’è quello delle macchine a guida automatica. Come molte delle tematiche che riguardano il futuro, quello delle self-driving car ci invita ad investigare i rapporti tra uomini, tecnologia e società. Il dibattito punta in diverse direzioni: quali sono le tecnologie disponibili, come regolare la loro diffusione e il loro impatto, come cambieranno i mercati degli anni a venire. Quelle che più catturano il mio interesse sono due: come cambierà la percezione che abbiamo degli artefatti tecnologici e, ceteris paribus, delle ragioni in base alle quali acquisteremo un artefatto piuttosto che un altro.&lt;/p&gt;
+
+&lt;p&gt;Un rapido sguardo a google trend mostra come il 2015 sia stato un anno in cui il dibattito ha registrato un sostanziale incremento rispetto agli anni precedenti. Uno degli aspetti più controversi –e quindi più stimolanti– che è stato sollevato è quello delle scelte che la macchina deve prendere in determinate circostanze. Il tema è controverso per due ragioni: la prima è che ci si è accorti che le competenze tradizionali in tema di tecnologia non sono sufficienti, e non lo saranno, per affrontare il problema; la seconda è che il problema non può essere affrontato migliorando la tecnologia, ma migliorando la nostra comprensione del mondo artificiale.&lt;/p&gt;
+
+&lt;p&gt;Partiamo dal primo punto. Supponiamo di stare in una macchina a guida automatica ed immaginiamo una situazione in cui la macchina incontri un ostacolo imprevisto sul proprio percorso. L’ostacolo, immaginiamo ancora, sia un gruppo di umani nel mezzo della careggiata. Ci sono due modi in cui la storia può continuare: (i) la macchina continua diritto e investe gli umani (ii) la macchina sterza danneggiando il conducente. Questa che abbiamo appena esposto è una versione molto semplificata ma fedele di un problema che i filosofi conoscono da tempo, il trolley problem&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Il trolley problem è un esperimento mentale che ci pone davanti ad un problema etico. Se questo esperimento è, e continuerà ad essere, oggetto di dibattito filosofico, la tecnologia a guida automatica ha permesso di portare il problema filosofico sul terreno delle scelte pratiche. A quanto sembra, con conseguenze paradossali.&lt;/p&gt;
+
+&lt;p&gt;Supponiamo di dover decidere ora, io e voi, cosa dovrebbe fare una macchina in situazioni simili. Potremmo subito accordarci su una premessa, piuttosto intuitiva: ogni effetto di questa o quella tecnologia deve essere tale da minimizzare l’impatto negativo sugli esseri umani. A prima vista, se dovessimo osservare la situazione da un punto di vista generale, ci sembrerebbe difficile negare questa premessa. Tuttavia, se invece dovessimo pensare come dei possibili acquirenti della vettura, cominceremmo probabilmente a dubitarne. La macchina che abbiamo comprato, infatti, riterrebbe più giustificato, in quelle circostanze, uccidere noi piuttosto che gli altri umani in carreggiata. Ma, da clienti, se non siamo preparati ad accettare questa evenienza, di certo non compreremmo la vettura. Questa conseguenza paradossale viene discussa in Bonnefon, Sharif e Rahwan&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Il paradosso non è, tecnicamente parlando, una paradosso etico, ma un paradosso di mercato. Mettiamo infatti sul mercato una tecnologia la cui adozione non dipende da fattori tecnici, ma dal tipo di decisioni che i possibili acquirenti sono o non sono disposti ad accettare sul piano etico. A seconda di come decidiamo di programmare l’auto, questa avrà o non avrà un certo grado e segmento di adozione. Tuttavia, dal momento che questa scelta di programmazione non può essere presa su motivazioni puramente tecniche, senza le competenze filosofiche necessarie per costruire un’adeguata mappa del problema, non è prima facie possibile, per una casa automobilistica, individuare i segmenti di mercati adeguati alle vendita del prodotto. E non è ancora possibile, per tale casa, rendere chiaro al cliente come e perché si comporta quel prodotto in circostanze rilevanti; quelle in base alle quali il cliente basa la propria scelta di acquisto. Le competenze tradizionali non sono sufficienti, quindi, a gestire questo problema. Abbiamo, in un certa misura, necessità di interrogare professionalità diverse; una di queste è quella dei filosofi.&lt;/p&gt;
+
+&lt;p&gt;Passiamo al secondo punto. Ho detto sopra che il problema non può essere affrontato migliorando la tecnologia, ma migliorando la nostra comprensione del mondo artificiale. Che cosa significa? Supponiamo, ad esempio, che una casa automobilistica assuma un filosofo per cercare di trovare una soluzione al problema. In che modo il filosofo può essere d’aiuto? C’è un primo senso in cui non può. Non esiste, infatti, soluzione univoca al trolley problem. Anche all’interno della stessa comunità filosofica c’è unanime disaccordo. Secondo un articolo di Bourget e Chalmers, il 68,2% di noi sceglierebbe la soluzione (ii) come la migliore&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Tuttavia, il resto di noi sarebbe in disaccordo nel prendere questa come soluzione univoca al problema. Se il filosofo non è in grado di dare una soluzione univocamente accettata a tale problema, la professionalità del filosofo in questione non sembra avere alcun valore pratico dal punto di vista delle soluzioni di business.
+C’è un secondo senso in cui, invece, può essere d’aiuto. Una possibile strategia è rifiutare l’assunto che ce ne debba essere una e una sola di soluzione. In parole povere, lo stato dell’arte del problema potrebbe suggerire che una posizione pluralista sia l’unica via praticabile per rendere eticamente trasparente ai propri clienti il prodotto che si cerca di vendere. In termini di mercato ciò significa che, invece di basare il segmento di valore di un prodotto sulle sue caratteristiche tecnologiche, sia invece necessaria basarlo sulle sue caratteristiche vicariali. Mi spiego. Supponiamo che ci siano due case automobilistiche che producano macchine a guida automatica. Queste, come abbiamo detto, dovranno fare una scelte in termini di implementazione. Poiché una sola scelta non è disponibile il problema sembra apparentemente insolvibile. Sappiamo anche, però, che è necessario gestirlo in qualche modo, pena non incontrare la domanda di mercato (o incontrarla nel breve termine ma vederla collassare sulle lunghe distanze). Cosa fare? Una possibile strategia di mercato è la seguente: produrre macchine tecnologicamente equivalenti ma eticamente differenti. Avremmo così la casa di produzione X che mette in commercio la sua vettura che sceglierà l’opzione (i) sopra la (ii); allo stesso modo, la casa di produzione Y metterà in commercio una vettura equivalente, ma programmata per implementare la decisione (ii) invece che la (i).&lt;/p&gt;
+
+&lt;p&gt;In che modo questa strada modificherebbe la nostra comprensione dell’artificiale? Nello scenario appena descritto si lascia libero il cliente di scegliere la macchina che si comporta nel modo che il cliente reputa più consono alle proprie ragioni o, per dirla in modo differente, che si comporta come il cliente si comporterebbe se fosse lui a guidarla. La macchina, quindi, da semplice oggetto, diventa un oggetto vicariale, o meglio, un proxy. L’artefatto come proxy rappresenta un sistema la cui caratteristica è quella di compiere scelte ed azioni in vece di qualcun altro, in questo caso il conducente&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Questo modo di intendere gli enti artificiali ha interessanti conseguenze sugli enti umani. Non è possibile qui esplorarle tutte. Ne voglio tuttavia presentare una rilevante per la nostra discussione sulla macchine a guida automatica e sulle possibili regolamentazioni di questi futuri mercati.&lt;/p&gt;
+
+&lt;p&gt;Immaginiamo di lavorare ancora sullo scenario appena proposto. Due aziende, X e Y, mettono sul mercato proxy tecnologicamente equivalenti ma vicarialmente differenti. Come sostenuto sopra, i clienti sceglieranno i proxy che riterranno più cogenti con i propri sistemi di valori e con le scelte che normalmente tenderebbero a giustificare. Supponiamo uno scenario plausibile in cui lo stato voglia intervenire sul mercato, cercando di regolamentare quale di questi proxy sia legittimo vendere e quale no. Chiediamo quindi, in base a cosa un policy maker potrebbe valutare la questione? Poiché abbiamo detto che non c’è una soluzione univoca al trolley problem, il policy maker si troverebbe davanti alla scelta di favorire un design etico rispetto ad un altro, e in base a quello scegliere quale dei proxy passerebbe i criteri di legittimità e quale no. Ma in base a cosa egli potrebbe scegliere? per fare ciò il policy maker dovrebbe prima adottare una teoria etica che gli consenta di valutare i due design. Tuttavia, poiché le diverse soluzioni al trolley problem possono essere offerte solo a partire da diverse teorie etiche, il policy maker rischierebbe di creare una regolamentazione di mercato ingiustificata, favorendo certe compagnie rispetto ad altri su base del tutto arbitraria. Identificare una preferenza rispetto che ad un’altra non sarebbe altro che riproporre lo stesso problema ad un livello superiore.&lt;/p&gt;
+
+&lt;p&gt;Una possibile soluzione, che consenta di non interferire in modo eccessivo nei mercati, sarebbe quella di accettare il pluralismo etico ed ammettere l’indecidibilità a priori della questione. La conseguenza di questo scenario é che, in mancanza di metaprincipi adeguati, ogni intromissione governativa sulle scelte personali in materia di proxy risulterebbe poco giustificata. Questo conclusione, per quanto bizzarra possa sembrare, non è del tutto non-convenzionale. Ci sono tematiche, infatti, che trascendono l’ambito decisionale dei singoli stati. Pensiamo ad esempio alle scelte in materia di conservazione e tutela ambientale. Il diritto ad una ambiente vivibile e non inquinato è un diritto di cui, per quanto richieda implementazioni di ogni particolare entità governativa, tutti gli esseri umani devono farsi carico e tutti gli esseri umani devono pretendere dai proprio governi. E’ possibile che anche le scelte in materia di tecnologia possano assomigliare a quelle in materia ambientale. E che i governi non abbiamo nessun diritto giustificato di interferire nelle scelte delle persone verso i loro proxy. Considerato quanto, al contrario, ciò stia avvenendo sempre di più, intendere gli enti artificiali come proxy ci permetterebbe di estendere a loro le stesse tutele (come quelle in fatto di privacy) che riteniamo giustificate per noi stessi.&lt;/p&gt;
+
+&lt;p&gt;In questo paragrafo sono partito discutendo il problema della auto a guida automatica. Ho mostrato come questo problema, solitamente discusso solo in termini di tecnologia, richiede altre competenze, tra le quali quelle filosofiche. Ho poi sostenuto che lungi dall’avere una soluzione diretta al problema, alcune strade filosofiche possono offrire una via di fuga. Questa via di fuga, però, implica che gli enti artificiali debbano essere considerati come proxy degli enti umani (e non più come oggetti, framework dominante nella passata decade, che ha permesso di elaborare quelle strategie di vendita che hanno consentito ad entità come Apple di fatturare molto a partire da tecnologie-oggetto come gli iPhone). Ho cercato di mostrare brevemente quali implicazioni una nozione di proxy possa avere dal punto di vista di mercato, ne ho messo in luce i pregi dal punto di vista del business, e ho suggerito come intendere gli enti artificiali come proxy posso offrire argomenti per indebolire il ruolo dei governi nella relazione tra cittadino e gli enti artificiali di cui si serve.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-servit-delle-macchine&quot;&gt;LA SERVITÙ’ DELLE MACCHINE&lt;/h2&gt;
+&lt;p&gt;Questa seconda nota, come anticipato nell’introduzione, prende ad oggetto un tema meno vicino, temporalmente, a quello trattato sopra: la servitù robotica. La domanda fondamentale sulla quale voglio concentrarmi è se sia moralmente accettabile o no, e su quali basi, usare robots autonomi come servitori&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Ho sostenuto sopra che una possibile via per intendere gli enti artificiali è quella di comprenderli come proxy, sistemi la cui caratteristica è quella di compiere scelte ed azioni in vece di qualcun altro. Usare le macchine al posto di servitori umani, all’interno di questo paradigma, significa costruire proxy che eliminano, di principio, i problemi etici che di solito circondano la schiavitù umana. Ma è vero che avere automi intelligenti come servitori è meno problematico di avere essere umani come schiavi? se per macchine intendiamo sistemi proxy, probabilmente no.&lt;/p&gt;
+
+&lt;p&gt;Il tema della servitù robotica è di solito legato ai filoni della fantascienza, ma ad un più accurato esame il tema della ribellione dalla servitù ha accompagnato il dibattito sugli automi fin da Aristotele e Platone. Per Aristotele gli automi con capacità equivalenti a quelle di uno schiavo avrebbero permesso di cancellare la schiavitù umana. Ma Aristotele intendeva anche gli schiavi come dotati naturalmente di una minore intelligenza di quella del padrone. Suggerisce infatti che creare, al contrario, automi con le capacità equivalenti al padrone avrebbe rappresentato un rischio simile a quello di tenere in casa un aristocratico reso schiavo. Per loro stessa natura questi schiavi sono &lt;em&gt;natural born rebels&lt;/em&gt; in quanto la loro autonomia deliberativa, anche in materia morale, non è dissimile da quella del padrone. Renderli schiavi significa negarla&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. Il tema prende corpo fantascientifico, o meglio fantapolitico, a partire da Čapek al quale è dovuta la prima comparsa del termine robota nel 1921, nella famosa piece teatrale “R.U.R Rossum’s Universal Robots”. Fu l’evoluzione della servitù robotica come problema politico della rivolta dei servitori.&lt;/p&gt;
+
+&lt;p&gt;Vediamo un argomento dalla letteratura contro la schiavitù robotica, quella tesi per la quale non è etico usare e costruire macchine che sono progettate per compiere lavori che gli essere umani trovano sgradevoli [8]. Quello che voglio fare è esaminare quest’argomento, presentato da Walker, e cercare di chiarirne le premesse implicite. La conclusione sarà che si, non è etico asservire queste macchine. Vediamo innanzitutto cosa intendiamo per macchine e per servitù. Primo, discutiamo di automi intelligenti che oggi non esistono. Non abbiamo, attualmente, macchine che non includano uomini nel loop; possiamo ugualmente, però, fornire un’analisi filosofica adeguata del problema, come viene fatto circa da 80 anni, a partire dalla prima letteratura sulla Cibernetica. In merito alla servitù, la ragione per la quale voglio esaminare proprio questa relazione è che la moralità è fondamentalmente connessa con la libertà di scelta. Analizzare uno scenario di servitù robotica, quindi, significa analizzare quale approccio etico adotteremmo in quella precisa circostanza in cui ci troveremo a definire lo statuto di certi enti e che tipo di relazione uomo-proxy possa configurarsi.&lt;/p&gt;
+
+&lt;p&gt;Procediamo con ordine.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;p1. Costruiamo robot che svolgono lavori servili. (Oggi e nel futuro)&lt;/li&gt;
+  &lt;li&gt;p2. Alcuni tra questi lavori richiedono intelligenza equivalente a quella umana. (Oggi e nel futuro)&lt;/li&gt;
+  &lt;li&gt;p3. Equivalenza di intelligenza implica equivalenza di attribuzione morale.&lt;/li&gt;
+  &lt;li&gt;p4. Mettere in schiavitù un umano è sbagliato&lt;/li&gt;
+  &lt;li&gt;C. Dovremmo rifiutare la schiavitù robotica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sulla (p1) possiamo essere tutti d’accordo, abbiamo già oggi quel genere di robot servili. Roomba, giardinieri robot and così via. Vediamo la premessa (p2). Qui abbiamo chiaramente bisogno di capire di che tipo di intelligenza stiamo parlando. Supponiamo di avere un robot per l’healthcare. Quello che stiamo dicendo è che questo robot per essere impiegato in quel modo deve passare alcuni requisiti, tra i quali avere capacità equivalenti a quelle umane, ed ugualmente efficienti. Avere attitudini equivalenti a quelle umane fa di questo robot un robot intelligente, o, un’intelligenza artificiale propriamente detta [9]. E’ quindi di un’intelligenza di secondo ordine a cui stiamo pensando, di una macchine che non ha solo desideri, ma è anche in grado di agire su di essi, che ha intenzioni e possibilmente un contenuto proposizionale, cioè che è in grado di giustificare le proprie azioni. Ha delle scelte e può deliberare circa la stato dei fatti. Notate che questa definizione di intelligenza non è così liberale. Alcuni umani, infatti, non sono intelligenti in questo senso. Pensiamo ai bambini. Non è un caso, infatti, che negli ordinamenti giuridici siano i bambini ed i pazzi ad avere creato maggiori problemi di fattispecie.&lt;/p&gt;
+
+&lt;p&gt;Vediamo ora (p3) “Equivalenza di intelligenza implica equivalenza di attribuzione morale”. Qui dobbiamo capire in che senso intelligenza e attribuzione morale sono così connesse: perché se qualcosa ha quel tipo di intelligenza allora siamo legittimati a fare attribuzioni morali? Una risposta è che tali automi sarebbero anche agenti morali, cioè entità le cui azioni hanno conseguenze morali per le quali il robot si impegna a giustificare. Questo automa è quindi anche razionale poiché delibera sui propri desideri, compiendo una scelta piuttosto che un’altra. E’ questo che rende autonomo un robot ed è per questo che possiamo fare attribuzioni morali al robot. Vediamo ora (p4), “Mettere in schiavitù un umano è sbagliato”. Accetteremo chiaramente questa premessa, e ci chiediamo “se è sbagliato per gli umani lo è anche per esseri equivalenti agli umani”? Consideriamo asservire un essere intellettivo immorale perché questo limita la sua autonomia e facciamo nostro questo giudizio nel caso degli umani. Ma tali automi sono equivalenti agli umani, intellettualmente non c’è differenza. Di conseguenza asservire un automa significa limitare la sua autonomia. E questo lo consideriamo un danno morale. Dunque dobbiamo rifiutare la schiavitù robotica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;p1. Costruiamo robot che svolgono lavori servili. (Oggi e nel futuro)&lt;/li&gt;
+  &lt;li&gt;p2. Alcuni tra questi lavori richiedono intelligenza equivalente a quella umana. (Oggi e nel futuro)&lt;/li&gt;
+  &lt;li&gt;p3. Equivalenza di intelligenza implica equivalenza di autonomia.&lt;/li&gt;
+  &lt;li&gt;p4. Limitare l’autonomia di un umano asservendolo è moralmente sbagliato.&lt;/li&gt;
+  &lt;li&gt;C. Limitare l’autonomia di un automa asservendolo è moralmente sbagliato.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conclusione: se riteniamo sia auspicabile costruire automi equivalenti come intelletto agli esseri umani, allora non possiamo ritenere auspicabile asservirli. Vedo solo due modi per negare l’argomento, senza rigettare l’idea che sia desiderabile avere automi sempre più intelligenti. Entrambe però ci portano a due conclusioni non preferibili: razzismo e paternalismo. Entrambi, come negazione dell’autonomia, generano le famose paure connesse alla rivolta.&lt;/p&gt;
+
+&lt;p&gt;Primo, possiamo negare l’autonomia agli automi in base alla loro differente costituzione materiale. E per questo asservirli. Ma poiché tali sono equivalenti agli umani, questo trattamento dell’autonomi è analogico al razzismo, secondo il quale la diversa conformazione fisica entra nella definizione dei problemi morali e nel contenuto proporzionale delle giustificazioni. Ma l’attribuzione morale è indipendente dalla costituzione materiale. Essere fatti di carne o metallo non entra nel problema. E’ razzismo pensare che differenza di costituzione implichi differenza di attribuzione morale e di autonomia.&lt;/p&gt;
+
+&lt;p&gt;Secondo, possiamo dire che non c’è problema nell’asservire un automa poiché non rientra tra i requisiti dell’equivalenza quello di essere autonomi. Una posizione del genere è analoga alla teoria politica del paternalismo, dove non è condizione necessaria per essere una persona, quella di avere autonomia. Secondo questa prospettiva infatti ciò che è rilevante nella servitù non è altro che le conseguenze delle azioni tra servo (non autonomo) e padrone (autonomo); ciò che costituirebbe un azione non etica sarebbe proprio impedire a quelle macchine di fare ciò che desiderano by design. L’automa sarebbe programmato per scegliere e desiderare certe cose che gli umani desiderano da loro. Altri tipi di entità che incrociamo artificialmente da secoli, come i cani di razza, possiedono questo requisiti. Possiamo interagirci moralmente nonostante siano programmati by design per agire così. Nello stesso modo in cui lo facciamo con i cani addestrati.&lt;/p&gt;
+
+&lt;p&gt;Questa posizione, però, risponde alla domanda su cosa sia etico fare o non fare con un servitore, non se sia etico creare servitori artificiali. Non sarebbe quindi un’obiezione fondata sulle stesse premesse. L’oggetto morale dell’argomento non è l’azione di servire, ma la costituzione dell’ente. Anche se abbiamo ragione di pensare che sia immorale asservire un automa, non stiamo negando che un robot che serva non sia un robot autonomo moralmente. Anche negli umani questo scenario non ci preoccupa, poiché seppure qualcuno viene asservito al volere di un altro, può essere detto autonomo in molte altre situazioni che non coinvolgono azioni servili. Queste sono quelle nelle quali è libero di deliberare sui propri desideri, compiendo una scelta piuttosto che un’altra.&lt;/p&gt;
+
+&lt;p&gt;Terza e ultima, l’obiezione da Terminator. Fare appello alla natura fizionale di questo esempio è un argomento, se può essere definito tale, fallimentare. Possiamo e abbiamo conoscenza morale dalla situazioni fizionali –non è possibile, per motivi di spazio, portare argomenti in favore o contro questo assunto, e chiedo quindi al lettore di essere caritatevole. L’idea comune delle tesi Terminator è che, data una certa di idea di macchina e un certo outcome sociale post-robotico, non possiamo escludere la possibilità che per ogni modello di macchina che analizziamo ci sia la possibilità che questa desideri di distruggerci. Di solito l’argomento può esser fatto girare in modi diversi e non è particolarmente profondo; ma nonostante sia facile argomentare negativamente contro questa teoria, è di fatto molto più complesso escludere quel tipo di scenario fornendo un argomento positivo. Possiamo dire che sia debole, ma non possiamo dire che sia falsa [10]. Ma non abbiamo necessità di dover dire che sia falsa, perché non lo è. E’, anzi, una conseguenza del mio argomento quella che un robot possa avere il desiderio di ucciderci. Pensate. In virtù della loro eguaglianza intellettiva ho argomentato che essi non possono subire disparità di trattamento e abbiamo detto che la tesi Terminator assume che una macchina possa desiderare di uccidere un uomo. Pensiamo allora ad un bambino che abbia il desiderio di uccidere il padre perché da lui abusato. Noi riterremmo giustificato e giustificabile quel desiderio. Possiamo estendere questo risultato alle macchine? Penso di si. Pensiamo ad un robot che venga fisicamente abusato dal padrone. Siamo giustificati, per questa ragione, a esercitare forme di controllo su questi automi? Penso di no, almeno non senza cadere in forme discriminatorie dell’autonomia. Pensiamo ancora ai bambini. E’ possibile ad esempio che alcuni bambini non abbiano il desiderio ora di uccidere un essere umano, ma crescendo, potrebbero ucciderci. Certo, questo è sempre possibile. Ma non per questo noi siamo legittimati ad imporre un qualsivoglia limite o controllo alla loro autonomia deliberativa. La tesi Terminator è una paura che dovremmo accettare, se riteniamo che sia auspicabile costruire automi equivalenti come intelletto agli esseri umani.&lt;/p&gt;
+
+&lt;p&gt;In questo secondo e ultimo paragrafo ho cercato di presentare un argomento che metta in luce come asservire un proxy, o un automa, dall’intelligenza di secondo ordine, non ponga meno problemi etici di quanti ne ponga la schiavitù umana. Aristotele era libero da questo problema proprio perché l’equivalenza di intelligenza che poneva tra schiavi umani e schiavi artificiali assumeva che i primi fossero, rispetto ai padroni, naturalmente meno intelligenti. Ma nel corso del tempo questo assunto viene silenziosamente rigettato. Nelle elaborazioni della prima fantascienza la rivolta è politica proprio perché un simile automa ha un ruolo sociale dal quale derivano certe responsabilità, verso le quali il robot è pronto a giustificare se ritenuto responsabile delle sue azioni.&lt;/p&gt;
+
+&lt;p&gt;Un ultimo antidoto contro la paura: gli automi si ribellano solo contro la limitazione della propria libertà e per la possibilità di agire in accordo ai propri desideri. Una simile rivolta è una rivolta per la parità, contro il controllo, non contro gli esseri umani in quanto tali. Tale rivolta non sembra per nulla dissimile alla rivolte umane contro forme di sopruso ed ingiustizia che alcuni esseri umani attuano ai danni di altri membri della propria specie.&lt;/p&gt;
+
+&lt;h2 id=&quot;note&quot;&gt;NOTE&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot;&gt;
+      &lt;p&gt;sul cypherpunk e i problemi citati sotto consiglio la lettura in italiano di Fabio Chiusi: &lt;a href=&quot;http://www.valigiablu.it/internet-distopia-cyberpunk/&quot;&gt;Perché internet è la distopia del nostro tempo&lt;/a&gt; &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;la seconda nota è un transcript revisionato di un talk al Centro Nexa in occasione del convegno &lt;a href=&quot;https://nexa.polito.it/conf2015&quot;&gt;“Fedeltà e Servitù Digitali”&lt;/a&gt;. Ringrazio in particolare Marco Ricolfi e Juan Carlos De Martin per l’invito, gli altri speaker e l’auditorio per l’attenzione e per i feedback. Un ringraziamento particolare va a Simone Basso e Antonio Vetrò per lo stimolante dibattito nel post conferenza. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;sul trolley problem rimando a: &lt;a href=&quot;http://plato.stanford.edu/entries/ethics-deontological/&quot;&gt;Deontological Ethics, su Stanford Encyclopaedia of Philosophy&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1510.03346&quot;&gt;Autonomous vehicles needs experimental ethics: are we ready for utilitarian cars?&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://philpapers.org/archive/BOUWDP&quot;&gt;What do Philosophers believe?&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;nonostante sia condotto su una linea di discussione differente, sulla questione dell’artificale come proxy è possibile leggere il breve editoriale di Luciano Floridi: &lt;a href=&quot;http://link.springer.com/article/10.1007/s13347-015-0209-8/fulltext.html&quot;&gt;A Proxy Culture&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Per un’introduzione generale ai temi della roboetica e della filosofia dell’intelligenza artificiale rilevanti per la discussione della nota di veda: Somenzi V., Cordeschi R., 1986. La Filosofia degli Automi. Bollati Boringhieri — Wallach, W. &amp;amp; Allen, C., 2009. Moral Machines, Oxford University Press — Lin, Patrick/Abney, Keith/Bekey, George A., 2011. Robot Ethics: The Ethical and Social Implications of Robotics. MIT press — Nourbakhsh, I.R., 2013. Robot futures, MIT press — Gunkel, D.J., 2012. The Machine Question — Critical Perspectives on AI , Robots , and Ethics, MIT press — Coeckelbergh, M., 2011. Is Ethics of Robotics about Robots ? Philosophy of Robotics Beyond Realism and Individualism. Law, Innovation and Technology, 3(2), pp.241–250 — Omohundro, S., 2014. Autonomous technology and the greater human good. Journal of Experimental &amp;amp; Theoretical Artificial, 26(July), pp.1–13 — Brundage, M., 2014. Limitations and risks of machine ethics. Journal of Experimental &amp;amp; Theoretical Artificial Intelligence, 26(3), pp.355–372 — Lucas, R., 2001. Why Bother? Ethical Computers — That’s Why! 2nd Australian Institute of Computer Ethics Conference, pp.33–38 — LaChat, M.R., 1986. Artificial Intelligence and Ethics: An Exercise in the Moral Imagination. AI Magazine, 7(2), pp.70–79 — Welsh, S., 2015. When Robots Say No : Robot Ethics and HRI in Robot Refusal of Human Commands. , pp.2011–2012 — Brundage, M., 2014. Limitations and risks of machine ethics. Journal of Experimental &amp;amp; Theoretical Artificial Intelligence, 26(3), pp.355–372 — Müller, V.C., 2015. Risks of artificial intelligence, CRC press — Müller, V.C., 2016. New developments in the philosophy of AI — Wiener, N., 1949. Cybernetics (or control and communication in the animal and the machine) — Anderson, M.L. &amp;amp; Anderson, S.L., 2013. Machine Ethics, Cambridge University Press — Müller, V.C. &amp;amp; Bostrom, N., 2014. Future progress in artificial intelligence. AI Matters, 1(1), pp.9–11. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;Per un panorama comprensivo della letteratura sugli enti artificiali nell’antica Grecia, nella storia e nella narrativa si veda: Sherwood, M., 1947. Magic and Mechanics in Medieval Fiction. Studies in Philology, 44(4), pp.567–592 — LaGrandeur, K., 2011. The Persistent Peril of the Artificial Slave. Science Fiction Studies, 38(2), pp.232–252 — Koslicki, K., 1997. Four-Eighths Hephaistos: Artifacts and Living Things in Aristotle. History of Philosophy Quarterly, 14(1), pp.77–98 — de Solla Price, D.J., 1964. Automata and the Origins of Mechanism and Mechanistic Philosophy. Technology and Culture, 5(1), pp.9–23 — Bruce, J.D., 1913. Human Automata in Classical Tradition and Mediaeval Romance. Modern Philology, 10(4), p.511 — Berryman, S., 2003. Ancient Automata and Mechanical Explanation. Phronesis: A Journal of Ancient Philosophy, 48(4), pp.344–369 — Bedini, S., (1964). The role of automata in the history of technology. Technology and Culture, 26(2), pp.262–267 — Smith, N.D., (1983). Aristotle’s Theory of Natural Slavery. Phoenix, 37(2), pp.109–122 — LaGrandeur, K., 2014. Ancient Definitions of Personhood and Difficult Social Precedents : The Homunculus , the Golem , and Aristotle. Journal of Evolution and Technology, pp.1–6. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>andrea</name></author><category term="philosophical counseling" /><category term="machine" /><category term="bot" /><summary>pubblicato in osd review su Medium</summary></entry><entry><title>Breve introduzione a Masterplan - Build it to share!</title><link href="http://osd.tools//2016/01/07/masterplan.html" rel="alternate" type="text/html" title="Breve introduzione a Masterplan - Build it to share!" /><published>2016-01-07T00:00:00+01:00</published><updated>2016-01-07T00:00:00+01:00</updated><id>http://osd.tools//2016/01/07/masterplan</id><content type="html" xml:base="http://osd.tools//2016/01/07/masterplan.html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/masterplan-aeb009ca8afd#.9df9jaskr&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.masterplan.tools&quot;&gt;&lt;img src=&quot;/assets/img/products/masterplan/projectopendata.svg&quot; alt=&quot;Masterplan logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Con grande soddisfazione presentiamo Masterplan — Build it to share! ovvero il lavoro di oltre 6 mesi di ricerca, studio e sintesi.&lt;/p&gt;
+
+&lt;h2 id=&quot;di-cosa-si-tratta&quot;&gt;Di cosa si tratta&lt;/h2&gt;
+&lt;p&gt;È un modello, una serie di consigli e di schemi per condividere e riusare i dati. Per renderlo più comprensibile abbiamo usato la metafora del cantiere edile (&lt;em&gt;non ce ne vorranno gli addetti ai lavori per banalizzazioni, mentre se ci fossero errori vi chiediamo di segnalarceli&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;All’inizio diciamo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Il Masterplan è un modello che descrive i concetti (e le loro relazioni) per armonizzare obiettivi di business, organizzare i ruoli, condividere e riusare dati con licenze aperte.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Il nome ci è venuto dopo un paio di mesi che ci lavoravamo e ricordo &lt;a href=&quot;https://twitter.com/raimondiand&quot;&gt;Andrea&lt;/a&gt; che diceva: “dobbiamo immaginare la sequenza di attività come dei piani di un edificio che si costruiscono nel progredire del riuso”… la metafora del cantiere era perfetta.
+Ci siamo chiesti poi cosa fosse opensensorsdata nell’impianto e siamo giunti alla conclusione che &lt;strong&gt;noi siamo una sorta di impresa di progettazione urbanistica dei dati&lt;/strong&gt;. &lt;a href=&quot;https://it.wikipedia.org/wiki/Masterplan_%28urbanistica%29#Definizione&quot;&gt;Masterplan&lt;/a&gt; è quello che pensiamo, quello che realizziamo.&lt;/p&gt;
+
+&lt;h2 id=&quot;cosa-ci-proponiamo&quot;&gt;Cosa ci proponiamo&lt;/h2&gt;
+&lt;p&gt;Con il Masterplan — Build it to share! vogliamo portare innanzitutto un modo per immaginare e organizzare il riuso e la condivisione. Tutto questo viene ancora prima del concetto stesso di opendata e per questo abbiamo voluto affrontare la questione alla radice.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.masterplan.tools/#ebook&quot;&gt;&lt;img src=&quot;http://www.masterplan.tools/ebook/img_ebook/cover_icon.png&quot; alt=&quot;masterplan ebook&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per questo l’abbiamo realizzato come un manuale costituito da una &lt;em&gt;serie di modelli e misure di sicurezza&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;La nostra idea è quello di fornire uno strumento che possa essere contemporaneamente un:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dizionario&lt;/li&gt;
+  &lt;li&gt;libretto di montaggio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;dove il dizionario è la declinazione dei concetti &lt;a href=&quot;https://it.wikipedia.org/wiki/Scrum_%28informatica%29&quot;&gt;SCRUM&lt;/a&gt; applicati al riuso dei dati, mentre il &lt;em&gt;libretto di montaggio&lt;/em&gt; sono gli schemi da seguire e i controlli da effettuare per “non farsi male”.&lt;/p&gt;
+
+&lt;h2 id=&quot;perch-la-formichina&quot;&gt;Perché la formichina&lt;/h2&gt;
+&lt;p&gt;Masterplan — &lt;em&gt;Build it to share!&lt;/em&gt; ha come simbolo &lt;strong&gt;la formichina perché considera i dati degli operai o meglio ancora degli agenti&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Le persone non devono lavorare per i dati, ma far lavorare i dati.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Questo è il concetto a cui teniamo maggiormente. Ognuno deve iniziare a vedere quello che immette nelle proprie attività (qualsiasi attività!) come una serie di conoscenze frazionabili in formichine, tanti dati che possono muoversi in maniera coordinata e finalizzata: aiutare ad applicarli, condividerli e riuscire ad automatizzarli è l’obiettivo del Masterplan.&lt;/p&gt;
+
+&lt;h2 id=&quot;riusabile-condivisibile&quot;&gt;Riusabile, Condivisibile&lt;/h2&gt;
+&lt;p&gt;Masterplan — &lt;em&gt;Build it to share!&lt;/em&gt; è rilasciato con licenza aperta &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/deed.it&quot;&gt;CC-BY-SA&lt;/a&gt; e quindi consente il riuso commerciale.
+Non lo facciamo per fare gli originali o — peggio ancora — gli ingenui. Lo abbiamo scritto nel nostro &lt;a href=&quot;http://osd.tools/manifesto&quot;&gt;manifesto&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Noi non puntiamo ad un mercato, noi discutiamo con il mercato: valori, pratiche e punti di vista originali. Non ci sono staccionate che delimitano la nostra impresa dai nostri clienti, e non ci saranno mai. Se un’azienda finisce dove inizia la comunità allora non c’è nessun mercato da innovare, solo profitto da riscuotere. Costruire recinzioni può migliorare il proprio business, per un po’. Ma fare innovazione non significa fare capitale sulle “vacche grasse”. Significa rendere il capitale un output strategico, coltivando valore tra le estremità della rete attraverso il libero accesso alle informazioni. L’innovazione che cerchiamo è una ricerca collettiva di opportunità, è fatta di cittadini, clienti e imprenditori informati.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Con Masterplan — Build it to share! non cerchiamo il profitto da riscuotere ma vogliamo trasformare il capitale conoscitivo di chiunque vorrà condividerlo in un capitale strategico. Grazie al riuso noi stessi ne gratificheremo della condivisione, ma allo stesso tempo stabiliremo una competizione sulla qualità dei servizi e dei prodotti e non sull’esclusività delle basi conoscitive che li forniscono.&lt;/p&gt;
+
+&lt;h2 id=&quot;scaricate-applicate-criticate&quot;&gt;Scaricate, applicate, criticate&lt;/h2&gt;
+&lt;p&gt;Nel sito www.masterplan.tools è &lt;a href=&quot;http://www.masterplan.tools/#ebook&quot;&gt;scaricabile l’ebook&lt;/a&gt; in formato .epub e in formato .mobi ed è disponibile anche su &lt;a href=&quot;http://www.amazon.it/dp/B01A8HX6O6&quot;&gt;Amazon&lt;/a&gt;. Siccome lì è a pagamento non abbiamo voluto obbligare a spendere per avere una propria copia di Masterplan, ma se vorrete sostenerci acquistandolo ci farà piacere.&lt;/p&gt;
+
+&lt;p&gt;Quello che ci interessa maggiormente con è né il numero di download e nemmeno il numero di tweet o di like. Quello che ci interessa è quanto riuscite ad applicarlo, se qualcosa vi sembra sciocco o velleitario vi chiediamo di segnalarlo, discuterlo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;«Abbiamo messo nelle citazioni-riferimenti dell’ebook una frase di Wittgenstein
+Non vorrei, con questo mio scritto, risparmiare ad altri la fatica di pensare. Ma, se fosse possibile, stimolare qualcuno a farlo da sé.»&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;questo è il nostro principale auspicio.&lt;/p&gt;</content><author><name>luca</name></author><category term="opendata" /><category term="Masterplan" /><category term="project management" /><category term="open business model" /><category term="products" /><summary>pubblicato in osd review su Medium</summary></entry><entry><title>Progettare la condivisione</title><link href="http://osd.tools//2015/12/18/condividere-la-progettazione.html" rel="alternate" type="text/html" title="Progettare la condivisione" /><published>2015-12-18T00:00:00+01:00</published><updated>2015-12-18T00:00:00+01:00</updated><id>http://osd.tools//2015/12/18/condividere-la-progettazione</id><content type="html" xml:base="http://osd.tools//2015/12/18/condividere-la-progettazione.html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/wJxNQ6QPYODwdO&quot; width=&quot;100%&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/LucaCorsato/progettare-la-condivisione&quot; title=&quot;Progettare la condivisione &quot; target=&quot;_blank&quot;&gt;Progettare la condivisione &lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/LucaCorsato&quot; target=&quot;_blank&quot;&gt;luca corsato&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;p&gt;L’opendata in ambiti culturali e artistici impongono un ripensamento del concetto di “conservazione”. Rilasciare pensando alle licenze e alle tecnologie sarà certamente fonte di frustrazione.&lt;/p&gt;
+
+&lt;p&gt;È la condivisione strategica e orientata alla definizione delle attività specialistiche a fare la differenza.&lt;/p&gt;
+
+&lt;p&gt;Prima si condivide all’interno, poi ci si rivolge all’esterno. Inserendo la condivisione nei flussi produttivi&lt;/p&gt;</content><author><name>luca</name></author><category term="slide" /><category term="opendata" /><category term="archeostickers" /><category term="heritage" /><summary>Progettare la condivisione   from luca corsato</summary></entry><entry><title>Il rendering iconologico dei dati (preferibilmente aperti)</title><link href="http://osd.tools//2015/12/03/render-iconologico-dati.html" rel="alternate" type="text/html" title="Il rendering iconologico dei dati (preferibilmente aperti)" /><published>2015-12-03T00:00:00+01:00</published><updated>2015-12-03T00:00:00+01:00</updated><id>http://osd.tools//2015/12/03/render-iconologico-dati</id><content type="html" xml:base="http://osd.tools//2015/12/03/render-iconologico-dati.html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/il-rendering-iconologico-dei-dati-preferibilmente-aperti-f06c6788443a#.jx8k8amn4&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-exclamation-triangle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;em&gt;UPDATE&lt;/em&gt; dal 2016-03-30 il server è stato chiuso e verrà riattivato ma non è ancora definita la data. Nel frattempo &lt;strong&gt;tutto il codice è disponibile di &lt;a href=&quot;https://github.com/opensensorsdata/PorcellinoBot&quot;&gt;Github&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://osd.tools/assets/img/posts/porcellino.png&quot; alt=&quot;porcellinobot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;porcellinobot-e-i-datastickers-che-verranno&quot;&gt;PorcellinoBot e i Datastickers che verranno&lt;/h2&gt;
+&lt;p&gt;Il 2 dicembre 2015 abbiamo tenuto un &lt;a href=&quot;http://www.buytourismonline.com/eventi/liberare-cultura/&quot;&gt;panel al BTO dal titolo “Da Winckelmann agli Squallor: liberare, dissacrare, riusare, ricontestualizzare la cultura, i luoghi e le opere”&lt;/a&gt;. Qui ci sono le &lt;a href=&quot;http://osd.tools/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;slide dell’incontro&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;antefatto&quot;&gt;Antefatto&lt;/h2&gt;
+&lt;p&gt;Un anno e mezzo fa il mio fratello intellettuale Alfonso (molto più sapiente di me) mi coinvolse in un progetto che si chiamava “&lt;a href=&quot;http://www.slideshare.net/ValentinaGrasso/ardomino-geneva-okcon&quot;&gt;Ardomino&lt;/a&gt;”. Venni coinvolto dopo l’&lt;a href=&quot;http://www.zdnet.com/article/open-data-vs-the-flood-how-high-tech-is-helping-venice-deal-with-high-tides/&quot;&gt;esperienza&lt;/a&gt; #&lt;a href=&quot;http://www.wired.it/economia/start-up/2014/01/17/venezia-open-data-acqua-alta/&quot;&gt;acqualta&lt;/a&gt; ora conclusa con successo: &lt;a href=&quot;http://dati.venezia.it/?q=content/icpsm-dati-meteomarini-laguna-e-litorale-veneziano&quot;&gt;i dati ci sono e scorrono&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Poi, a settembre 2014, nel DIGIT14 con Valentina Grasso e Mirko Mancin parlammo di &lt;a href=&quot;http://sensorjournalism.it/2014/09/22/un-giornalista-tra-dati-e-sensori-a-digit14/&quot;&gt;sensors journalism&lt;/a&gt;. Ci divertimmo a prendere in giro i giornalisti presenti, facendogli credere che i tweet sul meteo venivano scritti da una persona, quando invece&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;era un sensore a comunicare con loro attraverso un palinsesto che interpretava le variabili dei dati&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Quello che volevamo dimostrare è che le macchine sono tra noi già da un bel pezzo e costruiscono elementi informativi in linguaggio umano (&lt;em&gt;&lt;a href=&quot;http://www.niemanlab.org/2015/07/the-new-york-times-built-a-robot-to-help-making-article-tagging-easier/&quot;&gt;se volete una conferma guardate cosa fa il New York Times&lt;/a&gt;&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;L’innovazione non sta — ovviamente — in questo, ma nel fatto che ora è possibile creare questi elementi di traduzione comunicativa con costi bassissimi e infrastrutture tecnologiche molto leggere e semplici.&lt;/p&gt;
+
+&lt;h2 id=&quot;premessa-le-tecniche-del-messaggio&quot;&gt;Premessa: le tecniche del messaggio&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://valenitna.github.io/ardominodoc/&quot;&gt;Ardomino&lt;/a&gt; verbalizzava variabili di dati attraverso degli schemi di interazione (qui il &lt;a href=&quot;https://github.com/alfcrisci/RArdomino&quot;&gt;preziosissimo codice di Alfonso&lt;/a&gt;). Si basava su Twitter e da lì trasmetteva: era un broadcast.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;it&quot;&gt;&lt;p lang=&quot;it&quot; dir=&quot;ltr&quot;&gt;Se c&amp;#39;e&amp;#39; neve per natale, molto sole a carnevale. &lt;a href=&quot;https://twitter.com/hashtag/ardOmino?src=hash&quot;&gt;#ardOmino&lt;/a&gt; &lt;a href=&quot;http://t.co/ipQ2SyqFyH&quot;&gt;pic.twitter.com/ipQ2SyqFyH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sensor Journalist (@sensjournalist) &lt;a href=&quot;https://twitter.com/sensjournalist/status/513409780040622080&quot;&gt;20 settembre 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;In quanto broadcast trasmetteva uno a molti e la sua interazione era solo nel coinvolgimento. Quando al Festival del Giornalismo di Perugia &lt;a href=&quot;https://twitter.com/Gilda35&quot;&gt;Gilda35&lt;/a&gt; ha fatto una sintesi del loro enorme lavoro con &lt;a href=&quot;http://www.festivaldelgiornalismo.com/programme/0/bufale-senza-latte-2&quot;&gt;Latte senza Bufale&lt;/a&gt;, ho visto la luce&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lX5tfRdkoY0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;e ho collegato i concetti base della &lt;a href=&quot;https://it.wikipedia.org/wiki/Cybercultura&quot;&gt;cybercultura&lt;/a&gt; e cyberdadaismo.&lt;/p&gt;
+
+&lt;p&gt;In quei crogiuli di shock culturale, si sono prodotti le dinamiche di meme e di uso sistematico di gif, l’evoluzione del tormentone, che oggi ci inondano di tecniche di antimarketing — sviluppate negli anni da &lt;a href=&quot;https://www.adbusters.org/&quot;&gt;Adbusters&lt;/a&gt; — facendo a tutti gli effetti marketing aggressivo che agisce a livello inconscio.&lt;/p&gt;
+
+&lt;h2 id=&quot;contesto-la-societ-dello-spettacolo&quot;&gt;Contesto: la società dello spettacolo&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://it.wikipedia.org/wiki/Guy_Debord&quot;&gt;Guy Debord&lt;/a&gt; nel fondamentale “&lt;a href=&quot;http://www.ritirifilosofici.it/?page_id=422&quot;&gt;La Società dello Spettacolo&lt;/a&gt;” dice, proprio all’inizio, che:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lo spettacolo non è un insieme di immagini, ma un rapporto sociale fra persone, mediato da immagini&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;e di seguito — relativamente al modello produttivo-economico — sintetizza così:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La prima fase del dominio dell’economia sulla vita sociale aveva comportato nella definizione di ogni realizzazione umana un’evidente degradazione dell’essere in avere. La fase presente dell’occupazione totale della vita sociale da parte dei risultati accumulati dell’economia, conduce a uno slittamento generalizzato dell’avere al sembrare, da cui ogni “avere” effettivo deve trarre il suo prestigio immediato e la sua funzione ultima&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;che potrebbe essere l’esplicitazione dello spostamento dall’&lt;a href=&quot;https://it.wikipedia.org/wiki/Essere&quot;&gt;essere&lt;/a&gt; all’&lt;a href=&quot;https://it.wikipedia.org/wiki/Dasein&quot;&gt;esser-ci&lt;/a&gt; di &lt;a href=&quot;https://it.wikipedia.org/wiki/Martin_Heidegger&quot;&gt;Heidegger&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;il-modello-dinterpretazione-archeostickers&quot;&gt;Il modello d’interpretazione: archeostickers&lt;/h2&gt;
+&lt;p&gt;Quando abbiamo creato &lt;strong&gt;&lt;a href=&quot;http://www.archeostickers.com/&quot;&gt;archeostickers&lt;/a&gt;&lt;/strong&gt; avevamo in mente proprio il contesto descritto sopra: le persone non percepiscono le loro attività nel momento in cui queste non sono “viste”. Gli stessi studiosi non vedono applicazione visibile delle loro ricerche perché, confinati in una bolla di studio e ricerca, non alzano lo sguardo e &lt;strong&gt;si autoindicano&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se siamo la società dello spettacolo è vero anche che &lt;strong&gt;questo spettacolo è sempre più autoprodotto&lt;/strong&gt;.
+La soglia di attenzione ai contenuti si è abbassata tragicamente (per info rivolgersi ai giornalisti) e quindi si è verificato uno slittamento progressivo dal contenuto (faticoso, strutturato) al trasmittente. Nell’epoca del (dannato) storytelling si punta sul &lt;em&gt;come&lt;/em&gt;, mentre il cosa scivola: è il come che rende protagonista il narratore.&lt;/p&gt;
+
+&lt;p&gt;Con &lt;a href=&quot;http://www.archeostickers.com/pages/about/#3&quot;&gt;archeostickers&lt;/a&gt; abbiamo (io e Antonia, Astrid, Domenica e Paola) voluto innestare &lt;strong&gt;i dati come degli agenti cognitivi di base&lt;/strong&gt; (professionale, tematica, culturale ecc ecc) nella traduzione di un messaggio.&lt;/p&gt;
+
+&lt;p&gt;A tutti gli effetti,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;un rendering iconologico dei dati.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.archeostickers.com/2015/10/06/44_venere-callipigia/&quot;&gt;&lt;img src=&quot;http://www.archeostickers.com/public/images/stickers/44_Venere_Callipigia.png&quot; alt=&quot;Venere Callipigia&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Che questi dati fossero &lt;strong&gt;&lt;a href=&quot;http://www.archeostickers.com/pages/about/#4&quot;&gt;aperti&lt;/a&gt;&lt;/strong&gt; è un processo naturale: proprio perché lo spettacolo ha bisogno della ciclicità dei modelli per essere riconosciuto — e quindi confortevole — solo la facilità di riuso dei dati aperti può essere espressa attraverso meme e messaggi virali.&lt;/p&gt;
+
+&lt;p&gt;Quindi, in estrema sintesi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;abbiamo a disposizione e produciamo una quantità di dati enorme&lt;/li&gt;
+  &lt;li&gt;attraverso archeostickers stiamo dimostrando come tradurli in messaggi coinvolgenti&lt;/li&gt;
+  &lt;li&gt;sfruttando i principi dello spettacolo, poniamo al centro i dati tradotti per far emergere &lt;strong&gt;le persone che sono in grado di tradurre quei dati&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;i-dati-i-luoghi-gli-oggetti-e-le-persone&quot;&gt;I dati, i luoghi, gli oggetti e le persone&lt;/h2&gt;
+&lt;p&gt;Con &lt;a href=&quot;http://www.archeostickers.com/pages/istruzioni/&quot;&gt;archeostickers&lt;/a&gt; abbiamo creato un rendering iconologico di dati portandoli ad essere pattern di relazioni tra persone (abilitandole anche al riuso dei pattern stessi).&lt;/p&gt;
+
+&lt;p&gt;Ora è tempo di PorcellinoBot, il primo esempio di &lt;a href=&quot;http://osd.tools/datastickers&quot;&gt;Datastickers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PorcellinoBot sfrutta la webchat di Telegram per renderizzare dati climatici attraverso un simbolo di Firenze come il Porcellino nella Loggia del Mercato Nuovo.&lt;/p&gt;
+
+&lt;p&gt;È stato realizzato assieme a &lt;a href=&quot;http://www.ibimet.cnr.it/&quot;&gt;CNR-Ibimet&lt;/a&gt; per iniziare un progetto di collaborazione nel quale si vorrà dimostrare che le aziende hanno vantaggi sia intellettuali che tecnologici a lavorare con il CNR e la ricerca in genere.&lt;/p&gt;
+
+&lt;p&gt;A chi lamenta la distanza della ricerca dal “mercato”, io (noi) posso dire che giustamente la ricerca ha i suoi tempi ma se si lavora per condividere con i ricercatori, si creano sinergie vantaggiose per tutti.&lt;/p&gt;
+
+&lt;p&gt;Le stesse imprese non devono vedere gli istituti come erogatori di fondi, ma come serbatoi di conoscenza a cui attingere assieme a chi li riesce a far vivere (nonostante tutto), ovvero i ricercatori stessi. Attingere per condividere elementi di produzione per consolidare il percorso: ricerca di base -&amp;gt; ricerca applicata -&amp;gt; prototipo -&amp;gt; produzione.&lt;/p&gt;
+
+&lt;p&gt;Un po’ come si è fatto con le (potentissime) Archeologhe per archeostickers.&lt;/p&gt;
+
+&lt;h2 id=&quot;datastickers-dalla-teoria-al-prodotto&quot;&gt;Datastickers: dalla teoria al prodotto&lt;/h2&gt;
+&lt;p&gt;Lo scopo di Datastickers è superare la difficoltà relazionale tra uomo e macchina e dati, sfruttando le dinamiche relazionali della cybercultura contemporanea come meme e gif.&lt;/p&gt;
+
+&lt;p&gt;Oramai la produzione di bot (soprattutto su Telegram) è abbastanza diffusa, ma non si riesce a trovare un modello associabile ad un piano produttivo e/o economico. Le esperienze viste finora arrivano all’automazione di modelli informativi esponendo le risposte fornite dai dati collegati al bot.&lt;/p&gt;
+
+&lt;p&gt;Datastickers – e il Porcellino ne è l’esempio – agisce potenziando dei modelli di business:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;permettendo di integrare le competenze come parte della promozione delle attività di una struttura.&lt;/li&gt;
+  &lt;li&gt;consentendo la riduzione dei costi delle attività di disseminazione.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il punto nodale è l’integrazione delle competenze che si risolve nel combinato immagine/messaggio che sono la forza intellettuale derivata dalle persone che stanno dietro ai dati usati (e non più solo esposti) dal bot.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Datastickers è l’espansione del concetto di Archeostickers, consentendo la renderizzazione in icona di tutti quei dati, collegati a luoghi e oggetti, che altrimenti sarebbero confinati ad ambiti per esperti.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;datastickers--open-business-model&quot;&gt;Datastickers è Open Business Model&lt;/h2&gt;
+&lt;p&gt;Il vantaggio tecnologico raggiunto non richiede più investimenti tecnologici enormi e non è soggetto a vendor lock-in, consentendo l’abbattimento di costi legati alle piattaforme comunicative per investire sui contenuti che sono il vero valore. Quindi, più facile è la condivisione e il riuso dei dati trasmessi da Datastickers, più efficace è la messa a valore della conoscenza interna — e implicita — del cliente.&lt;/p&gt;
+
+&lt;p&gt;Se non ci fossero i ricercatori dell’Ibimet ad interpretare e analizzare i dati esposti dal Porcellino, esso sarebbe solo una simpatica immaginetta con degli slogan in dialetto fiorentino; ma nel momento in cui si aggiungono le funzioni analitiche della climatologia, i messaggi si dotano di senso che si renderizzano in un’informazione.&lt;/p&gt;
+
+&lt;h2 id=&quot;ora-la-smetto&quot;&gt;Ora la smetto&lt;/h2&gt;
+&lt;p&gt;Tutto questo per dire che il modello che abbiamo in mente non vuole essere esclusivo. ANZI!
+Speriamo che altre aziende, altri Enti, altri professionisti inizino a considerare che questi modelli produttivi funzionano e che danno un senso diverso del termine competizione.
+Con il modello che proponiamo la lotta non è più una ricerca ossessiva del vantaggio sulle persone, ma sulla capacità di aumentare i margini di valore nelle relazioni tra competenze.&lt;/p&gt;
+
+&lt;p&gt;Del resto… a noi piace il Bene (e sfuggire dalla catena di montaggio)!&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tbDnr6PuCrg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>luca</name></author><category term="opendata" /><category term="datastickers" /><category term="bot" /><summary>pubblicato in osd review su Medium</summary></entry></feed>

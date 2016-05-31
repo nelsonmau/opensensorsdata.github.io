@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il codice è arte | l’arte è codice
+title: Il codice è arte l’arte è codice
 date: 2015-04-08
 author: luca
 ref: artecodice

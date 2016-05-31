@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>opensensorsdata</title>
- <link href="http://www.osd.tools/atom.xml" rel="self"/>
- <link href="http://www.osd.tools/"/>
- <updated>2016-05-30T18:22:39+02:00</updated>
- <id>http://www.osd.tools</id>
+ <link href="http://osd.tools/atom.xml" rel="self"/>
+ <link href="http://osd.tools/"/>
+ <updated>2016-05-31T09:16:03+02:00</updated>
+ <id>http://osd.tools</id>
  <author>
    <name>osd crew</name>
    <email>contact@osd.tools</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Da opensensorsdata a osd</title>
-   <link href="http://www.osd.tools/2016/05/30/da-opensensorsdata-a-osd.html"/>
+   <link href="http://osd.tools/2016/05/30/opensensorsdata-a-osd.html"/>
    <updated>2016-05-30T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2016/05/30/da-opensensorsdata-a-osd</id>
+   <id>http://osd.tools/2016/05/30/opensensorsdata-a-osd</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/artwork/osd_wall.png&quot; alt=&quot;osd nuovo&quot; /&gt;&lt;/p&gt;
 
@@ -60,9 +60,9 @@ Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da ogg
  
  <entry>
    <title>Masterplan come si fa</title>
-   <link href="http://www.osd.tools/2016/03/29/S-Masterplan-vademecum.html"/>
+   <link href="http://osd.tools/2016/03/29/Masterplan-vademecum.html"/>
    <updated>2016-03-29T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2016/03/29/S-Masterplan-vademecum</id>
+   <id>http://osd.tools/2016/03/29/Masterplan-vademecum</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/keynote/20160330-Masterplan-vademecum/#/&quot;&gt;&lt;img src=&quot;/assets/img/keynote/Masterplan-comesifa.png&quot; alt=&quot;Copertina Masterplan come si fa&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;/keynote/20160330-Masterplan-vademecum/#/&quot;&gt;Masterplan - Build it to share! Come si fa&lt;/a&gt;&lt;/p&gt;
@@ -71,9 +71,9 @@ Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da ogg
  
  <entry>
    <title>I droni come automi della ricerca aperta</title>
-   <link href="http://www.osd.tools/2016/03/15/S-Droni-automi-ricerca.html"/>
+   <link href="http://osd.tools/2016/03/15/Droni-automi-ricerca.html"/>
    <updated>2016-03-15T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2016/03/15/S-Droni-automi-ricerca</id>
+   <id>http://osd.tools/2016/03/15/Droni-automi-ricerca</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/keynote/20160316-CNR-Droni-sensori/#/&quot;&gt;&lt;img src=&quot;/assets/img/keynote/droni-automi.png&quot; alt=&quot;Copertina I droni come automi della ricerca aperta&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;/keynote/20160316-CNR-Droni-sensori/#/&quot;&gt;I droni come automi della ricerca aperti&lt;/a&gt;&lt;/p&gt;
@@ -82,9 +82,9 @@ Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da ogg
  
  <entry>
    <title>Giornalisti Robot</title>
-   <link href="http://www.osd.tools/2016/02/23/S-giornalisti-robot.html"/>
+   <link href="http://osd.tools/2016/02/23/giornalisti-robot.html"/>
    <updated>2016-02-23T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2016/02/23/S-giornalisti-robot</id>
+   <id>http://osd.tools/2016/02/23/giornalisti-robot</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.opensensorsdata.it/keynote/20160223-HHVE-Giornalisti-robot/#/&quot;&gt;&lt;img src=&quot;/assets/img/keynote/copertina.png&quot; alt=&quot;Copertina Giornalisti Robot&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;http://www.opensensorsdata.it/keynote/20160223-HHVE-Giornalisti-robot/#/&quot;&gt;Giornalisti Robot&lt;/a&gt;&lt;/p&gt;
@@ -93,9 +93,9 @@ Io, andrea e simone vi presentiamo la nuova revisione di opensensorsdata, da ogg
  
  <entry>
    <title>Pubblicare il codice pubblico</title>
-   <link href="http://www.osd.tools/2016/02/10/P-Pubblicare-codice-pubblico.html"/>
+   <link href="http://osd.tools/2016/02/10/Pubblicare-codice-pubblico.html"/>
    <updated>2016-02-10T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2016/02/10/P-Pubblicare-codice-pubblico</id>
+   <id>http://osd.tools/2016/02/10/Pubblicare-codice-pubblico</id>
    <author>luca, andrea</author>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/opensensorsdata/PorcellinoBot/master/stickers/porcellino/png/porcellino_intro.png&quot; alt=&quot;porcellinobot&quot; /&gt;&lt;/p&gt;
 
@@ -187,9 +187,9 @@ E crediamo sia doveroso, nonché fruttuoso, permettere ai ricercatori e agli att
  
  <entry>
    <title>Notes On An Epistemology For Living Things</title>
-   <link href="http://www.osd.tools/2016/01/18/P-Notes-On-An-Epistemology-For-Living-Things.html"/>
+   <link href="http://osd.tools/2016/01/18/Notes-On-An-Epistemology-For-Living-Things.html"/>
    <updated>2016-01-18T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2016/01/18/P-Notes-On-An-Epistemology-For-Living-Things</id>
+   <id>http://osd.tools/2016/01/18/Notes-On-An-Epistemology-For-Living-Things</id>
    <author>luca</author>
    <content type="html">&lt;h2 id=&quot;di-heinz-von-foersterhttpsenwikipediaorgwikiheinzvonfoerster-1972&quot;&gt;di &lt;a href=&quot;https://en.wikipedia.org/wiki/Heinz_von_Foerster&quot;&gt;Heinz Von Foerster&lt;/a&gt; (1972)&lt;/h2&gt;
 
@@ -227,9 +227,9 @@ etc. (e.g., “5.42” refers to “5.4”, etc.).&lt;/p&gt;
  
  <entry>
    <title>Macchine, Proxy ed Enti Artificiali</title>
-   <link href="http://www.osd.tools/2016/01/17/P-Macchine-Proxy.html"/>
+   <link href="http://osd.tools/2016/01/17/Macchine-Proxy.html"/>
    <updated>2016-01-17T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2016/01/17/P-Macchine-Proxy</id>
+   <id>http://osd.tools/2016/01/17/Macchine-Proxy</id>
    <author>andrea</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/macchine-proxy-ed-enti-artificiali-b7b842a9d0ef#.v1r9besrt&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -338,9 +338,9 @@ C’è un secondo senso in cui, invece, può essere d’aiuto. Una possibile str
  
  <entry>
    <title>Breve introduzione a Masterplan - Build it to share!</title>
-   <link href="http://www.osd.tools/2016/01/07/P-masterplan.html"/>
+   <link href="http://osd.tools/2016/01/07/masterplan.html"/>
    <updated>2016-01-07T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2016/01/07/P-masterplan</id>
+   <id>http://osd.tools/2016/01/07/masterplan</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/masterplan-aeb009ca8afd#.9df9jaskr&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -387,7 +387,7 @@ Ci siamo chiesti poi cosa fosse opensensorsdata nell’impianto e siamo giunti a
 
 &lt;h2 id=&quot;riusabile-condivisibile&quot;&gt;Riusabile, Condivisibile&lt;/h2&gt;
 &lt;p&gt;Masterplan — &lt;em&gt;Build it to share!&lt;/em&gt; è rilasciato con licenza aperta &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/deed.it&quot;&gt;CC-BY-SA&lt;/a&gt; e quindi consente il riuso commerciale.
-Non lo facciamo per fare gli originali o — peggio ancora — gli ingenui. Lo abbiamo scritto nel nostro &lt;a href=&quot;http://www.osd.tools/manifesto&quot;&gt;manifesto&lt;/a&gt;:&lt;/p&gt;
+Non lo facciamo per fare gli originali o — peggio ancora — gli ingenui. Lo abbiamo scritto nel nostro &lt;a href=&quot;http://osd.tools/manifesto&quot;&gt;manifesto&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Noi non puntiamo ad un mercato, noi discutiamo con il mercato: valori, pratiche e punti di vista originali. Non ci sono staccionate che delimitano la nostra impresa dai nostri clienti, e non ci saranno mai. Se un’azienda finisce dove inizia la comunità allora non c’è nessun mercato da innovare, solo profitto da riscuotere. Costruire recinzioni può migliorare il proprio business, per un po’. Ma fare innovazione non significa fare capitale sulle “vacche grasse”. Significa rendere il capitale un output strategico, coltivando valore tra le estremità della rete attraverso il libero accesso alle informazioni. L’innovazione che cerchiamo è una ricerca collettiva di opportunità, è fatta di cittadini, clienti e imprenditori informati.&lt;/p&gt;
@@ -410,20 +410,10 @@ Non vorrei, con questo mio scritto, risparmiare ad altri la fatica di pensare. M
  </entry>
  
  <entry>
-   <title>Masterplan - Build it to share!</title>
-   <link href="http://www.osd.tools/2016/01/07/L-masterplan.html"/>
-   <updated>2016-01-07T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2016/01/07/L-masterplan</id>
-   <author>luca</author>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.masterplan.tools&quot;&gt;&lt;img src=&quot;/assets/img/products/masterplan/projectopendata_logo.svg&quot; alt=&quot;Masterplan logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Progettare la condivisione</title>
-   <link href="http://www.osd.tools/2015/12/18/S-condividere-la-progettazione.html"/>
+   <link href="http://osd.tools/2015/12/18/condividere-la-progettazione.html"/>
    <updated>2015-12-18T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2015/12/18/S-condividere-la-progettazione</id>
+   <id>http://osd.tools/2015/12/18/condividere-la-progettazione</id>
    <author>luca</author>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/wJxNQ6QPYODwdO&quot; width=&quot;100%&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/LucaCorsato/progettare-la-condivisione&quot; title=&quot;Progettare la condivisione &quot; target=&quot;_blank&quot;&gt;Progettare la condivisione &lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/LucaCorsato&quot; target=&quot;_blank&quot;&gt;luca corsato&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
@@ -438,18 +428,18 @@ Non vorrei, con questo mio scritto, risparmiare ad altri la fatica di pensare. M
  
  <entry>
    <title>Il rendering iconologico dei dati (preferibilmente aperti)</title>
-   <link href="http://www.osd.tools/2015/12/03/P-render-iconologico-dati.html"/>
+   <link href="http://osd.tools/2015/12/03/render-iconologico-dati.html"/>
    <updated>2015-12-03T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2015/12/03/P-render-iconologico-dati</id>
+   <id>http://osd.tools/2015/12/03/render-iconologico-dati</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/il-rendering-iconologico-dei-dati-preferibilmente-aperti-f06c6788443a#.jx8k8amn4&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-exclamation-triangle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;em&gt;UPDATE&lt;/em&gt; dal 2016-03-30 il server è stato chiuso e verrà riattivato ma non è ancora definita la data. Nel frattempo &lt;strong&gt;tutto il codice è disponibile di &lt;a href=&quot;https://github.com/opensensorsdata/PorcellinoBot&quot;&gt;Github&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.osd.tools/assets/img/posts/porcellino.png&quot; alt=&quot;porcellinobot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://osd.tools/assets/img/posts/porcellino.png&quot; alt=&quot;porcellinobot&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;porcellinobot-e-i-datastickers-che-verranno&quot;&gt;PorcellinoBot e i Datastickers che verranno&lt;/h2&gt;
-&lt;p&gt;Il 2 dicembre 2015 abbiamo tenuto un &lt;a href=&quot;http://www.buytourismonline.com/eventi/liberare-cultura/&quot;&gt;panel al BTO dal titolo “Da Winckelmann agli Squallor: liberare, dissacrare, riusare, ricontestualizzare la cultura, i luoghi e le opere”&lt;/a&gt;. Qui ci sono le &lt;a href=&quot;http://www.osd.tools/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;slide dell’incontro&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il 2 dicembre 2015 abbiamo tenuto un &lt;a href=&quot;http://www.buytourismonline.com/eventi/liberare-cultura/&quot;&gt;panel al BTO dal titolo “Da Winckelmann agli Squallor: liberare, dissacrare, riusare, ricontestualizzare la cultura, i luoghi e le opere”&lt;/a&gt;. Qui ci sono le &lt;a href=&quot;http://osd.tools/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;slide dell’incontro&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;antefatto&quot;&gt;Antefatto&lt;/h2&gt;
 &lt;p&gt;Un anno e mezzo fa il mio fratello intellettuale Alfonso (molto più sapiente di me) mi coinvolse in un progetto che si chiamava “&lt;a href=&quot;http://www.slideshare.net/ValentinaGrasso/ardomino-geneva-okcon&quot;&gt;Ardomino&lt;/a&gt;”. Venni coinvolto dopo l’&lt;a href=&quot;http://www.zdnet.com/article/open-data-vs-the-flood-how-high-tech-is-helping-venice-deal-with-high-tides/&quot;&gt;esperienza&lt;/a&gt; #&lt;a href=&quot;http://www.wired.it/economia/start-up/2014/01/17/venezia-open-data-acqua-alta/&quot;&gt;acqualta&lt;/a&gt; ora conclusa con successo: &lt;a href=&quot;http://dati.venezia.it/?q=content/icpsm-dati-meteomarini-laguna-e-litorale-veneziano&quot;&gt;i dati ci sono e scorrono&lt;/a&gt;.&lt;/p&gt;
@@ -522,7 +512,7 @@ La soglia di attenzione ai contenuti si è abbassata tragicamente (per info rivo
 &lt;h2 id=&quot;i-dati-i-luoghi-gli-oggetti-e-le-persone&quot;&gt;I dati, i luoghi, gli oggetti e le persone&lt;/h2&gt;
 &lt;p&gt;Con &lt;a href=&quot;http://www.archeostickers.com/pages/istruzioni/&quot;&gt;archeostickers&lt;/a&gt; abbiamo creato un rendering iconologico di dati portandoli ad essere pattern di relazioni tra persone (abilitandole anche al riuso dei pattern stessi).&lt;/p&gt;
 
-&lt;p&gt;Ora è tempo di PorcellinoBot, il primo esempio di &lt;a href=&quot;http://www.osd.tools/datastickers&quot;&gt;Datastickers&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ora è tempo di PorcellinoBot, il primo esempio di &lt;a href=&quot;http://osd.tools/datastickers&quot;&gt;Datastickers&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;PorcellinoBot sfrutta la webchat di Telegram per renderizzare dati climatici attraverso un simbolo di Firenze come il Porcellino nella Loggia del Mercato Nuovo.&lt;/p&gt;
 
@@ -570,20 +560,20 @@ Con il modello che proponiamo la lotta non è più una ricerca ossessiva del van
  
  <entry>
    <title>Da Winckelmann agli Squallor</title>
-   <link href="http://www.osd.tools/2015/12/02/S-Da-Winckelmann-agli-Squallor.html"/>
+   <link href="http://osd.tools/2015/12/02/Da-Winckelmann-agli-Squallor.html"/>
    <updated>2015-12-02T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2015/12/02/S-Da-Winckelmann-agli-Squallor</id>
+   <id>http://osd.tools/2015/12/02/Da-Winckelmann-agli-Squallor</id>
    <author>luca</author>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.osd.tools/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;&lt;img src=&quot;http://www.osd.tools/assets/img/keynote/Da-Winckelmann-agli-Squallor.png&quot; alt=&quot;Copertina Da Winckelmann agli Squallor&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://www.osd.tools/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;Da Winckelmann agli Squallor&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://osd.tools/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;&lt;img src=&quot;http://osd.tools/assets/img/keynote/Da-Winckelmann-agli-Squallor.png&quot; alt=&quot;Copertina Da Winckelmann agli Squallor&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://osd.tools/keynote/20151202-BTO-Winckelmann-Squallor/#/&quot;&gt;Da Winckelmann agli Squallor&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Il grande potenziale dei dati geografici liberi e partecipativi di OpenstreetMap</title>
-   <link href="http://www.osd.tools/2015/11/22/P-riuso-openstreetmap-biancalana-sabatini.html"/>
+   <link href="http://osd.tools/2015/11/22/riuso-openstreetmap-biancalana-sabatini.html"/>
    <updated>2015-11-22T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2015/11/22/P-riuso-openstreetmap-biancalana-sabatini</id>
+   <id>http://osd.tools/2015/11/22/riuso-openstreetmap-biancalana-sabatini</id>
    <author>Alessio Biancalana, Stefano Sabatini</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/il-grande-potenziale-dei-dati-geografici-liberi-e-partecipativi-di-openstreetmap-75a856485173#.kyv421n5o&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -618,9 +608,9 @@ Con il modello che proponiamo la lotta non è più una ricerca ossessiva del van
  
  <entry>
    <title>Scuola digitale: Come possiamo fare innovazione in classe?</title>
-   <link href="http://www.osd.tools/2015/11/01/P-scuola-digitale.html"/>
+   <link href="http://osd.tools/2015/11/01/scuola-digitale.html"/>
    <updated>2015-11-01T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2015/11/01/P-scuola-digitale</id>
+   <id>http://osd.tools/2015/11/01/scuola-digitale</id>
    <author></author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/italia/il-metodo-la-curiosit%C3%A0-e-la-produzione-la-scuola-che-sar%C3%A0-a16b94cf9ece#.ii428lspg&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -720,9 +710,9 @@ Un po’ di tempo fa parlavo con Chiara Ciociola che segue il progetto &lt;a hre
  
  <entry>
    <title>archeostickers dalla zingarata alla professione</title>
-   <link href="http://www.osd.tools/2015/09/23/P-archeosticker.html"/>
+   <link href="http://osd.tools/2015/09/23/archeosticker.html"/>
    <updated>2015-09-23T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/09/23/P-archeosticker</id>
+   <id>http://osd.tools/2015/09/23/archeosticker</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/archeostickers-4a16f0f76b0c#.7lakhgbtv&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -751,9 +741,9 @@ Un po’ di tempo fa parlavo con Chiara Ciociola che segue il progetto &lt;a hre
  
  <entry>
    <title>L’eterno ritorno del riuso, meme e gif nel loop cognitivo e zingarate</title>
-   <link href="http://www.osd.tools/2015/09/21/P-eterno-riuso-meme.html"/>
+   <link href="http://osd.tools/2015/09/21/eterno-riuso-meme.html"/>
    <updated>2015-09-21T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/09/21/P-eterno-riuso-meme</id>
+   <id>http://osd.tools/2015/09/21/eterno-riuso-meme</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/l-eterno-ritorno-del-riuso-c74dd2c3d04b#.5gfi4kioo&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -826,9 +816,9 @@ Per un corretto inquadramento del concetto si consiglia la visione di questo pro
  
  <entry>
    <title>Condividete e Godetevi la vita (con il riuso)</title>
-   <link href="http://www.osd.tools/2015/09/15/S-condividete-godetevi-la-vita.html"/>
+   <link href="http://osd.tools/2015/09/15/condividete-godetevi-la-vita.html"/>
    <updated>2015-09-15T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/09/15/S-condividete-godetevi-la-vita</id>
+   <id>http://osd.tools/2015/09/15/condividete-godetevi-la-vita</id>
    <author>luca</author>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/9VJQxA1n8VHJSH&quot; width=&quot;595px&quot; height=&quot;485px&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;yes&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt; &lt;/iframe&gt;
 
@@ -846,9 +836,9 @@ Per un corretto inquadramento del concetto si consiglia la visione di questo pro
  
  <entry>
    <title>La riproduzione universale dei documenti d’archivio</title>
-   <link href="http://www.osd.tools/2015/09/13/P-La-riproduzione-universale-docoumenti.html"/>
+   <link href="http://osd.tools/2015/09/13/La-riproduzione-universale-documenti.html"/>
    <updated>2015-09-13T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/09/13/P-La-riproduzione-universale-docoumenti</id>
+   <id>http://osd.tools/2015/09/13/La-riproduzione-universale-documenti</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/la-riproduzione-universale-dei-documenti-d-archivio-43b9372b898e&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -896,9 +886,9 @@ Una gabella. Come spiegano nei loro documenti Mirco Modolo e gli altri animatori
  
  <entry>
    <title>Sulla sospensione del giudizio</title>
-   <link href="http://www.osd.tools/2015/09/12/P-Sulla-sospensione-del-giudizio.html"/>
+   <link href="http://osd.tools/2015/09/12/Sulla-sospensione-del-giudizio.html"/>
    <updated>2015-09-12T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/09/12/P-Sulla-sospensione-del-giudizio</id>
+   <id>http://osd.tools/2015/09/12/Sulla-sospensione-del-giudizio</id>
    <author>andrea</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/sulla-sospensione-del-giudizio-cf4ddcb3ae95&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -939,9 +929,9 @@ La contrapposizione tra diversi fatti e pensieri è una valutazione di elementi 
  
  <entry>
    <title>Il dio geloso dell'opensource</title>
-   <link href="http://www.osd.tools/2015/08/26/P-il-dio-geloso.html"/>
+   <link href="http://osd.tools/2015/08/26/il-dio-geloso.html"/>
    <updated>2015-08-26T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/08/26/P-il-dio-geloso</id>
+   <id>http://osd.tools/2015/08/26/il-dio-geloso</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/il-dio-geloso-dell-opensource-b86a0884e8b9&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -1016,9 +1006,9 @@ La contrapposizione tra diversi fatti e pensieri è una valutazione di elementi 
  
  <entry>
    <title>degli opendata che te ne fai... se un progetto non ce l'hai?</title>
-   <link href="http://www.osd.tools/2015/07/14/S-opendata-che-te-ne-fai.html"/>
+   <link href="http://osd.tools/2015/07/14/opendata-che-te-ne-fai.html"/>
    <updated>2015-07-14T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/07/14/S-opendata-che-te-ne-fai</id>
+   <id>http://osd.tools/2015/07/14/opendata-che-te-ne-fai</id>
    <author>luca</author>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/FdKqLuQYyleuTz&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/LucaCorsato/2015-07-14-open-school-of-archaeological-data&quot; title=&quot;degli opendata che te ne fai... se un progetto non ce l&amp;#x27;hai?&quot; target=&quot;_blank&quot;&gt;degli opendata che te ne fai... se un progetto non ce l&amp;#x27;hai?&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/LucaCorsato&quot; target=&quot;_blank&quot;&gt;luca corsato&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
@@ -1027,9 +1017,9 @@ La contrapposizione tra diversi fatti e pensieri è una valutazione di elementi 
  
  <entry>
    <title>Announcing GitTorrent A Decentralized GitHub</title>
-   <link href="http://www.osd.tools/2015/05/29/L-Gittorrent.html"/>
+   <link href="http://osd.tools/2015/05/29/Gittorrent.html"/>
    <updated>2015-05-29T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/05/29/L-Gittorrent</id>
+   <id>http://osd.tools/2015/05/29/Gittorrent</id>
    <author></author>
    <content type="html">&lt;p&gt;from blog by &lt;a href=&quot;http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/&quot;&gt;Chris Ball&lt;/a&gt;:&lt;/p&gt;
 
@@ -1045,9 +1035,9 @@ La contrapposizione tra diversi fatti e pensieri è una valutazione di elementi 
  
  <entry>
    <title>hackijf15 Wikipedia e Giornalismo</title>
-   <link href="http://www.osd.tools/2015/04/14/P-wikipedia-giornalismo.html"/>
+   <link href="http://osd.tools/2015/04/14/wikipedia-giornalismo.html"/>
    <updated>2015-04-14T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/04/14/P-wikipedia-giornalismo</id>
+   <id>http://osd.tools/2015/04/14/wikipedia-giornalismo</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/hackijf15-wikipedia-e-il-giornalismo-2143ccf2384f&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -1098,10 +1088,10 @@ a presto&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Il codice è arte | l’arte è codice</title>
-   <link href="http://www.osd.tools/2015/04/08/P-il-codice-arte.html"/>
+   <title>Il codice è arte l’arte è codice</title>
+   <link href="http://osd.tools/2015/04/08/il-codice-arte.html"/>
    <updated>2015-04-08T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/04/08/P-il-codice-arte</id>
+   <id>http://osd.tools/2015/04/08/il-codice-arte</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/il-codice-%C3%A8-arte-l-arte-%C3%A8-codice-a8cf5140f144&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -1153,9 +1143,9 @@ Più mi addentravo nel codice e meno voglia avevo di uscirne&lt;/p&gt;
  
  <entry>
    <title>i dati, il tempo e gli strati</title>
-   <link href="http://www.osd.tools/2015/04/04/P-dati-e-tempo.html"/>
+   <link href="http://osd.tools/2015/04/04/dati-e-tempo.html"/>
    <updated>2015-04-04T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/04/04/P-dati-e-tempo</id>
+   <id>http://osd.tools/2015/04/04/dati-e-tempo</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/i-dati-il-tempo-e-gli-strati-773ab4e2651&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -1187,10 +1177,74 @@ in queste quattro coordinate si pone il “mattone conoscitivo” la cui azione 
  </entry>
  
  <entry>
-   <title>Statuto opensensorsdata srl</title>
-   <link href="http://www.osd.tools/2015/03/30/statuto-osd.html"/>
+   <title>conversazione sui dati business e della conoscenza</title>
+   <link href="http://osd.tools/2015/03/30/web-infrastrutture-dati-conversazione.html"/>
    <updated>2015-03-30T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/03/30/statuto-osd</id>
+   <id>http://osd.tools/2015/03/30/web-infrastrutture-dati-conversazione</id>
+   <author>luca</author>
+   <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/web-come-infrastruttura-conversazione-sui-dati-business-della-conoscenza-c6e8eb5a5ee&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally published on December 30, 2012&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;11 ottobre 2012. Biblioteca Marciana.&lt;/p&gt;
+
+&lt;p&gt;Presentazione Venipedìa.it.&lt;/p&gt;
+
+&lt;p&gt;L’enciclopedia di Venezia.&lt;/p&gt;
+
+&lt;p&gt;Non entro nell’analisi di quello che è ora, perchè appena aperto un sito e un progetto è scorretto giudicarlo. Ho fatto una livetweet e potete leggere le impressioni a caldo; in conclusione&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/lucacorsato/status/256431659967184896&lt;/p&gt;
+
+&lt;p&gt;Lasciamo stare quindi il progetto in sè e analizziamo il metodo: parlare di enciclopedia nel 2012 obbliga riferirsi a wikipedia e a tutto il suo ecosistema. Proporre un’enciclopedia su processi produttivi&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/lucacorsato/status/256419562000629762&lt;/p&gt;
+
+&lt;p&gt;non solo appare obsoleto e lento, ma anche rischioso: quanta sapienza deve essere raccolta nel comitato scientifico per far fronte al controllo ed alla “validazione”. C’è spazio per revisioni, aggiornamenti? ha senso parlare nel 2012 di “comitato scientifico”?&lt;/p&gt;
+
+&lt;p&gt;Mentre mi chiedevo questo ho pensato al confronto tra le voci:&lt;/p&gt;
+
+&lt;p&gt;Campo San Giovanni e Paolo: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://venipedia.it/campi/campo-santi-giovanni-e-paolo&quot;&gt;Venipedìa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://it.wikipedia.org/wiki/Campo_Santi_Giovanni_e_Paolo&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;all’apparenza sembra che Venipedìa sia più fornita, ma se parliamo di numero di link viene schiacciata. Se poi aggiungiamo la diversità di licenze:&lt;/p&gt;
+
+&lt;p&gt;venipedìa: CC-By-NC-ND&lt;/p&gt;
+
+&lt;p&gt;wikipedia: CC-By-SA&lt;/p&gt;
+
+&lt;p&gt;significa che se devo prendere un’informazione e usarla (per qualsiasi scopo, anche commerciale) non prenderò MAI in considerazione venipedìa.&lt;/p&gt;
+
+&lt;p&gt;Quindi, per farla breve, un po’ di consigli/considerazioni sul perchè anche un’impresa privata ha tutto da guadagnarci ad usare piattaforme wiki:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;il trasferimento delle proprie basi conoscitive permette una maggiore divulgazione del proprio metodo di ricerca e acquisizione rendendolo conosciuto: maggiore è la divulgazione, maggiore è la sua tendenza a diventare standard&lt;/li&gt;
+  &lt;li&gt;l’indicizzazione dei dati su wiki* è potentissima e permette una tracciatura dei dati e l’analisi della loro derivazione&lt;/li&gt;
+  &lt;li&gt;strumenti di web semantico sono già predisposti per estrarre dati da wiki* riducendo di molto eventuali creazioni di applicazioni basate sulla propria base dati&lt;/li&gt;
+  &lt;li&gt;permette un più facile crowdsourcing perchè la maggiore reperibilità dei dati e l’altissimo livello di indicizzazione li pone in cima alle ricerche dei motori di ricerca&lt;/li&gt;
+  &lt;li&gt;la licenza di wiki*, permettendone l’uso commerciale significa che da quei dati potranno derivare dei prodotti magari concorrenti; tali prodotti però saranno sempre generati dallo stesso ecosistema: più grande è l’ecosistema, più facile la collaborazione piuttosto che la concorrenza (Apple e Google insegnano su entrambi i versanti di metodo di sviluppo)&lt;/li&gt;
+  &lt;li&gt;se l’impresa è basata su distribuzione di conoscenza, importare e “curare” le voci di wiki* che interessano è non solo:&lt;/li&gt;
+  &lt;li&gt;una riduzione della filiera produttiva (voci lavorate o semi lavorate)&lt;/li&gt;
+  &lt;li&gt;un contributo reciproco con gli stessi “clienti” e/o “implementatori” (riduzione della raccolta dati)&lt;/li&gt;
+  &lt;li&gt;concentrazione dello sviluppo nella selezione e validazione dei dati unita ad una personalizzazione di visualizzazione/consultazione&lt;/li&gt;
+  &lt;li&gt;straordinaria operazione di marketing implicito (il don’t be evil di google) ed esplicito (Invertising di Iabichino insegna, Minimarketing di Diegoli conferma): è la conversazione a fare il successo!&lt;/li&gt;
+  &lt;li&gt;Già dal 2014 la UE obbligherà al rilascio come opendata i risultati di ricerche scientifiche sostenute con fondi europei: quanto manca perchè questo venga esteso a qualsiasi prodotto ottenuto con fondi pubblici?&lt;/li&gt;
+  &lt;li&gt;Questa, di fatto, è openknowledge; inserirla nel proprio modello di business significa trasferire la gestione “settore ricerca e sviluppo” dai “capicentro” (cit. Michele Vianello) alle persone che potranno essere sviluppatori, ricecatori, clienti, evangelist…&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Questo è il futuro anteriore (nel senso che è sempre esistito): change or die&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Statuto opensensorsdata srl</title>
+   <link href="http://osd.tools/2015/03/30/statuto-osd.html"/>
+   <updated>2015-03-30T00:00:00+02:00</updated>
+   <id>http://osd.tools/2015/03/30/statuto-osd</id>
    <author></author>
    <content type="html">&lt;p&gt;Repertorio n. &lt;strong&gt;34845&lt;/strong&gt; Raccolta n. &lt;strong&gt;27490&lt;/strong&gt;&lt;/p&gt;
 
@@ -1644,74 +1698,10 @@ in queste quattro coordinate si pone il “mattone conoscitivo” la cui azione 
  </entry>
  
  <entry>
-   <title>Web come infrastruttura + conversazione sui dati = business della conoscenza</title>
-   <link href="http://www.osd.tools/2015/03/30/P-web-infrastrutture-dati-conversazione.html"/>
-   <updated>2015-03-30T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/03/30/P-web-infrastrutture-dati-conversazione</id>
-   <author>luca</author>
-   <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/web-come-infrastruttura-conversazione-sui-dati-business-della-conoscenza-c6e8eb5a5ee&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Originally published on December 30, 2012&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;11 ottobre 2012. Biblioteca Marciana.&lt;/p&gt;
-
-&lt;p&gt;Presentazione Venipedìa.it.&lt;/p&gt;
-
-&lt;p&gt;L’enciclopedia di Venezia.&lt;/p&gt;
-
-&lt;p&gt;Non entro nell’analisi di quello che è ora, perchè appena aperto un sito e un progetto è scorretto giudicarlo. Ho fatto una livetweet e potete leggere le impressioni a caldo; in conclusione&lt;/p&gt;
-
-&lt;p&gt;https://twitter.com/lucacorsato/status/256431659967184896&lt;/p&gt;
-
-&lt;p&gt;Lasciamo stare quindi il progetto in sè e analizziamo il metodo: parlare di enciclopedia nel 2012 obbliga riferirsi a wikipedia e a tutto il suo ecosistema. Proporre un’enciclopedia su processi produttivi&lt;/p&gt;
-
-&lt;p&gt;https://twitter.com/lucacorsato/status/256419562000629762&lt;/p&gt;
-
-&lt;p&gt;non solo appare obsoleto e lento, ma anche rischioso: quanta sapienza deve essere raccolta nel comitato scientifico per far fronte al controllo ed alla “validazione”. C’è spazio per revisioni, aggiornamenti? ha senso parlare nel 2012 di “comitato scientifico”?&lt;/p&gt;
-
-&lt;p&gt;Mentre mi chiedevo questo ho pensato al confronto tra le voci:&lt;/p&gt;
-
-&lt;p&gt;Campo San Giovanni e Paolo: &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://venipedia.it/campi/campo-santi-giovanni-e-paolo&quot;&gt;Venipedìa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://it.wikipedia.org/wiki/Campo_Santi_Giovanni_e_Paolo&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;all’apparenza sembra che Venipedìa sia più fornita, ma se parliamo di numero di link viene schiacciata. Se poi aggiungiamo la diversità di licenze:&lt;/p&gt;
-
-&lt;p&gt;venipedìa: CC-By-NC-ND&lt;/p&gt;
-
-&lt;p&gt;wikipedia: CC-By-SA&lt;/p&gt;
-
-&lt;p&gt;significa che se devo prendere un’informazione e usarla (per qualsiasi scopo, anche commerciale) non prenderò MAI in considerazione venipedìa.&lt;/p&gt;
-
-&lt;p&gt;Quindi, per farla breve, un po’ di consigli/considerazioni sul perchè anche un’impresa privata ha tutto da guadagnarci ad usare piattaforme wiki:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;il trasferimento delle proprie basi conoscitive permette una maggiore divulgazione del proprio metodo di ricerca e acquisizione rendendolo conosciuto: maggiore è la divulgazione, maggiore è la sua tendenza a diventare standard&lt;/li&gt;
-  &lt;li&gt;l’indicizzazione dei dati su wiki* è potentissima e permette una tracciatura dei dati e l’analisi della loro derivazione&lt;/li&gt;
-  &lt;li&gt;strumenti di web semantico sono già predisposti per estrarre dati da wiki* riducendo di molto eventuali creazioni di applicazioni basate sulla propria base dati&lt;/li&gt;
-  &lt;li&gt;permette un più facile crowdsourcing perchè la maggiore reperibilità dei dati e l’altissimo livello di indicizzazione li pone in cima alle ricerche dei motori di ricerca&lt;/li&gt;
-  &lt;li&gt;la licenza di wiki*, permettendone l’uso commerciale significa che da quei dati potranno derivare dei prodotti magari concorrenti; tali prodotti però saranno sempre generati dallo stesso ecosistema: più grande è l’ecosistema, più facile la collaborazione piuttosto che la concorrenza (Apple e Google insegnano su entrambi i versanti di metodo di sviluppo)&lt;/li&gt;
-  &lt;li&gt;se l’impresa è basata su distribuzione di conoscenza, importare e “curare” le voci di wiki* che interessano è non solo:&lt;/li&gt;
-  &lt;li&gt;una riduzione della filiera produttiva (voci lavorate o semi lavorate)&lt;/li&gt;
-  &lt;li&gt;un contributo reciproco con gli stessi “clienti” e/o “implementatori” (riduzione della raccolta dati)&lt;/li&gt;
-  &lt;li&gt;concentrazione dello sviluppo nella selezione e validazione dei dati unita ad una personalizzazione di visualizzazione/consultazione&lt;/li&gt;
-  &lt;li&gt;straordinaria operazione di marketing implicito (il don’t be evil di google) ed esplicito (Invertising di Iabichino insegna, Minimarketing di Diegoli conferma): è la conversazione a fare il successo!&lt;/li&gt;
-  &lt;li&gt;Già dal 2014 la UE obbligherà al rilascio come opendata i risultati di ricerche scientifiche sostenute con fondi europei: quanto manca perchè questo venga esteso a qualsiasi prodotto ottenuto con fondi pubblici?&lt;/li&gt;
-  &lt;li&gt;Questa, di fatto, è openknowledge; inserirla nel proprio modello di business significa trasferire la gestione “settore ricerca e sviluppo” dai “capicentro” (cit. Michele Vianello) alle persone che potranno essere sviluppatori, ricecatori, clienti, evangelist…&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Questo è il futuro anteriore (nel senso che è sempre esistito): change or die&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Piattaforme wiki come somma di openknowledge e crowdsourcing</title>
-   <link href="http://www.osd.tools/2015/03/30/P-piattaforme-wiki.html"/>
+   <link href="http://osd.tools/2015/03/30/piattaforme-wiki.html"/>
    <updated>2015-03-30T00:00:00+02:00</updated>
-   <id>http://www.osd.tools/2015/03/30/P-piattaforme-wiki</id>
+   <id>http://osd.tools/2015/03/30/piattaforme-wiki</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/piattaforme-wiki-come-somma-di-openknowledge-e-crowdsourcing-d5818e21cffd&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -1754,9 +1744,9 @@ in queste quattro coordinate si pone il “mattone conoscitivo” la cui azione 
  
  <entry>
    <title>#SOD15 è finito viva i dati</title>
-   <link href="http://www.osd.tools/2015/03/29/P-sod15-finito-viva-dati.html"/>
+   <link href="http://osd.tools/2015/03/29/sod15-finito-viva-dati.html"/>
    <updated>2015-03-29T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2015/03/29/P-sod15-finito-viva-dati</id>
+   <id>http://osd.tools/2015/03/29/sod15-finito-viva-dati</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/sod15-%C3%A8-finito-viva-i-dati-a9c2f764a75c&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -1798,9 +1788,9 @@ Ci mettiamo nella condizione di cavie per vedere se in questi anni i pensieri e 
  
  <entry>
    <title>Ci stiamo connettendo</title>
-   <link href="http://www.osd.tools/2015/02/20/P-ci-stiamo-connettendo.html"/>
+   <link href="http://osd.tools/2015/02/20/ci-stiamo-connettendo.html"/>
    <updated>2015-02-20T00:00:00+01:00</updated>
-   <id>http://www.osd.tools/2015/02/20/P-ci-stiamo-connettendo</id>
+   <id>http://osd.tools/2015/02/20/ci-stiamo-connettendo</id>
    <author>luca</author>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/opensensorsdata-review/ci-stiamo-connettendo-e3683696e115&quot;&gt;&lt;i class=&quot;fa fa-medium&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; pubblicato in &lt;strong&gt;osd review&lt;/strong&gt; su Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Piattaforme wiki come somma di openknowledge e crowdsourcing'
+title: Piattaforme wiki come somma di openknowledge e crowdsourcing
 ref: piattaformewiki
 date: 2015-03-30
 author: luca
