@@ -1,7 +1,7 @@
 ---
 layout: tags
 title: Cerca
-permalink: /search/
+permalink: /tags/
 ref: tags
 lang: it
 ---

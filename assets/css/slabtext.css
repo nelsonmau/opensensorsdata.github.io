@@ -10,8 +10,8 @@
   font-size: 1em !important;
   letter-spacing: inherit !important;
   word-spacing: inherit !important;
-  *letter-spacing: normal !important;
-  *word-spacing: normal !important;
+  /*letter-spacing: normal !important;
+  *word-spacing: normal !important;*/
 }
 
 .slabtextdone .slabtext {

@@ -26,6 +26,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 $linkColor: #002fa7;
 $linkColorHover: #ea5480;
 
+// sidebar
+$sbColor: #002fa7;
+$sbColorHover: #ea5480;
+
 
 // Width of the content area
 $content-width:    100%;
@@ -57,5 +61,6 @@ $on-laptop:        800px;
         "syntax-highlighting",
         "trigger",
         "share-page",
-        "menu"
+        "search",
+        "sidebar"
 ;
